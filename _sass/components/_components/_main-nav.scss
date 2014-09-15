@@ -54,8 +54,8 @@ main, .main-header {
         -webkit-transform: translate(220px, 0);
 
         @include wide {
-            transform: translate(0, 0);
-            -webkit-transform: translate(0, 0);
+            transform: none;
+            -webkit-transform: none;
         }
     }
 
