@@ -11,10 +11,8 @@ html, body {
     padding: 20px 30px;
     background-color: nth($paletteRed, 10);
     position: fixed;
-    @include wide {
-        position: static;
-    }
-    z-index: 1;
+
+    z-index: 2;
     width: 100%;
     box-sizing: border-box;
     @extend .clear;
@@ -34,7 +32,7 @@ html, body {
 main {
     background: orange;
     position: absolute;
-    z-index: 2;
+
     box-sizing: border-box;
     top: 70px; right: 0; bottom: 0; left: 0;
     overflow-y: scroll;
@@ -44,26 +42,44 @@ main {
     }
 }
 
-.show-menu main {
-    transform: translate(220px, 0);
-    -webkit-transform: translate(220px, 0);
+main, .main-header {
+    -webkit-transition: -webkit-transform 0.3s ease-out;
+    transition: transform 0.3s ease-out;
+}
 
-    @include wide {
-        transform: translate(0, 0);
-        -webkit-transform: translate(0, 0);
+.show-menu  {
+    main, .main-header {
+
+        transform: translate(220px, 0);
+        -webkit-transform: translate(220px, 0);
+
+        @include wide {
+            transform: translate(0, 0);
+            -webkit-transform: translate(0, 0);
+        }
     }
+
+
+
 }
 
 
 .main-nav {
     @extend .clear;
-    position: absolute;
-    top: 70px;
+    position: fixed;
+    /* position: absolute; */
+    top: 0; left: 0;
+    width: 220px;
+
 /*     top: 69px; right: 0; bottom: 0; left: 0;
- */    z-index: -1;
+ */
 
     @include wide {
-        position: static;
+        width: auto;
+        left: auto;
+        top: 20px;
+        right: 20px;
+        z-index: 2;
     }
 
     ul {
