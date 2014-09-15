@@ -58,7 +58,7 @@
                 document.body.classList.toggle('show-menu');
             });
             window.addEventListener('orientationchange', function() {
-                alert('orientation changed', window.orientation);
+                document.body.classList.remove('show-menu');
             })
         })(document.querySelector('.menu-toggle'));
     </script>
