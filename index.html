@@ -57,6 +57,9 @@
             button.addEventListener('click', function() {
                 document.body.classList.toggle('show-menu');
             });
+            window.addEventListener('orientationchange', function() {
+                alert('orientation changed', window.orientation);
+            })
         })(document.querySelector('.menu-toggle'));
     </script>
 

@@ -1,9 +1,14 @@
 html, body {
     height: 100%;
-    width: 100%;
+    width: 100%;    
+}
+
+body {
     overflow: hidden;
     @include wide {
         overflow: auto;
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
     }
 }
 
