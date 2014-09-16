@@ -15,7 +15,7 @@
 @import '_palette';
 
 // Modules
-/* @import '_modules/_highlight';
+@import '_modules/_highlight';
 @import '_modules/_editorial-header';
 @import '_modules/_summary-header';
 @import '_modules/_related-guides';
@@ -25,11 +25,12 @@
 @import '_modules/_page-header';
 @import '_modules/_featured-section';
 @import '_modules/_featured-spotlight';
+@import '_modules/_plakat';
 @import '_modules/_quote';
 @import '_modules/_article-nav';
 @import '_modules/_did-you-know';
 @import '_modules/_toc';
-@import '_modules/_next-lessons'; */
+@import '_modules/_next-lessons';
 
 // Components
 @import '_components/_grid';
