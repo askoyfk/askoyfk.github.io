@@ -417,7 +417,7 @@ a, a:visited, a:hover {
     background-position: calc(50% - 30px) 50%;
     background-size: auto 50px;
 
-    @include wide {
+    @include medium {
         padding-left: 120px;
         text-indent: 0;
         background-position: 0 50%;
