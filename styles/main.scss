@@ -65,6 +65,7 @@ body.open {
 
 
 .app-bar.open,
+.app-bar.open ~ .plakat,
 .app-bar.open ~ main {
   -webkit-transform: translate(250px, 0);
           transform: translate(250px, 0);
@@ -174,6 +175,7 @@ ol {
 
 .app-bar,
 .navdrawer-container.opened,
+.plakat,
 main {
   -webkit-transition: -webkit-transform 0.3s ease-out;
           transition: transform 0.3s ease-out;
@@ -230,10 +232,15 @@ main {
   background-color: rgba(255, 255, 255, 0.4);
 }
 
+.plakat {
+    padding: 60px 16px 16px 16px;
+    /* Height of the header */
+}
+
 main {
   margin: 0 auto;
-  /* Height of the header */
-  padding: 60px 16px 16px 16px;
+
+  padding: 16px;
   min-height: 100%;
 }
 
@@ -244,6 +251,7 @@ main {
   }
 
   .app-bar.open,
+  .app-bar.open ~ .plakat,
   .app-bar.open ~ main {
     -webkit-transform: translate(0px, 0);
             transform: translate(0px, 0);
@@ -312,6 +320,10 @@ main {
 
   .navdrawer-container ul li {
     border: none;
+  }
+
+  .plakat {
+      padding-top: 16px;
   }
 
   main {
