@@ -83,8 +83,7 @@ body.open {
   max-width: none;
   font-weight: 300;
   display: initial;
-  background: url(../images/logo.png) 0 50% no-repeat;
-  padding-left: 220px;
+
 }
 
 .app-bar .logo a {
@@ -408,3 +407,32 @@ a, a:visited, a:hover {
 }
 
 // Misc
+
+
+
+.app-bar .logo {
+    background: url(../images/logo.png) 0 50% no-repeat;
+    padding-left: 220px;
+    text-indent: -9000px;
+    background-position: calc(50% - 30px) 50%;
+    background-size: auto 50px;
+
+    @include wide {
+        padding-left: 120px;
+        text-indent: 0;
+        background-position: 0 50%;
+    }
+
+    @include huge {
+        background-size: auto;
+        background-position: 0 50%;
+    }
+
+    @media all and (min-width: 990px) {
+        & {
+            background-size: auto;
+            padding-left: 220px;
+        }
+    }
+
+}

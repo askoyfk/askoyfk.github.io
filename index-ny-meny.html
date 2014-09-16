@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Askøy Fotballklubb</title>
+
+    <!-- Page styles -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Bitter:400,700,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="styles/main.css">
+  </head>
+  <body>
+
+    <header class="main-header">
+
+        <button class="menu-toggle">X</button>
+        <h1><i class="logo"></i>Askøy Fotballklubb</h1>
+
+    </header>
+
+    <nav class="main-nav">
+        <ul>
+            <li><a href="#">Klubben</a></li>
+            <li><a href="#">Våre lag</a></li>
+            <li><a href="#">Kamper</a></li>
+            <li><a href="#">Anlegg</a></li>
+            <li><a href="#">Arrangement</a></li>
+        </ul>
+    </nav>
+
+
+    <main>
+      <h1 id="hello">Hello!</h1>
+      <p>Welcome to Web Starter Kit.</p>
+
+      <h1 id="hello">Hello!</h1>
+      <p>Welcome to Web Starter Kit.</p>
+      <h1 id="hello">Hello!</h1>
+      <p>Welcome to Web Starter Kit.</p>
+
+      <h1 id="hello">Hello!</h1>
+      <p>Welcome to Web Starter Kit.</p>
+
+      <h1 id="hello">Hello!</h1>
+      <p>Welcome to Web Starter Kit.</p>
+
+      <h2 id="get-started">Get Started.</h2>
+      <p>Read how to <a href="http://developers.google.com/web/starter-kit">Get Started</a> or check out the <a href="styleguide.html">Style Guide</a>.</p>
+    </main>
+
+    <script>
+        (function(button) {
+            button.addEventListener('click', function() {
+                document.body.classList.toggle('show-menu');
+            });
+            window.addEventListener('orientationchange', function() {
+                document.body.classList.remove('show-menu');
+            })
+        })(document.querySelector('.menu-toggle'));
+    </script>
+
+
+  </body>
+</html>
