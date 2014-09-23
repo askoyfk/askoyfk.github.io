@@ -1,5 +1,5 @@
-Askøy Fotballklubb websider oversikt
-====================================
+Askøy Fotballklubb websider
+===========================
 
 
 Askøy Fotballklubb bruker Github, som er et sosialt kodenettverk. Dette åpner for at alle som vil kan bidra ved å opprette en github-konto. En github-konto er i utgangspunktet gratis.
