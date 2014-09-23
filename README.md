@@ -55,6 +55,7 @@ Jekyll bruker også Markdown til tekstformattering.
 - [ ] Tine Fotballskole
 - [ ] Nobi Julecup
 - [ ] Minidagen
+- [ ] AV Cup
 
 ### Football-elements
 - [ ] Hva ønsker vi å vise?
