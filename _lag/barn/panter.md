@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Panter'
     kontaktperson: 'Vidar Skjønborg'
     fiksid: null
+slug: panter
 ---

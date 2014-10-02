@@ -9,4 +9,5 @@ teams:
     name: 'Askøy T-Rex'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: t-rex
 ---

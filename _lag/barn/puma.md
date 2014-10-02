@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Puma A'
     kontaktperson: 'Kristian Johannessen'
     fiksid: null
+slug: puma
 ---

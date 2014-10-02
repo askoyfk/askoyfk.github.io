@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Røyskatt B'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: royskatt
 ---

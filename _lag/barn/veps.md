@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Veps'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: veps
 ---

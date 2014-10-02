@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Villkatt'
     kontaktperson: 'Ove Sture'
     fiksid: null
+slug: villkatt
 ---

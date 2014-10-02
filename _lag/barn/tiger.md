@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Tiger 07'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: tiger
 ---

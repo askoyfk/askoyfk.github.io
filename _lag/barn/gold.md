@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Gold'
     kontaktperson: 'Ole-Ivar Guleng'
     fiksid: '19566'
+slug: gold
 ---

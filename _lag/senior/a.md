@@ -9,4 +9,5 @@ teams:
     name: Askøy
     kontaktperson: 'Ketil Kleppe'
     fiksid: '666'
+slug: a
 ---

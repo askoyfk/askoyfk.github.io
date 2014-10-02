@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Safir'
     kontaktperson: 'Vidar Johannessen'
     fiksid: '21184'
+slug: safir
 ---

@@ -9,4 +9,5 @@ teams:
     name: Askøy
     kontaktperson: 'Frode Jensen'
     fiksid: '165410'
+slug: veteran
 ---

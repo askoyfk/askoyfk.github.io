@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Fiolett'
     kontaktperson: 'Ronny Nynes'
     fiksid: '20816'
+slug: fiolett
 ---

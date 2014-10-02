@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Ulv B'
     kontaktperson: 'Trond Holmedal'
     fiksid: null
+slug: ulv
 ---

@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Jaguar'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: jaguar
 ---

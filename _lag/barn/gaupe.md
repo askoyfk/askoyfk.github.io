@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Gaupe B'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: gaupe
 ---

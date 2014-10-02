@@ -17,4 +17,5 @@ teams:
     name: 'Askøy Pegasus C'
     kontaktperson: 'Frode Fjell'
     fiksid: null
+slug: pegasus
 ---

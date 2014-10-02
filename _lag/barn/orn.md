@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Ørn'
     kontaktperson: 'Willy Sture'
     fiksid: null
+slug: orn
 ---

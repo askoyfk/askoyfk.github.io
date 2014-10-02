@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Hai B'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: hai
 ---

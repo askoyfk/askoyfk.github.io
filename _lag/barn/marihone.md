@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Marihøne Rød'
     kontaktperson: 'Lisbeth Larsen'
     fiksid: null
+slug: marihone
 ---

@@ -11,12 +11,18 @@ layout: default
     {% assign segments = page.url | split: '/' %}
     {% assign collection = segments[1] %}
 
+
     <p>Dette blir en oversikt over {{ collection }} med linker videre. Design kommer når struktur er på plass.</p>
+
 
     <ul>
 
-    {% for collection in site[collection] %}
-      <li>{{ collection.title }}</li>
+
+
+    {% for item in site[collection] %}
+
+      <li>{{ item.title }}</li>
+
     {% endfor %}
 
     </ul>
