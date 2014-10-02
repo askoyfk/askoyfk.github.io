@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Cobra B'
     kontaktperson: 'Øyvind Håkon Heimli'
     fiksid: null
+slug: cobra
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: collections-list-lag
 title: Barn
 permalink: /lag/barn/
 ---

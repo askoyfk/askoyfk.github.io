@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Leopard'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: leopard
 ---

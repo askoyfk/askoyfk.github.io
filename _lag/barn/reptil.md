@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Reptil'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+slug: reptil
 ---

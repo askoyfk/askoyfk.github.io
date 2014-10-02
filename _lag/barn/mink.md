@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Mink'
     kontaktperson: 'Hallgeir Nesheim'
     fiksid: null
+slug: mink
 ---

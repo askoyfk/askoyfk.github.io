@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Azur'
     kontaktperson: 'Jarle Monsen'
     fiksid: '36315'
+slug: azur
 ---

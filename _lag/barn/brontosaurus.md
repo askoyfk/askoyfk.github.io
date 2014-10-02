@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Brontosaurus'
     kontaktperson: 'Carsten Wiegard'
     fiksid: null
+slug: brontosaurus
 ---

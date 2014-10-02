@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Turkis A'
     kontaktperson: 'Eirik Vonheim'
     fiksid: '19563'
+slug: turkis
 ---

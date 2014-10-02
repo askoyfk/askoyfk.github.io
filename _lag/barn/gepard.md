@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Gepard'
     kontaktperson: 'Ove Sture'
     fiksid: null
+slug: gepard
 ---

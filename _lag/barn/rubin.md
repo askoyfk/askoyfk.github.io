@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Rubin'
     kontaktperson: 'Monica Hanselmann'
     fiksid: '19565'
+slug: rubin
 ---

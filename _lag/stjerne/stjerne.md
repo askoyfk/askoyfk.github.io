@@ -9,4 +9,5 @@ teams:
     name: 'Askøy Stjerne'
     kontaktperson: 'Monica Solberg'
     fiksid: null
+slug: stjerne
 ---

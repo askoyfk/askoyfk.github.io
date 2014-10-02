@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Mår B'
     kontaktperson: 'Pål Bøthun'
     fiksid: null
+slug: mar
 ---

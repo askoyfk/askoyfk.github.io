@@ -13,4 +13,5 @@ teams:
     name: 'Askøy Skogmus B'
     kontaktperson: 'Olav Skogen'
     fiksid: null
+slug: skogmus
 ---
