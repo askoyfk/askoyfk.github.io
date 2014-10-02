@@ -10,3 +10,28 @@ url: "http://askoyfk.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+
+# exclude:
+#     - node_modules/test
+#
+# include:
+#     - node_modules/afk-team-pages/teams
+
+
+# Collections
+
+collections:
+    test:
+        output: true
+        permalink: /test/:path/
+    lag:
+        output: true
+        permalink: /lag/:path/
+        layout: team
+    arrangement:
+        output: true
+        permalink: /arrangement/:path/
+    baner:
+        output: true
+        permalink: /baner/:path/
