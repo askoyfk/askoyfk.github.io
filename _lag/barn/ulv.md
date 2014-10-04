@@ -3,7 +3,6 @@ title: Ulv
 layout: team
 sex: gutter
 age: 10
-category: barn
 teams:
   -
     name: 'Askøy Ulv A'
@@ -13,5 +12,9 @@ teams:
     name: 'Askøy Ulv B'
     kontaktperson: 'Trond Holmedal'
     fiksid: null
+category: barn
+subteams:
+  - A
+  - B
 slug: ulv
 ---
