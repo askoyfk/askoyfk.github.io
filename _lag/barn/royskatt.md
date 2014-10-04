@@ -3,7 +3,6 @@ title: Røyskatt
 layout: team
 sex: jenter
 age: 7
-category: barn
 teams:
   -
     name: 'Askøy Røyskatt A'
@@ -13,5 +12,9 @@ teams:
     name: 'Askøy Røyskatt B'
     kontaktperson: 'Trond Marøy'
     fiksid: null
+category: barn
+subteams:
+  - A
+  - B
 slug: royskatt
 ---

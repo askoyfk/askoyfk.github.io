@@ -3,7 +3,6 @@ title: Marihøne
 layout: team
 sex: jenter
 age: 9
-category: barn
 teams:
   -
     name: 'Askøy Marihøne Orange'
@@ -13,5 +12,9 @@ teams:
     name: 'Askøy Marihøne Rød'
     kontaktperson: 'Lisbeth Larsen'
     fiksid: null
+category: barn
+subteams:
+  - Orange
+  - Rød
 slug: marihone
 ---

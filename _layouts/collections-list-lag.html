@@ -4,7 +4,7 @@ layout: default
 
 <main>
 
-    
+
     <h1 class="post-title">{{ page.title }}</h1>
 
 
@@ -33,7 +33,12 @@ layout: default
 
     <ul>
         {% for lag in barn %}
-        <li><a href="/lag/barn/{{ lag.slug }}">{{ lag.title }} ({{ lag.sex }} {{ lag.age }} år)</a></li>
+        <li><a href="/lag/barn/{{ lag.slug }}">
+            {{ lag.title }}
+            {% unless lag.subteams == null %}
+                {{ lag.subteams | array_to_sentence_string | replace: 'and', 'og' }}
+            {% endunless %}
+            ({{ lag.sex }} {{ lag.age }} år)</a></li>
         {% endfor %}
     </ul>
 
@@ -42,7 +47,8 @@ layout: default
 
     <ul>
         {% for lag in ungdom %}
-        <li><a href="/lag/ungdom/{{ lag.slug }}">{{ lag.title }} ({{ lag.sex }} {{ lag.age }} år)</a></li>
+        <li><a href="/lag/ungdom/{{ lag.slug }}">{{ lag.title }}
+            ({{ lag.sex }} {{ lag.age }} år)</a></li>
         {% endfor %}
     </ul>
 
