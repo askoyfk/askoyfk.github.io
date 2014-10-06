@@ -1,0 +1,24 @@
+{
+  "name": "Askøy FK",
+  "version": "0.0.0",
+  "homepage": "http://askoyfk.github.io",
+  "authors": [
+    "Victor Nystad <vnystad@gmail.com>"
+  ],
+  "description": "Websider for Askøy FK",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "es6-promise": "~1.0.0"
+  }
+}
