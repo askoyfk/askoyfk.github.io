@@ -26,7 +26,7 @@ layout: default
         {% assign contacts = site.data.contacts | where: 'navn', team.kontaktperson %}
 
         {% if teams.size > 1 %}
-            <h2>{{ team.name | replace: 'Askøy', '' }}</h2>
+            <h2>{{ team.name }}</h2>
         {% endif %}
 
         {% for contact in contacts %}
