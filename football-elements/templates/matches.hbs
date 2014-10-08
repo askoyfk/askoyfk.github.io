@@ -1,0 +1,25 @@
+<table>
+    <!-- <caption>Eksempel på kamp-kalender</caption> -->
+    <thead>
+        <tr>
+            <th>Dato</th>
+            <th>Runde</th>
+            <th>Hjemmelag</th>
+            <th>Resultat</th>
+            <th>Bortelag</th>
+            <th>Bane</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each .}}
+            <tr>
+                <td data-th="Dato">{{ formatDate MatchStartDate }}</td>
+                <td data-th="Runde">{{ TournamentRoundNumber }}</td>
+                <td data-th="Hjemmelag">{{ HomeTeamName }}</td>
+                <td data-th="Resultat">{{ HomeTeamGoals }} – {{ AwayTeamGoals }}</td>
+                <td data-th="Bortelag">{{ AwayTeamName }}</td>
+                <td data-th="Bane">{{ StadiumName }}</td>
+            </tr>
+        {{/each}}
+    </tbody>
+</table>

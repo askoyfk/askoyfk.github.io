@@ -37,6 +37,7 @@ layout: default
 
         {% unless team.fiksid == null %}
             <p>Laget er i fiksdatabasen med id-en {{ team.fiksid }}, kampoppsett etc. kommer her.</p>
+            <football-panel operation="teams" route="matches" key="{{team.fiksid}}"></football-panel>
         {% endunless %}
 
     {% endfor %}
