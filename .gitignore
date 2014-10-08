@@ -2,3 +2,5 @@
 _site
 .sass-cache
 widgets/node_modules
+football-elements-old
+football-elements/node_modules

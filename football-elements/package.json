@@ -1,0 +1,25 @@
+{
+  "author": "Victor Nystad",
+  "name": "football-elements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/askoyfk/football-elements"
+  },
+  "version": "0.0.1",
+  "description": "Custom html element",
+  "browserify": {
+    "transform": [
+      "hbsfy"
+    ]
+  },
+  "main": "dist/football-panel.js",
+  "devDependencies": {
+    "browserify": "~5.10.0",
+    "gulp": "~3.8.7",
+    "handlebars": "^2.0.0",
+    "hbsfy": "^2.2.0",
+    "require-dir": "^0.1.0",
+    "run-sequence": "^0.3.6",
+    "vinyl-source-stream": "~0.1.1"
+  }
+}
