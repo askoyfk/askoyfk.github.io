@@ -21,7 +21,7 @@ layout: default
 
     {% for item in site[collection] %}
 
-      <li>{{ item.title }}</li>
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 
     {% endfor %}
 
