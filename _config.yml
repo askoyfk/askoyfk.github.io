@@ -1,7 +1,7 @@
 # Site settings
 title: Askøy Fotballklubb
 email: vnystad@gmail.com
-description: Askøy Fotballklubb 
+description: Askøy Fotballklubb
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://askoyfk.github.io" # the base hostname & protocol for your site
 
@@ -13,7 +13,19 @@ markdown: kramdown
 #     - node_modules/test
 #
 # include:
-exlude: ["node_modules", "gulpfile.js", "package.json"]
+
+exclude:
+    - feed.xml
+    - README.md
+    - node_modules
+    - gulpfile.js
+    - package.json
+    - tasks
+    - _sass
+    - sass_ny_meny
+    - styles
+    - index-ny-meny.html
+    - bower.json
 
 
 # Collections
