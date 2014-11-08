@@ -6,7 +6,7 @@ Askøy Fotballklubb bruker Github, som er et sosialt kodenettverk. Dette åpner 
 
 Vi trenger folk som kan skrive, fotografere, designe, teste og komme med innspill og forslag.
 
-For å rapportere en feil eller kommentere noe, kan man opprette en [issue](https://github.com/askoyfk/askoyfk-weboversikt/issues), eller kommentere i en allerede eksisterende issue.
+For å rapportere en feil eller kommentere noe, kan man opprette en [issue](https://github.com/askoyfk/askoyfk.github.io/issues), eller kommentere i en allerede eksisterende issue.
 
 
 ## Oppbygging

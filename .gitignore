@@ -1,4 +1,6 @@
 .DS_Store
 _site
 .sass-cache
+widgets/node_modules
+football-elements-old
 node_modules
