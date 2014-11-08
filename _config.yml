@@ -35,3 +35,6 @@ collections:
     baner:
         output: true
         permalink: /baner/:path/
+    klubben:
+        output: true
+        permalink: /klubben/:path/
