@@ -22,10 +22,11 @@ exclude:
     - package.json
     - tasks
     - _sass
-    - sass_ny_meny
+    - sass-ny-meny
     - styles
     - index-ny-meny.html
     - bower.json
+
 
 
 # Collections
