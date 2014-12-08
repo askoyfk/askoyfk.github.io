@@ -47,8 +47,11 @@ gulp.task('watch', function () {
         'images/**/*',
         'lag/**/*',
         'scripts/**/*',
-        'styles/**/*'
-        ], ['jekyll-rebuild'])
+        'css/**/*'
+        ], ['jekyll-rebuild']);
+    gulp.watch('afk-layout/www/main.css', [function() {
+        gulp.src('afk-laoyt/www/main.css').pipe(gulp.dest('css'));
+    }])
 });
 
 gulp.task('contacts', ['clean:contacts'], function () {

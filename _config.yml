@@ -32,9 +32,6 @@ exclude:
 # Collections
 
 collections:
-    test:
-        output: true
-        permalink: /test/:path/
     lag:
         output: true
         permalink: /lag/:path/

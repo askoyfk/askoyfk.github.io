@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main>
+<main class="teams">
 
 
     <h1 class="post-title">{{ page.title }}</h1>
@@ -31,9 +31,9 @@ layout: default
 
     <h2><a href="/lag/barn/">Barn</a></h2>
 
-    <ul>
+    <ul class="boxes">
         {% for lag in barn %}
-        <li><a href="/lag/barn/{{ lag.slug }}">
+        <li class="box"><a href="/lag/barn/{{ lag.slug }}">
             {{ lag.title }}
             {% unless lag.subteams == null %}
                 {{ lag.subteams | array_to_sentence_string | replace: 'and', 'og' }}
@@ -45,9 +45,9 @@ layout: default
 
     <h2><a href="/lag/ungdom/">Ungdom</a></h2>
 
-    <ul>
+    <ul class="boxes">
         {% for lag in ungdom %}
-        <li><a href="/lag/ungdom/{{ lag.slug }}">{{ lag.title }}
+        <li class="box"><a href="/lag/ungdom/{{ lag.slug }}">{{ lag.title }}
             ({{ lag.sex }} {{ lag.age }} år)</a></li>
         {% endfor %}
     </ul>
@@ -55,25 +55,25 @@ layout: default
 
     <h2><a href="/lag/senior/">Senior</a></h2>
 
-    <ul>
+    <ul class="boxes">
         {% for lag in senior %}
-        <li><a href="/lag/senior/{{ lag.slug }}">{{ lag.title }}</a></li>
+        <li class="box"><a href="/lag/senior/{{ lag.slug }}">{{ lag.title }}</a></li>
         {% endfor %}
     </ul>
 
     <h2><a href="/lag/stjerne/">Stjerne</a></h2>
 
-    <ul>
+    <ul class="boxes">
         {% for lag in stjerne %}
-        <li><a href="/lag/stjerne">{{ lag.title }}</a></li>
+        <li class="box"><a href="/lag/stjerne">{{ lag.title }}</a></li>
         {% endfor %}
     </ul>
 
     {% else %}
 
-        <ul>
+        <ul class="boxes">
             {% for lag in current %}
-            <li><a href="/lag/{{ category }}/{{ lag.slug }}">{{ lag.title }}
+            <li class="box"><a href="/lag/{{ category }}/{{ lag.slug }}">{{ lag.title }}
 
                 {% if category == 'barn' or category == 'ungdom' %}
 

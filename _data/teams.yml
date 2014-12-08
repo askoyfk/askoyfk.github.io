@@ -1,413 +1,472 @@
 -
   hovedlag: 'Askøy G07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Tiger 07'
   turneringskategori: 'G07 5er'
+  lagnavn: Tiger
+  lagnavniturnering: 'Askøy Tiger 07'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Tiger 07'
 -
   hovedlag: 'Askøy G07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Hai A'
   turneringskategori: 'G07 5er'
+  lagnavn: Hai
+  lagnavniturnering: 'Askøy Hai A'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Hai A'
 -
   hovedlag: 'Askøy G07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Hai B'
   turneringskategori: 'G07 5er'
+  lagnavn: Hai
+  lagnavniturnering: 'Askøy Hai B'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Hai B'
 -
   hovedlag: 'Askøy G07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Jaguar'
   turneringskategori: 'G07 5er'
+  lagnavn: Jaguar
+  lagnavniturnering: 'Askøy Jaguar'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Jaguar'
 -
   hovedlag: 'Askøy G07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Leopard'
   turneringskategori: 'G07 5er'
+  lagnavn: Leopard
+  lagnavniturnering: 'Askøy Leopard'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Leopard'
 -
   hovedlag: 'Askøy G07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Gepard'
   turneringskategori: 'G07 5er'
+  lagnavn: Gepard
+  lagnavniturnering: 'Askøy Gepard'
   kontaktperson: 'Ove Sture'
   title: 'Askøy Gepard'
 -
   hovedlag: 'Askøy G07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Villkatt'
   turneringskategori: 'G07 5er'
+  lagnavn: Villkatt
+  lagnavniturnering: 'Askøy Villkatt'
   kontaktperson: 'Ove Sture'
   title: 'Askøy Villkatt'
 -
   hovedlag: 'Askøy G08'
   fiksid: ""
-  lagnavniturnering: 'Askøy Cobra A'
   turneringskategori: 'G08 5er'
+  lagnavn: Cobra
+  lagnavniturnering: 'Askøy Cobra A'
   kontaktperson: 'Øyvind Håkon Heimli'
   title: 'Askøy Cobra A'
 -
   hovedlag: 'Askøy G08'
   fiksid: ""
-  lagnavniturnering: 'Askøy Cobra B'
   turneringskategori: 'G08 5er'
+  lagnavn: Cobra
+  lagnavniturnering: 'Askøy Cobra B'
   kontaktperson: 'Øyvind Håkon Heimli'
   title: 'Askøy Cobra B'
 -
   hovedlag: 'Askøy G08'
   fiksid: ""
-  lagnavniturnering: 'Askøy Gaupe A'
   turneringskategori: 'G08 5er'
+  lagnavn: Gaupe
+  lagnavniturnering: 'Askøy Gaupe A'
   kontaktperson: 'Ove Sture'
   title: 'Askøy Gaupe A'
 -
   hovedlag: 'Askøy G08'
   fiksid: ""
-  lagnavniturnering: 'Askøy Gaupe B'
   turneringskategori: 'G08 5er'
+  lagnavn: Gaupe
+  lagnavniturnering: 'Askøy Gaupe B'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Gaupe B'
 -
   hovedlag: 'Askøy G08'
   fiksid: ""
-  lagnavniturnering: 'Askøy Puma A'
   turneringskategori: 'G08 5er'
+  lagnavn: Puma
+  lagnavniturnering: 'Askøy Puma A'
   kontaktperson: 'Kristian Johannessen'
   title: 'Askøy Puma A'
 -
   hovedlag: 'Askøy G09'
   fiksid: ""
-  lagnavniturnering: 'Askøy Mår A'
   turneringskategori: 'G09 5er'
+  lagnavn: Mår
+  lagnavniturnering: 'Askøy Mår A'
   kontaktperson: 'Pål Bøthun'
   title: 'Askøy Mår A'
 -
   hovedlag: 'Askøy G09'
   fiksid: ""
-  lagnavniturnering: 'Askøy Mink'
   turneringskategori: 'G09 5er'
+  lagnavn: Mår
+  lagnavniturnering: 'Askøy Mår B'
+  kontaktperson: 'Pål Bøthun'
+  title: 'Askøy Mår B'
+-
+  hovedlag: 'Askøy G09'
+  fiksid: ""
+  turneringskategori: 'G09 5er'
+  lagnavn: Mink
+  lagnavniturnering: 'Askøy Mink'
   kontaktperson: 'Hallgeir Nesheim'
   title: 'Askøy Mink'
 -
   hovedlag: 'Askøy G09'
   fiksid: ""
-  lagnavniturnering: 'Askøy Brontosaurus'
   turneringskategori: 'G09 5er'
+  lagnavn: Brontosaurus
+  lagnavniturnering: 'Askøy Brontosaurus'
   kontaktperson: 'Carsten Wiegard'
   title: 'Askøy Brontosaurus'
 -
   hovedlag: 'Askøy G09'
   fiksid: ""
-  lagnavniturnering: 'Askøy Reptil'
   turneringskategori: 'G09 5er'
+  lagnavn: Reptil
+  lagnavniturnering: 'Askøy Reptil'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Reptil'
 -
   hovedlag: 'Askøy G09'
   fiksid: ""
-  lagnavniturnering: 'Askøy T-Rex'
   turneringskategori: 'G09 5er'
+  lagnavn: T-Rex
+  lagnavniturnering: 'Askøy T-Rex'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy T-Rex'
 -
-  hovedlag: 'Askøy G09'
-  fiksid: ""
-  lagnavniturnering: 'Askøy Mår B'
-  turneringskategori: 'G09 5er'
-  kontaktperson: 'Pål Bøthun'
-  title: 'Askøy Mår B'
--
   hovedlag: 'Askøy G10'
   fiksid: ""
-  lagnavniturnering: 'Askøy Panter'
   turneringskategori: 'G10 5er'
+  lagnavn: Panter
+  lagnavniturnering: 'Askøy Panter'
   kontaktperson: 'Vidar Skjønborg'
   title: 'Askøy Panter'
 -
   hovedlag: 'Askøy G10'
   fiksid: ""
-  lagnavniturnering: 'Askøy Løve'
   turneringskategori: 'G10 5er'
+  lagnavn: Løve
+  lagnavniturnering: 'Askøy Løve'
   kontaktperson: 'Vidar Haugland'
   title: 'Askøy Løve'
 -
   hovedlag: 'Askøy G10'
   fiksid: ""
-  lagnavniturnering: 'Askøy Veps'
   turneringskategori: 'G10 5er'
+  lagnavn: Veps
+  lagnavniturnering: 'Askøy Veps'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Veps'
 -
   hovedlag: 'Askøy G10'
   fiksid: ""
-  lagnavniturnering: 'Askøy Ulv A'
   turneringskategori: 'G10 5er'
+  lagnavn: Ulv
+  lagnavniturnering: 'Askøy Ulv A'
   kontaktperson: 'Trond Holmedal'
   title: 'Askøy Ulv A'
 -
   hovedlag: 'Askøy G10'
   fiksid: ""
-  lagnavniturnering: 'Askøy Ulv B'
   turneringskategori: 'G10 5er'
+  lagnavn: Ulv
+  lagnavniturnering: 'Askøy Ulv B'
   kontaktperson: 'Trond Holmedal'
   title: 'Askøy Ulv B'
 -
   hovedlag: 'Askøy G10'
   fiksid: ""
-  lagnavniturnering: 'Askøy Ørn'
   turneringskategori: 'G10 5er'
+  lagnavn: Ørn
+  lagnavniturnering: 'Askøy Ørn'
   kontaktperson: 'Willy Sture'
   title: 'Askøy Ørn'
 -
   hovedlag: 'Askøy G11'
   fiksid: '19564'
-  lagnavniturnering: 'Askøy Magenta'
   turneringskategori: 'G11 7er'
+  lagnavn: Magenta
+  lagnavniturnering: 'Askøy Magenta'
   kontaktperson: 'Simen Martinussen Mittet'
   title: 'Askøy Magenta'
 -
   hovedlag: 'Askøy G11'
   fiksid: '21182'
-  lagnavniturnering: 'Askøy Turkis B'
   turneringskategori: 'G11 7er'
+  lagnavn: Turkis
+  lagnavniturnering: 'Askøy Turkis B'
   kontaktperson: 'Eirik Vonheim'
   title: 'Askøy Turkis B'
 -
   hovedlag: 'Askøy G11'
-  fiksid: '21184'
-  lagnavniturnering: 'Askøy Safir'
-  turneringskategori: 'G11 7er'
-  kontaktperson: 'Vidar Johannessen'
-  title: 'Askøy Safir'
--
-  hovedlag: 'Askøy G11'
   fiksid: '19563'
-  lagnavniturnering: 'Askøy Turkis A'
   turneringskategori: 'G11 7er'
+  lagnavn: Turkis
+  lagnavniturnering: 'Askøy Turkis A'
   kontaktperson: 'Eirik Vonheim'
   title: 'Askøy Turkis A'
 -
+  hovedlag: 'Askøy G11'
+  fiksid: '21184'
+  turneringskategori: 'G11 7er'
+  lagnavn: Safir
+  lagnavniturnering: 'Askøy Safir'
+  kontaktperson: 'Vidar Johannessen'
+  title: 'Askøy Safir'
+-
   hovedlag: 'Askøy G12'
   fiksid: '35751'
-  lagnavniturnering: 'Askøy Signalrød'
   turneringskategori: 'G12 7er'
+  lagnavn: Signalrød
+  lagnavniturnering: 'Askøy Signalrød'
   kontaktperson: 'Trond Jakobsen'
   title: 'Askøy Signalrød'
 -
   hovedlag: 'Askøy G12'
   fiksid: '19565'
-  lagnavniturnering: 'Askøy Rubin'
   turneringskategori: 'G12 7er'
+  lagnavn: Rubin
+  lagnavniturnering: 'Askøy Rubin'
   kontaktperson: 'Monica Hanselmann'
   title: 'Askøy Rubin'
 -
   hovedlag: 'Askøy G12'
   fiksid: '19566'
-  lagnavniturnering: 'Askøy Gold'
   turneringskategori: 'G12 7er'
+  lagnavn: Gold
+  lagnavniturnering: 'Askøy Gold'
   kontaktperson: 'Ole-Ivar Guleng'
   title: 'Askøy Gold'
 -
   hovedlag: 'Askøy G12'
   fiksid: '36315'
-  lagnavniturnering: 'Askøy Azur'
   turneringskategori: 'G12 7er'
+  lagnavn: Azur
+  lagnavniturnering: 'Askøy Azur'
   kontaktperson: 'Jarle Monsen'
   title: 'Askøy Azur'
 -
   hovedlag: 'Askøy G13 1'
   fiksid: '32399'
-  lagnavniturnering: 'Askøy 1'
   turneringskategori: G13
+  lagnavn: G13
+  lagnavniturnering: 'Askøy 1'
   kontaktperson: 'Tor Erik Synnevåg'
   title: 'Askøy 1'
 -
   hovedlag: 'Askøy G13 2'
   fiksid: '32401'
-  lagnavniturnering: 'Askøy 2'
   turneringskategori: G13
+  lagnavn: G13
+  lagnavniturnering: 'Askøy 2'
   kontaktperson: 'Bjørn Juvik'
   title: 'Askøy 2'
 -
   hovedlag: 'Askøy G14 1'
   fiksid: '19546'
-  lagnavniturnering: 'Askøy 1'
   turneringskategori: 'G14 1 div.'
+  lagnavn: G14
+  lagnavniturnering: 'Askøy 1'
   kontaktperson: 'Jarl Aspunvik'
   title: 'Askøy 1'
 -
   hovedlag: 'Askøy G14 2'
   fiksid: '19846'
-  lagnavniturnering: 'Askøy 2'
   turneringskategori: 'G14 3 div.'
+  lagnavn: G14
+  lagnavniturnering: 'Askøy 2'
   kontaktperson: 'Jarl Aspunvik'
   title: 'Askøy 2'
 -
   hovedlag: 'Askøy G16 1'
   fiksid: '32410'
-  lagnavniturnering: 'Askøy G16 1'
   turneringskategori: 'G16 1 div.'
+  lagnavn: G16
+  lagnavniturnering: 'Askøy G16 1'
   kontaktperson: 'Roger Granheim'
   title: 'Askøy G16 1'
 -
   hovedlag: 'Askøy G16 2'
   fiksid: '121723'
-  lagnavniturnering: 'Askøy G16 2'
   turneringskategori: 'G16 3 div.'
+  lagnavn: G16
+  lagnavniturnering: 'Askøy G16 2'
   kontaktperson: 'Frode Fjell'
   title: 'Askøy G16 2'
 -
   hovedlag: 'Askøy G16 3'
   fiksid: '146500'
-  lagnavniturnering: 'Askøy G16 3'
   turneringskategori: 'G16 3 div.'
+  lagnavn: G16
+  lagnavniturnering: 'Askøy G16 3'
   kontaktperson: 'Lars Dahl'
   title: 'Askøy G16 3'
 -
   hovedlag: 'Askøy G19'
   fiksid: '670'
-  lagnavniturnering: Askøy
   turneringskategori: 'G19 2 div.'
+  lagnavn: G19
+  lagnavniturnering: Askøy
   kontaktperson: 'Roger Granheim'
   title: Askøy
 -
   hovedlag: 'Askøy G19-2'
   fiksid: '146503'
-  lagnavniturnering: 'Askøy G19 2'
   turneringskategori: 'G19 3 div.'
+  lagnavn: G19
+  lagnavniturnering: 'Askøy G19 2'
   kontaktperson: 'Ove Sture'
   title: 'Askøy G19 2'
 -
   hovedlag: 'Askøy J07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Røyskatt A'
   turneringskategori: 'J07 5er'
+  lagnavn: Røyskatt
+  lagnavniturnering: 'Askøy Røyskatt A'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Røyskatt A'
 -
   hovedlag: 'Askøy J07'
   fiksid: ""
-  lagnavniturnering: 'Askøy Røyskatt B'
   turneringskategori: 'J07 5er'
+  lagnavn: Røyskatt
+  lagnavniturnering: 'Askøy Røyskatt B'
   kontaktperson: 'Trond Marøy'
   title: 'Askøy Røyskatt B'
 -
   hovedlag: 'Askøy J08'
   fiksid: ""
-  lagnavniturnering: 'Askøy Pegasus A'
   turneringskategori: 'J08 5er'
+  lagnavn: Pegasus
+  lagnavniturnering: 'Askøy Pegasus A'
   kontaktperson: 'Frode Fjell'
   title: 'Askøy Pegasus A'
 -
   hovedlag: 'Askøy J08'
   fiksid: ""
-  lagnavniturnering: 'Askøy Pegasus B'
   turneringskategori: 'J08 5er'
+  lagnavn: Pegasus
+  lagnavniturnering: 'Askøy Pegasus B'
   kontaktperson: 'Trond Eirik Føli'
   title: 'Askøy Pegasus B'
 -
   hovedlag: 'Askøy J08'
   fiksid: ""
-  lagnavniturnering: 'Askøy Pegasus C'
   turneringskategori: 'J08 5er'
+  lagnavn: Pegasus
+  lagnavniturnering: 'Askøy Pegasus C'
   kontaktperson: 'Frode Fjell'
   title: 'Askøy Pegasus C'
 -
   hovedlag: 'Askøy J09'
   fiksid: ""
-  lagnavniturnering: 'Askøy Skogmus A'
   turneringskategori: 'J09 5er'
+  lagnavn: Skogmus
+  lagnavniturnering: 'Askøy Skogmus A'
   kontaktperson: 'Olav Skogen'
   title: 'Askøy Skogmus A'
 -
   hovedlag: 'Askøy J09'
   fiksid: ""
-  lagnavniturnering: 'Askøy Skogmus B'
   turneringskategori: 'J09 5er'
+  lagnavn: Skogmus
+  lagnavniturnering: 'Askøy Skogmus B'
   kontaktperson: 'Olav Skogen'
   title: 'Askøy Skogmus B'
 -
   hovedlag: 'Askøy J09'
   fiksid: ""
-  lagnavniturnering: 'Askøy Marihøne Orange'
   turneringskategori: 'J09 5er'
+  lagnavn: Marihøne
+  lagnavniturnering: 'Askøy Marihøne Orange'
   kontaktperson: 'Lisbeth Larsen'
   title: 'Askøy Marihøne Orange'
 -
   hovedlag: 'Askøy J10'
   fiksid: ""
-  lagnavniturnering: 'Askøy Marihøne Rød'
   turneringskategori: 'J10 5er'
+  lagnavn: Marihøne
+  lagnavniturnering: 'Askøy Marihøne Rød'
   kontaktperson: 'Lisbeth Larsen'
   title: 'Askøy Marihøne Rød'
 -
   hovedlag: 'Askøy J11'
   fiksid: '20816'
-  lagnavniturnering: 'Askøy Fiolett'
   turneringskategori: 'J11 7er'
+  lagnavn: Fiolett
+  lagnavniturnering: 'Askøy Fiolett'
   kontaktperson: 'Ronny Nynes'
   title: 'Askøy Fiolett'
 -
   hovedlag: 'Askøy J12'
   fiksid: '35752'
-  lagnavniturnering: 'Askøy Pink'
   turneringskategori: 'J12 7er'
+  lagnavn: Pink
+  lagnavniturnering: 'Askøy Pink'
   kontaktperson: 'Marianne Helgheim'
   title: 'Askøy Pink'
 -
   hovedlag: 'Askøy J12'
   fiksid: '37571'
-  lagnavniturnering: 'Askøy Purple'
   turneringskategori: 'J12 7er'
+  lagnavn: Purple
+  lagnavniturnering: 'Askøy Purple'
   kontaktperson: 'Gard Stigen'
   title: 'Askøy Purple'
 -
   hovedlag: 'Askøy J13'
   fiksid: '121965'
-  lagnavniturnering: Askøy
   turneringskategori: J13
+  lagnavn: J13
+  lagnavniturnering: Askøy
   kontaktperson: 'Arild Hjelle'
   title: Askøy
 -
   hovedlag: 'Askøy J13 2'
   fiksid: '155044'
-  lagnavniturnering: 'Askøy 2'
   turneringskategori: 'J13 7er'
+  lagnavn: J13
+  lagnavniturnering: 'Askøy 2'
   kontaktperson: 'Arild Hjelle'
   title: 'Askøy 2'
 -
   hovedlag: 'Askøy J14'
   fiksid: '32371'
-  lagnavniturnering: 'Askøy Fk/Askøy Sk'
   turneringskategori: 'J14 1 div.'
+  lagnavn: J14
+  lagnavniturnering: 'Askøy Fk/Askøy Sk'
   kontaktperson: 'Tommy Jakobsen'
   title: 'Askøy Fk/Askøy Sk'
 -
   hovedlag: 'Askøy M50'
   fiksid: '165410'
-  lagnavniturnering: Askøy
   turneringskategori: 'Veteran o/50 2 div.'
+  lagnavn: Veteran
+  lagnavniturnering: Askøy
   kontaktperson: 'Frode Jensen'
   title: Askøy
 -
   hovedlag: 'Askøy Menn Senior A'
   fiksid: '666'
-  lagnavniturnering: Askøy
   turneringskategori: '5 div. Menn'
+  lagnavn: A
+  lagnavniturnering: Askøy
   kontaktperson: 'Ketil Kleppe'
   title: Askøy
 -
   hovedlag: 'Askøy Stjerne'
   fiksid: ""
-  lagnavniturnering: 'Askøy Stjerne'
   turneringskategori: Stjerneserien
+  lagnavn: Stjerne
+  lagnavniturnering: 'Askøy Stjerne'
   kontaktperson: 'Monica Solberg'
   title: 'Askøy Stjerne'

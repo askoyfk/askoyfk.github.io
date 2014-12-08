@@ -1,35 +1,31 @@
-<header class="app-bar promote-layer">
-  <div class="app-bar-container">
-    <button class="menu"><img src="images/hamburger.svg" alt="Menu"></button>
-    <a href="/"><h1 class="logo">Askøy Fotballklubb</h1></a>
-    <section class="app-bar-actions">
-    <!-- Put App Bar Buttons Here -->
-    <!-- e.g <button><i class="icon icon-star"></i></button> -->
-    </section>
-  </div>
+<header>
+
+    <object id="logo" type="image/svg+xml" data="/img/afk-logo.svg" style="margin-right: 20px;"></object>
+
+    <div id="logo-text-wrapper">
+        <object id="logo-text" type="image/svg+xml" data="/img/afk-logo-text.svg"></object>
+    </div>
+
+    <!-- <h1>Askøy Fotballklubb</h1> -->
+
+    <button>Meny</button>
+
+    <script>
+        [].pop.call(document.getElementsByTagName('button')).addEventListener('click', function() {
+            document.body.classList.toggle('menu-visible');
+        });
+    </script>
+
 </header>
 
-<nav class="navdrawer-container promote-layer">
-  <h4>Meny</h4>
-  <ul>
-    <li><a href="/klubben/">Klubben</a></li>
-    <li><a href="/lag/">Lag</a></li>
-    <li><a href="/baner/">Baner</a></li>
-    <li><a href="#">Kampkalender</a></li>
-    <li><a href="/arrangement/">Arrangement</a></li>
-    <li><a href="#">Kontakt oss</a></li>
-    <!-- <li><a href="styleguide.html"></a></li> -->
-  </ul>
+<nav>
+    <ul>
+        <li><a href="/klubben/">Klubben</a></li>
+        <li><a href="/lag/">Lag</a></li>
+        <li><a href="/baner/">Baner</a></li>
+        <li><a href="#">Kampkalender</a></li>
+        <li><a href="/arrangement/">Arrangement</a></li>
+        <li><a href="#">Kontakt oss</a></li>
+
+    </ul>
 </nav>
-
-
-<!-- <header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-  </div>
-
-</header>
- -->
