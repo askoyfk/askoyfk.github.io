@@ -9,7 +9,7 @@
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100% /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
 }
 
 /**
@@ -56,7 +56,7 @@ canvas,
 progress,
 video {
   display: inline-block; /* 1 */
-  vertical-align: baseline /* 2 */
+  vertical-align: baseline; /* 2 */
 }
 
 /**
@@ -255,7 +255,7 @@ select,
 textarea {
   color: inherit; /* 1 */
   font: inherit; /* 2 */
-  margin: 0 /* 3 */
+  margin: 0; /* 3 */
 }
 
 /**
@@ -291,7 +291,7 @@ html input[type="button"], /* 1 */
 input[type="reset"],
 input[type="submit"] {
   -webkit-appearance: button; /* 2 */
-  cursor: pointer /* 3 */
+  cursor: pointer; /* 3 */
 }
 
 /**
@@ -333,7 +333,7 @@ input {
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box; /* 1 */
-  padding: 0 /* 2 */
+  padding: 0; /* 2 */
 }
 
 /**
@@ -386,7 +386,7 @@ fieldset {
 
 legend {
   border: 0; /* 1 */
-  padding: 0 /* 2 */
+  padding: 0; /* 2 */
 }
 
 /**
@@ -544,7 +544,7 @@ top: 20px;
     text-indent: -9000px;
     background: transparent;
     background-image: repeating-linear-gradient(#ffffff, #ffffff 20%, transparent 20%, transparent 40%);
-    display: block
+    display: block;
     /* margin: auto; */
     /* align-self: flex-end; */
     /* float: right; */
@@ -598,7 +598,7 @@ top: 20px;
 
     header {
         padding: 10px 40px;
-        height: 123px
+        height: 123px;
         /* align-items: flex-start; */
     }
     header button {
@@ -651,7 +651,7 @@ footer {
     display: flex;
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
-            flex-direction: column
+            flex-direction: column;
     /* padding: 20px 40px; */
 /*     display: flex;
 flex-direction: column; */
@@ -822,6 +822,7 @@ li.box {
 }
 a.box {
     text-decoration: none;
+    display: block;
 }
 .box h1,
 .box h2,

@@ -8,6 +8,8 @@ url: "http://askoyfk.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
+host: 192.168.1.214
+
 
 # exclude:
 #     - node_modules/test
