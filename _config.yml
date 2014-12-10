@@ -8,6 +8,8 @@ url: "http://askoyfk.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
+#host: 192.168.1.214
+
 
 # exclude:
 #     - node_modules/test
@@ -26,25 +28,23 @@ exclude:
     - styles
     - index-ny-meny.html
     - bower.json
+    - afk-layout
 
 
 
 # Collections
 
 collections:
-    test:
-        output: true
-        permalink: /test/:path/
     lag:
         output: true
         permalink: /lag/:path/
         layout: team
-    arrangement:
-        output: true
-        permalink: /arrangement/:path/
-    baner:
-        output: true
-        permalink: /baner/:path/
-    klubben:
-        output: true
-        permalink: /klubben/:path/
+#    arrangement:
+#        output: true
+#        permalink: /arrangement/:path/
+#    baner:
+#        output: true
+#        permalink: /baner/:path/
+#    klubben:
+#        output: true
+#        permalink: /klubben/:path/
