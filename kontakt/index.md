@@ -14,34 +14,34 @@ Styrets medlemmer
 Leder
 : Yngve Lillestraum
 : 912 43 727
-: yngvelille@yahoo.no
+: <yngvelille@yahoo.no>
 
 Nestleder
 : Frode Fjell
 : 977 47 542
-: frodefjell@live.no
+: <frodefjell@live.no>
 
 Styremedlem
 : Mona Høviskeland
 : 482 12 794
-: monabjorgum75@hotmail.com
+: <monabjorgum75@hotmail.com>
 
 Styremedlem
 : Johnny Berg
 : 911 46 251
-: johnny15@online.no
+: <johnny15@online.no>
 
 Styremedlem
 : Silje Guleng
 : 907 81 880
-: silje@guleng.no
+: <silje@guleng.no>
 
 Varamedlem
 : Knut S. Rosenlund
 : 412 11 187
-: zgull1967@gmail.com
+: <zgull1967@gmail.com>
 
 Varamedlem
 : Morten Lunde
 : 936 13 310
-: mortenlunde@live.no
+: <mortenlunde@live.no>
