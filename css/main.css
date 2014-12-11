@@ -532,12 +532,12 @@ main.subpage {
     width: auto;
     transition: -webkit-transform .3s;
     transition: transform .3s;
-
-/*     max-width: 700px;
-margin: 0 auto; */
 }
 main.subpage a {
     font-weight: 900;
+}
+.nowrap {
+    white-space: nowrap;
 }
 @media screen and (min-width: 1280px) {
     main.subpage {
@@ -579,25 +579,21 @@ header {
     width:100%; height: 50px;
     max-width: 900px;
 }
-header h1 {
-    /* float: left; */
-}
 header button {
-position: absolute;
-right: 40px;
-top: 20px;
-
+    position: absolute;
+    right: 40px;
+    top: 20px;
     border: none;
     margin-left: 20px;
     width: 30px;
     height: 30px;
     text-indent: -9000px;
+    display: block;
+}
+header button,
+header button:hover {
     background: transparent;
     background-image: repeating-linear-gradient(#ffffff, #ffffff 20%, transparent 20%, transparent 40%);
-    display: block;
-    /* margin: auto; */
-    /* align-self: flex-end; */
-    /* float: right; */
 }
 @media screen and (max-width: 479px) {
 
@@ -831,10 +827,28 @@ nav a:hover {
 
 }
 #sponsorer {
-    padding: 20px 40px;
+    padding: 10px 30px;
     box-sizing: border-box;
     background: silver;
     font-size: 1.6rem;
+    height: 80px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.sponsor {
+    height: 100%;
+    width: auto;
+    margin: 0 10px;
+}
+#vitek-logo {
+    height: 70%;    
+}
+#spv1-logo {
+    height: 70%;
 }
 #sponsorer p {
     margin: 0;
@@ -941,21 +955,15 @@ a.box {
 }
 .box {
     background: white;
-    /* width: 25%; */
-    /* padding: 0; */
-/*     box-sizing: border-box;
-margin-bottom: 20px;
-margin-left: 10px;
-margin-right: 10px;
- */    font-size: 2rem;
-/*     outline: 1px solid red; */
+    font-size: 2rem;
+    transition: background .3s;
+}
+.box:hover {
+    background: silver;
 
 }
-/* a.box h2 {
-    text-decoration: none;
-    border-bottom: 1px solid red;
-} */
 a.box h2 {
+    font-size: 3rem;
     margin-bottom: .5em;
 }
 button, .button {
@@ -965,5 +973,41 @@ button, .button {
     color: white;
 }
 button:hover, .button:hover {
-    background: rgb(128, 10, 10);
+    background-color: rgb(128, 10, 10);
+}
+dt {
+    font-weight: 900;
+    margin-top: 3rem;
+    clear: left;
+}
+dd {
+    margin: 0;
+}
+@media screen and (min-width: 768px) {
+
+    dd {
+        float: left;
+    }
+    dd::before {
+        content: ',';
+        margin-right: .5em;
+    }
+
+    dt + dd::before {
+        content: '';
+        margin-right: 0;
+    }
+}
+@media screen and (min-width: 1024px) {
+    dt {
+        float: left;
+        width: 7.5em;
+
+    }
+    dt::after {
+        content: ': ';
+    }
+    dt, dd {
+        margin-top: 1rem;
+    }
 }

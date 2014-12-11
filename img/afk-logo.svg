@@ -76,7 +76,8 @@
             #shape {
                 stroke: #000;
                 stroke-width: 40;
-                fill: #D9222A;                
+                fill: #D9222A;
+                -webkit-transition: fill .5s;
                 transition: fill .5s;
             }
 
