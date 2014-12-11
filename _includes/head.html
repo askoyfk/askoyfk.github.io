@@ -15,7 +15,36 @@
         .snow {
             fill: #fff;
         }
+
+        {% assign segments = page.url | split: '/' %}
+
+
+
+        {% if segments[1] == 'index.html' %}
+            .box {
+                background: white;
+                font-size: 2rem;
+                transition: background .3s;
+                font-weight: normal;
+            }
+
+            .box:hover {
+                background: silver;
+
+            }
+
+            a.box h2 {
+                font-size: 3rem;
+                margin-bottom: .5em;
+            }
+        {% endif %}
+
+
     </style>
+
+    <script>
+        console.log('{{ segments | jsonify }}')
+    </script>
 
     <script src="/bower_components/es6-promise/promise.min.js"></script>
     <script src="/lib/document-register-element.js"></script>

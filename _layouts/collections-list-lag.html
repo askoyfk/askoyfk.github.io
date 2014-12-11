@@ -2,92 +2,40 @@
 layout: default
 ---
 
-<main class="teams">
+<main class="teams subpage">
+
 
 
     <h1 class="post-title">{{ page.title }}</h1>
 
+        {% assign segments = page.url | split: '/' %}
+        {% assign category = segments[2] %}
 
+        {% assign barn = (site.lag | where: 'category', 'barn' | sort: 'age') %}
+        {% assign ungdom = (site.lag | where: 'category', 'ungdom' | sort: 'age') %}
+        {% assign senior = (site.lag | where: 'category', 'senior') %}
+        {% assign stjerne = (site.lag | where: 'category', 'stjerne') %}
 
-    {% assign segments = page.url | split: '/' %}
-    {% assign category = segments[2] %}
+        {% if category != null %}
+            {% assign current = (site.lag | where: 'category', category | sort: 'age' ) %}
+        {% endif %}
 
+        {{ content }}
 
-    {% assign barn = (site.lag | where: 'category', 'barn' | sort: 'age') %}
-    {% assign ungdom = (site.lag | where: 'category', 'ungdom' | sort: 'age') %}
-    {% assign senior = (site.lag | where: 'category', 'senior') %}
-    {% assign stjerne = (site.lag | where: 'category', 'stjerne') %}
-
-
-    {% if category != null %}
-        {% assign current = (site.lag | where: 'category', category | sort: 'age' ) %}
-    {% endif %}
-
-
-    <p>Dette blir en oversikt over {{ collection }} med linker videre. Design kommer når struktur er på plass.</p>
-
-
-{% if category == null %}
-
-    <h2><a href="/lag/barn/">Barn</a></h2>
 
     <ul class="boxes">
-        {% for lag in barn %}
-        <li class="box"><a href="/lag/barn/{{ lag.slug }}">
-            {{ lag.title }}
-            {% unless lag.subteams == null %}
-                {{ lag.subteams | array_to_sentence_string | replace: 'and', 'og' }}
-            {% endunless %}
-            ({{ lag.sex }} {{ lag.age }} år)</a></li>
+        {% for lag in current %}
+        <li class="box"><a href="/lag/{{ category }}/{{ lag.slug }}">{{ lag.title }}
+
+            {% if category == 'barn' or category == 'ungdom' %}
+
+            ({{ lag.sex }} {{ lag.age }} år)
+
+            {% endif %}
+
+        </a></li>
         {% endfor %}
     </ul>
-
-
-    <h2><a href="/lag/ungdom/">Ungdom</a></h2>
-
-    <ul class="boxes">
-        {% for lag in ungdom %}
-        <li class="box"><a href="/lag/ungdom/{{ lag.slug }}">{{ lag.title }}
-            ({{ lag.sex }} {{ lag.age }} år)</a></li>
-        {% endfor %}
-    </ul>
-
-
-    <h2><a href="/lag/senior/">Senior</a></h2>
-
-    <ul class="boxes">
-        {% for lag in senior %}
-        <li class="box"><a href="/lag/senior/{{ lag.slug }}">{{ lag.title }}</a></li>
-        {% endfor %}
-    </ul>
-
-    <h2><a href="/lag/stjerne/">Stjerne</a></h2>
-
-    <ul class="boxes">
-        {% for lag in stjerne %}
-        <li class="box"><a href="/lag/stjerne">{{ lag.title }}</a></li>
-        {% endfor %}
-    </ul>
-
-    {% else %}
-
-        <ul class="boxes">
-            {% for lag in current %}
-            <li class="box"><a href="/lag/{{ category }}/{{ lag.slug }}">{{ lag.title }}
-
-                {% if category == 'barn' or category == 'ungdom' %}
-
-                ({{ lag.sex }} {{ lag.age }} år)
-
-                {% endif %}
-
-                </a></li>
-            {% endfor %}
-        </ul>
-
-
-
-    {% endif %}
 
 
 

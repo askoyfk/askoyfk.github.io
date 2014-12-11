@@ -524,7 +524,7 @@ main h1 + h2 {
 strong {
     font-weight: 900;
 }
-main.subpage {
+.subpage {
     margin: 20px 40px;
     box-sizing: border-box;
     padding: 0;
@@ -533,14 +533,14 @@ main.subpage {
     transition: -webkit-transform .3s;
     transition: transform .3s;
 }
-main.subpage a {
+main a {
     font-weight: 900;
 }
 .nowrap {
     white-space: nowrap;
 }
 @media screen and (min-width: 1280px) {
-    main.subpage {
+    .subpage {
         -webkit-transform: translate(220px, 0);
                 transform: translate(220px, 0);
     }
@@ -953,19 +953,7 @@ a.box {
         width: calc(20% - 20px);
     }
 }
-.box {
-    background: white;
-    font-size: 2rem;
-    transition: background .3s;
-}
-.box:hover {
-    background: silver;
-
-}
-a.box h2 {
-    font-size: 3rem;
-    margin-bottom: .5em;
-}
+/* @import 'css/boxes-frontpage.css'; */
 button, .button {
     border: none;
     padding: 1rem 2rem;

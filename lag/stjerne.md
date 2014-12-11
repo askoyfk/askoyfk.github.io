@@ -4,4 +4,4 @@ title: Stjerne
 permalink: /lag/stjerne/
 ---
 
-Stjernelaget sin side kommer her
+Askøy Stjerne er AFK sitt lag for funksjonshemmede som spiller i Stjerneserien i Hordaland.

@@ -12,8 +12,8 @@ layout: default
 <main class="subpage">
     <h1>{{ page.title }}</h1>
     {% unless page.title == 'A' or page.title == 'Stjerne' %}
-    <p><strong>{{ page.title }} består av {{ page.sex }} {% if page.title == 'Veteran' %}over {% else %}på {% endif %}{{ page.age }} år.
-    {% if teams.size > 1 %}Laget er delt i {{ teams.size }} underlag: {{ teamnames | array_to_sentence_string | replace: 'and', 'og' }}.</strong></p>{% endif %}
+    <p>{{ page.title }} består av {{ page.sex }} {% if page.title == 'Veteran' %}over {% else %}på {% endif %}{{ page.age }} år.
+    {% if teams.size > 1 %}Laget er delt i {{ teams.size }} underlag: {{ teamnames | array_to_sentence_string | replace: 'and', 'og' }}.</p>{% endif %}
     {% endunless %}
 
 
@@ -34,7 +34,7 @@ layout: default
         {% endfor %}
 
         {% unless team.fiksid == null %}
-            <p>Når sesongen starter opp igjen i 2015, vil du finne kampoppsettet til laget på denne siden.</p>            
+            <p>Når sesongen starter opp igjen i 2015, vil du finne kampoppsettet til laget på denne siden.</p>
         {% endunless %}
 
     {% endfor %}
