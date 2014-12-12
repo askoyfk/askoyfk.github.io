@@ -8,6 +8,8 @@ Besøk oss i klubbhuset på Søre Myrane 8, 5300 Kleppestø.
 
 Kontoret betjenes av **Torill Vindenes**, <span class="nowrap">tlf:  56 14 27 41,</span> <span class="nowrap">epost: <post@askoyfotballklubb.no>,</span> og er åpent mandag, onsdag og fredag fra 8.30 til 16.00 og tirsdag fra 12 til 19.30.
 
+Turneringsleder for Nobi Julecup er **Johnny Berg**, som kan kontaktes på telefon <span class="nowrap">911 46 251</span> eller epost <johnny15@online.no>.
+
 Styrets medlemmer
 -----------------
 
