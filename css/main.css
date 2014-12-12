@@ -9,7 +9,7 @@
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100% /* 2 */
 }
 
 /**
@@ -56,7 +56,7 @@ canvas,
 progress,
 video {
   display: inline-block; /* 1 */
-  vertical-align: baseline; /* 2 */
+  vertical-align: baseline /* 2 */
 }
 
 /**
@@ -255,7 +255,7 @@ select,
 textarea {
   color: inherit; /* 1 */
   font: inherit; /* 2 */
-  margin: 0; /* 3 */
+  margin: 0 /* 3 */
 }
 
 /**
@@ -291,7 +291,7 @@ html input[type="button"], /* 1 */
 input[type="reset"],
 input[type="submit"] {
   -webkit-appearance: button; /* 2 */
-  cursor: pointer; /* 3 */
+  cursor: pointer /* 3 */
 }
 
 /**
@@ -333,7 +333,7 @@ input {
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box; /* 1 */
-  padding: 0; /* 2 */
+  padding: 0 /* 2 */
 }
 
 /**
@@ -386,7 +386,7 @@ fieldset {
 
 legend {
   border: 0; /* 1 */
-  padding: 0; /* 2 */
+  padding: 0 /* 2 */
 }
 
 /**
@@ -644,7 +644,7 @@ header button:hover {
 
     header {
         padding: 10px 40px;
-        height: 123px;
+        height: 123px
         /* align-items: flex-start; */
     }
     header button {
@@ -698,7 +698,7 @@ footer {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
-    font-size: 1.6em;
+    font-size: 1.6em
     /* padding: 20px 40px; */
 /*     display: flex;
 flex-direction: column; */
@@ -800,7 +800,11 @@ nav a:hover {
     height: 400px;
     padding: 20px 40px;
     box-sizing: border-box;
-    background: #fff;
+    background-color: #fff;
+    background-image: url(/img/juletre.svg);
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 @media screen and (max-width: 479px) {
 

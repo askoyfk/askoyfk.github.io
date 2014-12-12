@@ -20,7 +20,7 @@
 
 
 
-        {% if segments[1] == 'index.html' || segments[1] == 'index-ny.html' %}
+        {% if segments[1] == 'index.html' or segments[1] == 'index-ny.html' %}
             .box {
                 background: white;
                 font-size: 2rem;
@@ -37,6 +37,21 @@
                 font-size: 3rem;
                 margin-bottom: .5em;
             }
+
+            #button rect {
+                fill: rgb(176, 10, 10);
+            }
+
+            #button:hover rect {
+                fill: rgb(128, 10, 10);
+            }
+
+            #button text {
+                font-size: 2.5rem;
+                font-weight: 900;
+                fill: #fff;
+            }
+
         {% endif %}
 
 
