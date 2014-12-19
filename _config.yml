@@ -19,7 +19,18 @@ markdown: kramdown
 exclude:
     - feed.xml
     - README.md
-    - node_modules
+    - node_modules/.bin
+    - node_modules/browser-sync
+    - node_modules/del
+    - node_modules/es6-promise
+    - node_modules/google-spreadsheet
+    - node_modules/gulp
+    - node_modules/gulp-autoprefixer
+    - node_modules/gulp-convert
+    - node_modules/gulp-ext-replace
+    - node_modules/gulp-file
+    - node_modules/gulp-insert
+    - node_modules/gulp-ruby-sass
     - gulpfile.js
     - package.json
     - tasks
