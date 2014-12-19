@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>boxes</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link rel="stylesheet" href="main.css">
+
+    <!-- <script src="classlist/classList.min.js"></script> -->
+
+</head>
+<body>
+
+
+    <div id="wrapper">
+        <header>
+
+<<<<<<< HEAD
+            <object id="logo" type="image/svg+xml" data="img/logo-uten-txt.svg" style="margin-right: 20px;"></object>
+
+            <div id="logo-text-wrapper">
+                <object id="logo-text" type="image/svg+xml" data="img/logo-text.svg"></object>
+            </div>
+
+
+            <!-- <object id="logo" type="image/svg+xml" data="img/logo-responsive.svg"></object> -->
+=======
+            <!-- <object id="header" type="image/svg+xml" data="logo/header.svg" style="display:flex"></object> -->
+            <object id="logo" type="image/svg+xml" data="img/logo-uten-txt.svg"></object>
+<!--             <object id="logo-text" type="image/svg+xml" data="img/logo-text.svg"></object>
+ -->
+            <!-- <h1>Askøy Fotballklubb</h1>  -->
+>>>>>>> 6e8e7441057f45aafbae775e04cf2a9163910a27
+
+             <button>Meny</button>
+
+            <script>
+                [].pop.call(document.getElementsByTagName('button')).addEventListener('click', function() {
+                    document.body.classList.toggle('menu-visible');
+                });
+            </script>
+
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="#">Klubben</a></li>
+                <li><a href="#">Lag</a></li>
+                <li><a href="#">Baner</a></li>
+                <li><a href="#">Kalender</a></li>
+                <li><a href="#">Arrangement</a></li>
+                <li><a href="#">Kontakt</a></li>
+
+            </ul>
+        </nav>
+
+        <section id="plakat">
+            <h1>Nobi julecup</h1>
+        </section>
+
+        <section id="sponsorer">
+            <h1>Sponsorer</h1>
+        </section>
+
+        <main>
+
+            <div class="boxes">
+                <div class="box">
+                    <h2><a href="#">Barn</a></h2>
+                    <p>Vi har over 50 barnelag fra 1.–7. klasse.</p>
+                </div>
+                <div class="box">
+                    <h2><a href="#">Ungdom</a></h2>
+                    <p>Vi er opptatt av å gi alle ungdommene et godt tilbud.</p>
+                </div>
+                <div class="box">
+                    <h2><a href="#">Junior/Senior</a></h2>
+                    <p>Askøy Fotballklubb har svært gode ungdommer på vei opp i seniorfotballen.</p>
+                </div>
+                <div class="box">
+                    <h2><a href="#">Stjerne</a></h2>
+                    <p>Askøy Fotballklubbs lag for funksjonshemmede.</p>
+                </div>
+            </div>
+
+        </main>
+
+
+
+        <footer>
+            <p>info</p>
+        </footer>
+    </div>
+
+    <script src="script/script.js"></script>
+
+</body>
+</html>

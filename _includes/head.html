@@ -9,55 +9,22 @@
     <script src="/script/browserupgrade.js"></script>
 
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/node_modules/afk-assets/dist/css/main.css">
+
+    {% assign segments = page.url | split: '/' %}
+    {% if segments[1] == 'index.html' or segments[1] == 'index-ny.html' %}
+    <link rel="stylesheet" href="/node_modules/afk-assets/dist/css/frontpage-only.css">
+    {% endif %}
 
     <style>
-        .snow {
-            fill: #fff;
-        }
+
 
         .teams h1, .teams p {
             margin-left: 30px;
             margin-right: 30px;
         }
 
-        {% assign segments = page.url | split: '/' %}
 
-
-
-        {% if segments[1] == 'index.html' or segments[1] == 'index-ny.html' %}
-            .box {
-                background: white;
-                font-size: 2rem;
-                transition: background .3s;
-                font-weight: normal;
-            }
-
-            .box:hover {
-                background: silver;
-
-            }
-
-            a.box h2 {
-                font-size: 3rem;
-                margin-bottom: .5em;
-            }
-
-            #button rect {
-                fill: rgb(176, 10, 10);
-            }
-
-            #button:hover rect {
-                fill: rgb(128, 10, 10);
-            }
-
-            #button text {
-                font-size: 2.5rem;
-                font-weight: 900;
-                fill: #fff;
-            }
-
-        {% endif %}
 
 
     </style>

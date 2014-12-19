@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    preserveAspectRatio="xMin meet"
+    viewBox="0 0 824 500"
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <style>
+
+    </style>
+    <defs></defs>
+    <g id="plakat" stroke="none" stroke-width="1" fill="#ff9900" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <text id="Nobi-Julecup" sketch:type="MSTextLayer" font-family="Blackmoor LET" font-size="138" font-weight="686" fill="#4A4A4A">
+                <tspan x="28" y="162">Nobi Julecup</tspan>
+            </text>
+            <rect id="Rectangle-1" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup" x="806" y="22" width="199" height="460"></rect>
+            <text id="Tekst-om-" sketch:type="MSTextLayer" font-family="Almendra" font-size="58" font-weight="normal" line-spacing="55" fill="#4A4A4A">
+                <tspan x="28" y="286">Tekst om </tspan>
+                <tspan x="28" y="341">julecuppen her</tspan>
+            </text>
+            <rect id="Rectangle-2" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup" x="29" y="402" width="76" height="76"></rect>
+        </g>
+    </g>
+</svg>
