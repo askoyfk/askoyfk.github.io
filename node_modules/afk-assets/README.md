@@ -1,4 +1,4 @@
 design
 ==========
 
-CSS4 med konkatenering og transpilering til CSS3 via PostCSS
+CSS og SVG for askoyfk.no. Publisert til npm som afk-assets.
