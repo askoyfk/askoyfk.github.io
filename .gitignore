@@ -1,8 +1,6 @@
 .DS_Store
 _site
 .sass-cache
-widgets/node_modules
-football-elements-old
 node_modules/*
 !node_modules/afk-assets
-afk-layout
+!node_modules/afk-teams
