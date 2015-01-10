@@ -35,7 +35,7 @@
     "gulp-ruby-sass": "^0.7.1"
   },
   "dependencies": {
-    "afk-assets": "1.0.2",
+    "afk-assets": "1.0.3",
     "afk-teams": "^1.0.1"
   }
 }
