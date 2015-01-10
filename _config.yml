@@ -16,6 +16,18 @@ markdown: kramdown
 #
 # include:
 
+permalink: /:categories/:year/:month/:day/:title/
+
+defaults:
+    -
+        scope:
+            path: "nyheter"
+            type: "posts"
+        values:
+            layout: "post"
+            categories: "nyheter"
+
+
 exclude:
     - feed.xml
     - README.md
@@ -50,6 +62,11 @@ collections:
         output: true
         permalink: /lag/:path/
         layout: team
+    # nyheter:
+    #     output: true
+    #     permalink: /:year/:month/:day/:title/
+    #     type: posts
+    #     layout: post
 #    arrangement:
 #        output: true
 #        permalink: /arrangement/:path/

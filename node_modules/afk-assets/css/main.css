@@ -797,14 +797,35 @@ nav a:hover {
 }
 #plakat {
     /* margin-top: 20px; */
-    height: 400px;
+    height: 300px;
     padding: 20px 40px;
     box-sizing: border-box;
     background-color: #fff;
-    background-image: url(/svg/juletre.svg);
-    background-position: 100% 50%;
-    background-repeat: no-repeat;
-    background-size: 100% auto;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-justify-content: left;
+        -ms-flex-pack: left;
+            justify-content: left;
+}
+#plakat div {
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+            align-self: center;
+}
+#plakat p {
+    font-size: 2.5rem;
+    margin: .5em 0 1em 0;
+}
+#plakat .button {
+    font-size: 2rem;
+    color: white;
+}
+#plakat h1 {
+    font-weight: 900;
+    /* align-self: flex-end; */
+
+    font-size: 4rem;
 }
 @media screen and (max-width: 479px) {
 

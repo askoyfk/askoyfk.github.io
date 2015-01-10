@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<main class="subpage">
+
+    <h1>Nyheter</h1>
+
+    <p><strong>Frem til vi er ferdig med å flytte artikler fra de gamle websidene våre, vil bare artikler som er publisert i 2015 være tilgjengelig her.</strong></p>
+
+    {% for post in site.posts %}
+        <div>
+                <h2>{{ post.title }}</h2>
+                <p>{{ post.excerpt }}</p>
+                <a class="button" href="{{ post.url }}">Les mer</a>
+        </div>
+    {% endfor %}
+
+
+
+
+</main>
