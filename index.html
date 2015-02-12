@@ -16,6 +16,30 @@ layout: default
     <object class="sponsor" id="nobi-logo" type="image/svg+xml" data="/node_modules/afk-assets/svg/nobi-logo.svg"></object>
     <object class="sponsor" id="vitek-logo" type="image/svg+xml" data="/node_modules/afk-assets/svg/vitek-logo.svg"></object>
     <object class="sponsor" id="spv1-logo" type="image/svg+xml" data="/node_modules/afk-assets/svg/sparebanken-vest-logo.svg"></object>
+
+    <script>
+
+        // temporary solution
+
+        var links = {
+            'stamina-logo' : 'http://www.staminagroup.no/finn-oss/vestlandet/bergen-askoy/?remembercenter=true',
+            'nobi-logo'    : 'http://www.nobi.no',
+            'vitek-logo'   : 'http://www.vitek.no',
+            'spv1-logo'    : 'http://www.spv.no'
+        };
+
+        [].forEach.call(document.querySelectorAll('.sponsor'), function(logo) {
+            logo.addEventListener('load', function() {
+                var svg = logo.contentDocument.querySelector('svg');
+                svg.style.cursor = 'pointer';
+                svg.addEventListener('click', function() {
+                    window.location.href = links[logo.id];
+                });
+            });
+        });
+
+    </script>
+
 </section>
 
 <main>
