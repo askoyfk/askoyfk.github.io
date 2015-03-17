@@ -15,7 +15,7 @@ Her kommer info om Frode
 Her kommer info om Silje
 
 
-#####Arild Hjelle
+#####Arild Hjelle, Roller??
 Her kommer info om Arild
 
 
@@ -26,17 +26,17 @@ Til daglig (når han ikke er på Myrane) jobber han som leder i et IT-selskap so
 
 Kjetil holder med (i prioritert rekkefølge) følgende lag: AFK, Brann, Manchester United, Barcelona, men først og fremst med god fotball og gode prestasjoner og engasjement
 
-#####Anne Grete Elgsås Nilsen
+#####Anne Grete Elgsås Nilsen, Roller??
 Anne Grete bor på Øvre Kleppe, gift og har to veldig aktive barn i klubben (Guttelaget og Jenter 01). Anne Grete har en lang historie i AFK helt tilbake til AFK ikke eksisterte. Hun har spilt aktiv i Kleppestø Idrettslag og har tilbrakt mange timer på Myrane Grus, Myrane Krøllgress og Myrane Kunstgress både som spiller, foreldre, trener og foreldrekontakt. Anne Grete har også de siste årene vært aktiv med å bidstå rundt AFK sine argangementer rundt Lærum Cup i Sogndal og AFK sin julecup.
 
 Anne Grete jobber til daglig som Adjunkt på Hop Skole og studerer for å bli en enda bedre lærer ved siden av jobben.
 
 Vi kjenner Anne Grete som engasjert og du skal ikke bli overrasket hvis du hører henne på tribunen på en AFK kamp, nesten uansett hvor den går.
 
-#####Trond Marøy
+#####Trond Marøy, Roller??
 Her kommer info om Trond
 
 
-#####Ole Martin Næss
+#####Ole Martin Næss, Roller??
 Her kommer info om Ole Martin
 
