@@ -8,7 +8,6 @@ Besøk oss i klubbhuset på Søre Myrane 8, 5300 Kleppestø.
 
 Kontoret betjenes av **Torill Vindenes**, <span class="nowrap">tlf:  917 45 451,</span> <span class="nowrap">epost: <post@askoyfotballklubb.no>,</span> og er åpent mandag, onsdag og fredag fra 8.30 til 16.00 og tirsdag fra 12 til 19.30.
 
-Turneringsleder for Nobi Julecup er **Johnny Berg**, som kan kontaktes på telefon <span class="nowrap">911 46 251</span> eller epost <johnny15@online.no>.
 
 Styrets medlemmer
 -----------------
@@ -24,26 +23,26 @@ Nestleder
 : <silje@guleng.no>
 
 Styremedlem
-: Mona Høviskeland
-: 482 12 794
-: <monabjorgum75@hotmail.com>
-
-Styremedlem
 : Arild Hjelle
 : 402 40 809
-: <arilhje@online.no>
+: arildhje@online.no
 
 Styremedlem
-: Bertil Sivertsen
-: 480 19 227
-: <ber-si@online.no>
+: Kjetil Sørtun
+: 907 89 004
+: kjetil.sortun@gmail.com
+
+Styremedlem
+: Anne Grete Nilsen
+: 926 89 109
+: age3011@hotmail.com
 
 Varamedlem
 : Trond Marøy
 : 977 18 505
-: <trond.maroy@tts-ohe.com>
+: trond.maroy@tts-ohe.com
 
 Varamedlem
-: Hallgeir Skøien Varsi
-: 906 09 981
-: <hallgeir@karabin.no>
+: Ole Martin Næss
+: 414 75 988
+: chelsea-ole@hotmail.com 
