@@ -1,1 +1,0 @@
-<Frode Fjell>
