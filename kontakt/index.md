@@ -25,24 +25,24 @@ Nestleder
 Styremedlem
 : Arild Hjelle
 : 402 40 809
-: arildhje@online.no
+: <arildhje@online.no>
 
 Styremedlem
 : Kjetil Sørtun
 : 907 89 004
-: kjetil.sortun@gmail.com
+: <kjetil.sortun@gmail.com>
 
 Styremedlem
 : Anne Grete Nilsen
 : 926 89 109
-: age3011@hotmail.com
+: <age3011@hotmail.com>
 
 Varamedlem
 : Trond Marøy
 : 977 18 505
-: trond.maroy@tts-ohe.com
+: <trond.maroy@tts-ohe.com>
 
 Varamedlem
 : Ole Martin Næss
 : 414 75 988
-: chelsea-ole@hotmail.com 
+: <chelsea-ole@hotmail.com> 
