@@ -7,8 +7,12 @@ permalink: /styret/
 Styret som ble valgt på årsmøtet i februar er sammensatt av noen gamle medlemenner og noen nye medlemmer. AFK er en stor klubb og det er sikkert ikke alle som kjenner verken de nye eller gamle ansiktene i styre. Her er en liten introduksjon
 
 
-#####Frode Fjell, Leder
-Her kommer info om Frode
+#####Frode Fjell, Styreleder
+Frode er 46 år, bor i Solhola, gift og har 3 barn i alderen 16 til 6 år(1 gutt og 2 jenter). Frode har en aktiv fotballkariere litt tilbake i tid. Har spilt aktivt fortball i Hald, Nest (nå Nest-Sotra), Straume FK (nå endel av Sotra Sportsklubb) før han forlot Sotra og flyttet til Askøy. I AFK har Frode vært aktiv i flere roller fra ca 2007. Først som foreldretrener på guttesiden og senere i mer knyttet opp mot styre og administrasjon. Frode sitter i styret for tredje året, og har sitt andre år som leder for styret. Han er også aktiv i barnefotballen som trener for Jenter 2008.
+
+Frode jobber til daglig som avdelingsleder/prosjektleder i et selskap som leverer komplette pumpe/kompressor systemer til Oljeselskapene.
+
+Favorittlag: AFK, Brann, Liverpool. De som kjenner Frode, beskriver han gjerne som bestemt og handlekraftig med et glimt i øyet.
 
 
 #####Silje Guleng, nesteleer
