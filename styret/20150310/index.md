@@ -11,6 +11,7 @@ permalink: /styret/20150310/
 *Tilstede*: Frode Fjell (referent), Torill Vindenes, Arild Hjelle, Kjetil Sørtun, Anne Grete Nilsen, Ole Martin Næss og Silje Guleng
 
 *Meldt forfall*: Trond Marøy
+
 ---
 
 ##Godkjenning av innkalling og saksliste datert 10.03.2015
@@ -18,9 +19,12 @@ Vedtak: Godkjent
 
 ##Godkjenning av møtereferat 10.02.2015
 Vedtak: Godkjent
+
 ---
 
 #Saker i 2015
+
+---
 
 ###Sak 1/15 Deltakelse på Kretstinget:
 Kretstinget holdes på Thon hotell på Kokstad den 14. feb 2015. Starter klokken 11:00. 
@@ -33,6 +37,7 @@ Følgende deltar på kretstinget:
 * Kjetil Sørtun
 
 Status: 10. Mars 2015: Frode og Kjetil informerte om tinget. Sak Lukkes.
+
 ---
 
 ###Sak 2/15 Startpakke til nystartede lag (1. klasse på barneskole)
