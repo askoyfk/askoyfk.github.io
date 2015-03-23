@@ -4,17 +4,19 @@ title: Styremøte 10-03-2015
 permalink: /styret/20150310/
 ---
 
-#### Styremøte 2015.03.10
 *Sted*: Klubbhuset
+
 *Dato/Tid*: 2015.03.10 - 19.15
+
 *Tilstede*: Frode Fjell (referent), Torill Vindenes, Arild Hjelle, Kjetil Sørtun, Anne Grete Nilsen, Ole Martin Næss og Silje Guleng
+
 *Meldt forfall*: Trond Marøy
 
 
-#####Godkjenning av innkalling og saksliste datert 10.03.2015
+###Godkjenning av innkalling og saksliste datert 10.03.2015
 Vedtak: Godkjent
 
-#####Godkjenning av møtereferat 10.02.2015
+###Godkjenning av møtereferat 10.02.2015
 Vedtak: Godkjent
 
 
