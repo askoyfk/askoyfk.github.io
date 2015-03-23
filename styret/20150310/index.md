@@ -45,6 +45,7 @@ Vi må få laget en startpakke med informasjon til foreldre i forbindelse med op
 Flere av forelderene savner informasjon om hva de skal gjøre.
 Silje har allerede laget denne infopakken. 
 Silje oversende dette til WEB ansvarlig slik at dette kan publiseres på vår WEB-side.
+
 Status: 10. Mars 2015: Informasjonspakke vil  bli publisert på WEB side.
 
 ---
@@ -58,6 +59,7 @@ Dette vil bli oppgaver for Anleggsansvarlig – må utnevnes på 1. styremøte e
 ##Sak 4/15 Annleggsansvarlig
 Vi må ha på plass en annleggsansvarlig.
 Saken flyttes til 1. styremøte etter årsmøte (mars).
+
 Status: 10. Mars 2015: Anleggsansvarlig er Arild Hjelle
 
 ---
@@ -74,6 +76,7 @@ Status: 10. Mars 2015: Anleggsansvarlig er Arild Hjelle
 	
 Kontaktdetaljer er sendt på mail 10. Mars 2015 alle styremedlemmer samt det nye styre publiseres på WEB med mail og telefonnummer. Det lages en liten oppsumering på hvert enkelt medlem slik at disse kan presenteres på web siden til AFK. Hver enkelt styremedlem lager en kort beskrivelse av seg selv . Hvem de er, hvor de bor, hva de gjør på til dagen oppgaver i klubben.
 Torill Vindenes må også presenteres med rollen sin i klubben.
+
 Status: 10. Mars 2015: Sendes til WEBansvarlig for publisering på AFK nettside.
 
 ---
@@ -83,6 +86,7 @@ Roger og Willy fortsetter i valgkommiteen såfremt det kommer inn en person til.
 Det er ønskelig at det da kommer en person fra barnelagene
 Forslag er Trond Marøy går inn i valgkomiteen. Dette er avklart med Trond.
 Valgkommiteten består dermed av Roger Granheim, Willy Solberg og Trond Marøy
+
 Status: 10. Mars 2015: Vedtatt på årsmøte.Sak lukkes.
 
 ---
@@ -116,6 +120,7 @@ Kjetil Sørtun, Anne Grete Nilsen, Arild Hjelle og Ole Martin Aabrek Næss sjekk
 ##Sak 10/15 AFK skjerf, lue, buff
 AFK vurdere å anskaffe lue, skjerf, buff og hansker (evt andre plagg) med AFK logo som kan kjøpes av medlemmene. Dette skal være et rimelig tilbud og bekledningen skal være mer av teknisk karakter slik at det egner seg til trening.
 Silje skaffe vareprøver slik at vi skal kunne se hva dette er før en bestilling settes.
+
 Status: 10. Mars 2015: Silje vil skaffe vareprøver på lue, skjerf, hansker, buff.
 
 ---
@@ -141,6 +146,7 @@ Arild vil ta tak i denne saken og få etablert et FAIR PLAY utvalg sammen med Si
 
 ##Sak 13/15 Sammenslåing av G2004
 Trond informerte at de på G2004 har utfordringer når det kommer til å ha nok spillere på enkelte av klassene. De vil ta et møte med foreldre for å se på å slå dem sammen. Det er ikke snakk om å toppe, men heller holde flest mulig i gang med fotballen. Trond vil gi tilbakemelding til Sportslig utvalg om denne saken. 
+
 Status 20.01.2015: Her er det nå kommet på plass et opplegg med fellestrening på lørdager. Trond holder tak i dette.
 
 ---
@@ -150,6 +156,7 @@ Styret har bestemt at det laget en plan for hva som skal publiseres på nettside
 Siden vil bli oftere oppdatert og Årshjulet vil etter hvert bli lagt ut på nettet slik at brukere kan se hva som planlegges og når på året.
 På hvert styremøte vil det bli diskutert hva som publiseres den neste månaden.
 WEB ansvarlig er Kjetil Sørtun og Viktor Nystad
+
 Kjetil Sørtun lager plan for neste periode.
 
 ---
@@ -207,8 +214,10 @@ Torill sender regelverk for sponsorer til alle styrerepresentanter slik av vi f�
 Dette for at alle styremedlemmene skal være kjent med regelverk sam se på om det er noe som bør korrigeres. Regelverk sendes deretter ut til alle foreldrekontakter i alle lag.
 Alle sponsoravtaler som inngår må rapporteres til klubben på et skjema. Hvis vi ikke har et skjema må dette lages slik at det blir enkelt å melde dette tilbake.
 Dette for å sikre kontinuitet opp mot sponsorene.
+
 Faktura som skal sendes til sponsorene må sendes ut via klubben. Dette vil bli gjort av Torill Vindenes.
 Det er noen lag som er meget flinke på sponsorsiden. Dette må vi lære av.
+
 Det er foreslått at det tas et møte med de som klarer å etablere mange sponsorer for å høste av deres erfaringer og metoder.
 
 ---
