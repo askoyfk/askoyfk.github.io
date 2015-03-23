@@ -1,6 +1,6 @@
 ---
 title: Askøy Fotballklubb - En positiv opplevelse
-author: Styret – Askøy Fotballklubb
+author: Kjetil Sørtun, Sportslig leder
 ---
 
 *Spiller, medlemmer, foreldre, motstander, trenere og dommer skal ha en positiv opplevelse i møte med Askøy fotballklubb.* 
@@ -22,5 +22,3 @@ Hvis alle gjør litt blir det veldig mange positive opplevelser for mange.
 
 Hvis det er noen som sitter inne med en positiv opplevelse med AFK, er dere velkommen til å fortelle oss om den. Vi samler på positive opplevelser :-)
 
-Kjetil Sørtun
-Sportslig leder AFK
