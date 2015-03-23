@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Styremøte 10-03-2015
-permalink: /styret/2015-03-10/
+permalink: /styret/20150310/
 ---
 
 #### Styremøte 2015.03.10
