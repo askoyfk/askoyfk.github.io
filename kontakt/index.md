@@ -43,6 +43,6 @@ Varamedlem
 : <trond.maroy@tts-ohe.com>
 
 Varamedlem
-: Ole Martin Næss
-: 414 75 988
+: Ole Martin Aabrek Næss
+: 944 81 996
 : <chelsea-ole@hotmail.com> 
