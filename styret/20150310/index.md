@@ -11,15 +11,15 @@ permalink: /styret/20150310/
 *Tilstede*: Frode Fjell (referent), Torill Vindenes, Arild Hjelle, Kjetil Sørtun, Anne Grete Nilsen, Ole Martin Næss og Silje Guleng
 
 *Meldt forfall*: Trond Marøy
-
 ---
+
 ##Godkjenning av innkalling og saksliste datert 10.03.2015
 Vedtak: Godkjent
 
 ##Godkjenning av møtereferat 10.02.2015
 Vedtak: Godkjent
-
 ---
+
 #Saker i 2015
 
 ###Sak 1/15 Deltakelse på Kretstinget:
