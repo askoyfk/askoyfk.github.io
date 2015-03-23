@@ -3,7 +3,7 @@ title: Askøy Fotballklubb - En positiv opplevelse
 author: Styret – Askøy Fotballklubb
 ---
 
-** Spiller, medlemmer, foreldre, motstander, trenere og dommer skal ha en positiv opplevelse i møte med Askøy fotballklubb.** 
+*Spiller, medlemmer, foreldre, motstander, trenere og dommer skal ha en positiv opplevelse i møte med Askøy fotballklubb.* 
 
 Vi oppfordrer alle til å være gode ambasadører for klubben og vise at vi både kan være gode fotballspiller og gode mennersker samtidig. 
 
