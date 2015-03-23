@@ -12,40 +12,43 @@ permalink: /styret/20150310/
 
 *Meldt forfall*: Trond Marøy
 
-
-###Godkjenning av innkalling og saksliste datert 10.03.2015
+---
+##Godkjenning av innkalling og saksliste datert 10.03.2015
 Vedtak: Godkjent
 
-###Godkjenning av møtereferat 10.02.2015
+##Godkjenning av møtereferat 10.02.2015
 Vedtak: Godkjent
 
+---
+#Saker i 2015
 
-###Saker i 2015
-
-#####Sak 1/15 Deltakelse på Kretstinget:
+###Sak 1/15 Deltakelse på Kretstinget:
 Kretstinget holdes på Thon hotell på Kokstad den 14. feb 2015. Starter klokken 11:00. 
 Overnatting er mulig. Deltakeravgift dekkes av AFK
 Frist for påmelding er 30. Januar (dette står på nett)
 Vi har 3 stemmer på tinget.
 Følgende deltar på kretstinget:
-Frode Fjell
-Kjetil Sørtun
-Status: 10. Mars 2015: Frode og Kjetil informerte om tinget. Sak Lukkes.
 
-#####Sak 2/15 Startpakke til nystartede lag (1. klasse på barneskole)
+* Frode Fjell
+* Kjetil Sørtun
+
+Status: 10. Mars 2015: Frode og Kjetil informerte om tinget. Sak Lukkes.
+---
+
+###Sak 2/15 Startpakke til nystartede lag (1. klasse på barneskole)
 Vi må få laget en startpakke med informasjon til foreldre i forbindelse med oppstart av nye barnelag.
 Flere av forelderene savner informasjon om hva de skal gjøre.
 Silje har allerede laget denne infopakken. 
 Silje oversende dette til WEB ansvarlig slik at dette kan publiseres på vår WEB-side.
 Status: 10. Mars 2015: Informasjonspakke vil  bli publisert på WEB side.
+---
 
-
-#####Sak 3/15 7’er mål på Bergheim
+###Sak 3/15 7’er mål på Bergheim
 Frode svarer tilbake til Vidar Johannessen at vi vil får montere på hjul på de målene som det er mulig å få dette til på. Dette gjelder også på Myrane da det er mange mål også her som mangler hjul.
 Dette vil bli oppgaver for Anleggsansvarlig – må utnevnes på 1. styremøte etter årsmøte (mars 2015)
+---
 
-
-#####Sak 4/15 Annleggsansvarlig
+###Sak 4/15 Annleggsansvarlig
 Vi må ha på plass en annleggsansvarlig.
 Saken flyttes til 1. styremøte etter årsmøte (mars).
 Status: 10. Mars 2015: Anleggsansvarlig er Arild Hjelle
