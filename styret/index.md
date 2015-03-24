@@ -67,8 +67,8 @@ Ole Martin er født i 1996 og har spilt på alle aldersnivå i AFK og er i dag a
 
 I 2013/2014 var Ole Martin utvekslingsstudent i USA og har også planlagt å tilbringe tid i USA etter russetiden for å jobbe i Orlando, Florida. Han har også tid til å jobbe ved siden av skole, trening og venner.
 
-Ole har et stort hjerte for fotball, både som spiller, men også som tilskuer. Vi har sett han flere ganger på TV som ivrig Brannsupporter og tar gjerne turen til London for å se kamper med favorittlaget Chelsea. 
+Ole Martin har et stort hjerte for fotball, både som spiller, men også som tilskuer. Vi har sett han flere ganger på TV som ivrig Brannsupporter og han tar gjerne turen til London for å se kamper med favorittlaget Chelsea. 
 
-Ole er en viktig del av styret og bidrar med mye kunnskap og forståelse inn i diskusjonene vi har i styret.
+Ole Martin er en viktig del av styret og bidrar med mye kunnskap og forståelse inn i diskusjonene vi har i styret.
 
 ---
