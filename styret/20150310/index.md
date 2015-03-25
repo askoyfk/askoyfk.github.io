@@ -94,8 +94,7 @@ Status: 10. Mars 2015: Vedtatt på årsmøte.Sak lukkes.
 ##Sak 8/15 Bergheimgruppen – Nye Bergheim
 Møte er avholdt med grunneier.
 Vi har i dag en muntlig løsning med Ola Hiis-Berg på grunnen.
-Vi har laget et brev som er sendt til Trond Mohn der vi ønsker å møte han for å fortelle planene vi har for «Nye Bergheim»
-Det er levert et forslag til kommunen om å inkludere reguleringsplanen fro Bergheim sammen med Myrane.
+Vi har laget et brev som er sendt til Trond Mohn der vi ønsker å møte han for å fortelle planene vi har for «Nye Bergheim».
 
 ---
 
@@ -190,6 +189,7 @@ Kretsen er positiv til dette tiltaket.
 Styret i AFK er positive til tiltaket og tror det vil bli bedre for både spillere, forelder og trenere.
 Frode Fjell melder tilbake til Edvard Ravnanger i Talent Askøy.
 
+
 ---
 
 ##Sak 17/15 Oppgavefordeling av viktige posisjoner i klubben	
@@ -245,7 +245,7 @@ Inkalling vil bli gjort av Frode Fjell. Sakslisten vil bli sendt ut fredag før 
 ##Sak 20/15 Liste alle spillere for Barnefotballen
 Trond har sendt Torill Vindenes det aller meste av listene. 
 Det mangler fortsatt noen personer der alle detaljene ikke er på plass.
-Trond holder tak i denne saken og vil koordinere pp mot Torill med manglende informasjon.
+Trond holder tak i denne saken og vil koordinere opp mot Torill med manglende informasjon.
 
 ---
 
