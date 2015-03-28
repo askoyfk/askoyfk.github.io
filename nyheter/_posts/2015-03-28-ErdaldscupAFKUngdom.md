@@ -1,9 +1,9 @@
 ---
-title: Ungdomsgruppen i Erdalscup
+title: Ungdomsgruppen i Erdalscupen
 author: Kjetil Sørtun, Sportslig leder
 ---
 
-*Like sikkert som at det er vår, er det fotball på Erdal for klubbene på Askøy. Mange gode kamper og prestasjoner fra AFK. Det ble turneringsseier i Junior og G14 gruppen.*
+*Like sikkert som at det er vår, er det fotball på Erdal for klubbene på Askøy. Mange gode kamper og prestasjoner fra AFK. Det ble turneringsseier i Junior og G14 klassen.*
 
 Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdalscup i 2015. 
 
