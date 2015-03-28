@@ -1,11 +1,11 @@
 ---
-title: Ungdomsgruppen i Erdalscupen
+title: Ungdomsgruppen i Erdal Cup
 author: Kjetil Sørtun, Sportslig leder
 ---
 
 *Like sikkert som at det er vår, er det fotball på Erdal for klubbene på Askøy. Mange gode kamper og prestasjoner fra AFK. Det ble turneringsseier i Junior og G14 klassen.*
 
-Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdalscup i 2015. 
+Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdal Cup 2015. 
 
 * 3 juniorlag
 * 2 guttelag
@@ -30,7 +30,7 @@ AFK1 vant puljen med tre strake seiere. AFK2 gikk videre i sin pulje som nummer 
 
 AFK1 og AFK2 møttes i semifinalen, hvor AFK1 gikk videre fra. I finalen var Vestsiden motstander. Etter full tid stod det hele 6-1 til AFK1.
 
-Vi gratulerer hele 2001 gruppen med god innsats og seier i Erdalscup for G14. 
+Vi gratulerer hele 2001 gruppen med god innsats og seier i Erdal Cup for G14. 
 
 ![En fornøyd gjeng etter finalen var over](http://www.askoyfk.no/images/20150325_G14_VinnereErdalsCup.jpg)
 
@@ -66,9 +66,9 @@ Stolte juniorspillere etter finalen.
 
 ---
 
-##Barnefotball i Erdalscup
+##Barnefotball i Erdal Cup
 
-Over påske starter barneturneringen i Erdalscup. Kampene går helgen 11-12. april og 18-19. april
+Over påske starter barneturneringen i Erdal Cup. Kampene går helgen 11-12. april og 18-19. april
 AFK stiller med hele 45 lag. Noen du kjenner igjen?
 
 I Gruppe E (Gutter, 2003)
