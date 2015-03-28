@@ -5,7 +5,6 @@ author: Kjetil Sørtun, Sportslig leder
 
 *Like sikkert som at det er vår, er det fotball på Erdal for klubbene på Askøy. Mange gode kamper og prestasjoner fra AFK. Det ble turneringsseier i Junior og G14 gruppen*
 
-
 Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdalscup i 2015. 
 * 3 juniorlag
 * 2 guttelag
@@ -111,22 +110,3 @@ I Gruppe T (Jenter, 2007)
 I Gruppe U (Jenter, 2008)
 * AFK Månestråle A
 * AFK Månestråle B
-
-
-Vi oppfordrer alle til å være gode ambasadører for klubben og vise at vi både kan være gode fotballspiller og gode mennersker samtidig. 
-
-Det kan bety:
-
-* Alle spillere behandles rettferdig og med respekt på trening og kamp for klubben.
-* Alle motstander ønskes velkommen og med respekt til vår hjemmebane, og for lov til å reise hjem uten poeng, men med en god opplevelse.
-* På bortekamper viser vi respekt for motstanderen, samtidig som vi tar med oss alle poengene hjem.
-* Vi respekterer dommeren og reglene som han/hun er satt til å håndtere under avvikling av kamp.
-* Vi viser respekt til trenere og personer som bidrar rundt klubben for det arbeidet som de bidrar med.
-* Vi kan alltid ta motstanderen i hånden og vise respekt når vi har gjort noe galt og dommeren har dømt.
-* Vi skal alltid prøve å vinne kamper med å vise gode holdninger og respekt for spillet.
-* Kjefter vi på dommer og mostander, blir vi behandlet på samme måte tilbake, og ingen får en positiv opplevelse.
-
-Hvis alle gjør litt blir det veldig mange positive opplevelser for mange. 
-
-Hvis det er noen som sitter inne med en positiv opplevelse med AFK, er dere velkommen til å fortelle oss om den. Vi samler på positive opplevelser :-)
-
