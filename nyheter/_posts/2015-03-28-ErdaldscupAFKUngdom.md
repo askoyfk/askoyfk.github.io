@@ -10,7 +10,7 @@ Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdalscup i 2015.
 * 3 juniorlag
 * 2 guttelag
 * 2 G14 lag
-* 2 G14 lag
+* 2 G13 lag
 
 ---
 
@@ -38,7 +38,7 @@ En fornøyd gjeng etter at finalen var over.
 
 ---
 
-###Gutter
+###Gutter (Gutter født i 1999/2000)
 
 AFK2 endte på en tredje plass i sin pulje etter to tap og en uavgjort kamp. AFK1 klarte tre strake seiere uten at det ble sluppet inn noen mål. 
 
@@ -50,7 +50,7 @@ Selv om det ikke ble seier i finalen, ble det en god oppladning for laget frem m
 
 ---
 
-###Junior
+###Junior (Gutter født i 1996/1997/1998)
 
 AFK hadde hele tre juniorlag med i turneringen. Alle tre lagene gikk videre til semifinale sammen med Follese1. AFK1 og AFK2 måtte gjøre opp om retten til finale, og AFK2 gikk videre med 2-0.
 
