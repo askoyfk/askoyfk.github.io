@@ -12,6 +12,8 @@ Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdalscup i 2015.
 * 2 G14 lag
 * 2 G14 lag
 
+---
+
 ###G13 (Gutter født i 2002)
 
 I G13 (Gutter født i 2002) klarte AFK2 å spille seg til en andre plass i puljen bak Follese 1, og var kvalisert til semifinale mot Follese 2. 
@@ -19,6 +21,8 @@ I G13 (Gutter født i 2002) klarte AFK2 å spille seg til en andre plass i pulje
 Etter en god kamp av begge lag, skåret Follese det avgjørende målet 1 minutt før slutt. Resultatet ble 1-2 til Follese. 
 
 AFK1 ble nummer tre i sin pulje.
+
+---
 
 ###G14 (Gutter født i 2001)
 
@@ -32,6 +36,8 @@ Vi gratulerer hele 2001 gruppen med god innsats og seier i Erdalscup for G14.
 
 En fornøyd gjeng etter at finalen var over.
 
+---
+
 ###Gutter
 
 AFK2 endte på en tredje plass i sin pulje etter to tap og en uavgjort kamp. AFK1 klarte tre strake seiere uten at det ble sluppet inn noen mål. 
@@ -41,6 +47,8 @@ I semifinalen møtte AFK1 Apollo/Norsiden og klarte 2-1 etter å ha ligget under
 Finalen mot Folles 1 endte desverre med tap 2-1 mot Follese. 
 
 Selv om det ikke ble seier i finalen, ble det en god oppladning for laget frem mot seriestart i første divisjon Gutter.
+
+---
 
 ###Junior
 
