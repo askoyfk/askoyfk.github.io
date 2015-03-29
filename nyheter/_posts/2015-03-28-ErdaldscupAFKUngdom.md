@@ -56,7 +56,7 @@ AFK hadde hele tre juniorlag med i turneringen. Alle tre lagene gikk videre til 
 
 AFK3 møtte Follese 1, og etter to fulle omganger og to ekstra omganger stod det 1-1. Semifinalen måtte avgjøres på straffe og her var Follese litt bedre en AFK og gikk videre til finalen.
 
-AFK2 slo Folles 1 i finalen 3-2 etter å ha ligget under både 0-1 og 1-2. Utover kampen var kontrollerte AFK kampen, og det var tydelig at de var litt bedre en Follese i denne kampen.
+AFK2 slo Folles 1 i finalen 3-2 etter å ha ligget under både 0-1 og 1-2. Utover kampen kontrollerte AFK kampen, og det var tydelig at de var litt bedre en Follese i denne kampen.
 
 Vi gratulerer alle spillere som var med å spille for AFK i juniorklassen med seieren. Det er spesielt gledelig at vi har en så bred og god spillergruppe at vi spiller oss til semifinale med hele tre lag. På laget som vant var det spillere fra både 96, 97, 98, og 99 generasjonen i AFK.
 
