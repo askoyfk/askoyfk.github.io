@@ -5,8 +5,6 @@ permalink: /london/
 ---
 
 
-Kjære leser!
- 
 A-laget til Askøy Fotballklubb har for lengst landet på norsk jord etter en langhelg på treningsleir i London, England. 
 
 A-laget har i år begynt å dele ut bøter på visse ting, hvor blant annet «forsentkomming» automatisk fører til 10 kr bot som går til sosiale formål for A-laget.
@@ -14,6 +12,8 @@ Med 27 spillere og 4 lagledere fra AFK som skulle møte mannsterke opp på Flesl
 
 Tross bøter på noen, var det kun selvinnsjekkingsmaskinen på Flesland som ikke var like glad for å være på Flesland denne tidlige marsmorgenen med en haug askøystriler. 
 En spent gjeng med spillere fra alderen 16 og helt til slutten av 20-årene var forventningsfulle før møte med engelsk jord, og fotballfilosofi.
+
+![En fornøyd gjeng etter finalen var over](http://www.askoyfk.no/images/20150403_HeleGjengen.JPG)
  
 Fremme på hotellet, Jurys Inn i Croydon, Sør-London ble vi møtt av Sara, representant fra Sportsadventure, som organiserte hele treningsleiren for oss. 
 Her ble vi fortalt at det var bare til å skifte til treningstøy, for nå var det rett på treningsfeltet. Vi lå ikke på latsiden med andre ord. 
