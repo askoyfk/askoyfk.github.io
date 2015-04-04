@@ -22,12 +22,17 @@ En semi-profesjonell klubb som spiller i divisjon sør i Isthmian League.
 Treningsfasilitetene bestod av 2 kunstgressbaner, og godt oppdatert treningsutstyr. 
 Ben, en trener fra Crystal Palace Academy, ledet treningene med god hjelp fra en ung keepertrener, og en spiller som er i Crystal Palace Academy.
 
+![Treningstedet](http://www.askoyfk.no/images/20150403_WelcomeToTootingMichamUnited.JPG)
+
 Første treningen ble et knallhardt møte med engelsk fotballfilosofi. 
 Et A-lag som har hatt fokus på kondisjon i form av løpetreninger på Bergheim, og løpetester etter trening, møtte nå en treningsstil som krevde både konsentrasjon og god kondisjon. 
 Ben var imponert over innsatsen, tempoet og engasjementet, men vi kan ikke legge skjul på at 2-timers økten hadde tappet oss for krefter. 
 Det var med andre ord en sliten gjeng med gutter som returnerte den kvelden. 
 
 Vi fikk frie tøyler resten av kvelden, og vanligvis ville man gått på både shopping, og gjerne restaurant, men det er ikke å ta hardt i når jeg sier at samtlige spillere og ledere var i seng rundt 22-tiden.
+
+![Treningstedet](http://www.askoyfk.no/images/20150403_Lunch.jpg)
+
  
 Dag 2, og vi skulle møte til frokost kl 08:00. Det ble et par bøter på noen av guttene som kanskje sto litt for lenge i dusjen, eller som ikke kom seg opp fra sengen. 
 Vi ble hentet kl 09:00 av 2 minibusser. Det var duket for 2 2-timers økter. 
@@ -65,12 +70,16 @@ En meget fornøyd gjeng reiset hjemover etter en fantastisk fotballopplevelse me
 
 Senere på lørdagskvelden hadde man felles middag på Pizzaekspressen, hvor spillere og ledere endelig kunne roe ned, og slappe av sammen med fintøyet på, og en hel pizza hver. 
 Det var dog tidlig i sengs, for dagen etter var det duket for kamp.
- 
+
+![Lag1](http://www.askoyfk.no/images/20150403_AFK1.jpg)
+
 Søndagen kom, og nå var det «matchday». 
 Gruppen ble delt inn i 2 lag, og vi skulle begge spille mot hvert vårt akademilag. 
 Begge lag var veldig giret for kamp, og vi var tydelig på at om vi skulle ha noen sjans, så måtte vi knalle til i duellene. 
 Begge kampene gikk utrolig bra, hvor det ene laget vant 2-1, og det andre laget spilte 2-2. 
 Askøystrilene hadde markert seg mot engelskmennene, og en meget suksessfull treningsleir ble avsluttet med positive resultater. 
+
+![Lag2](http://www.askoyfk.no/images/20150403_AFK2.jpg)
 
 Etter kampen ble vi værende på en pub for å se 2 lag som tydeligvis spilte i Premier League, men ellers var det 2 lag som ingen spesielt brydde seg om. 
 Ryktene går om at det ene laget kommer fra Manchester, og det andre fra Liverpool. 
@@ -88,3 +97,4 @@ En stor takk til Askøy Fotballklubb som la opp til at dette var mulig, og en st
 Ledere og spillere la opp til at dette ble en positiv opplevelse!
 
 Ole Martin Aabrek Ness
+Spillende reporter
