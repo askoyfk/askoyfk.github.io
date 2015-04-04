@@ -97,4 +97,5 @@ En stor takk til Askøy Fotballklubb som la opp til at dette var mulig, og en st
 Ledere og spillere la opp til at dette ble en positiv opplevelse!
 
 Ole Martin Aabrek Ness
+
 Spillende reporter
