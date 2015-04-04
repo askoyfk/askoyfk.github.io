@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Treningstur til London
-permalink: /london/
+author: Ole Martin Aabrek Ness, Spillende Reporter
 ---
 
 
