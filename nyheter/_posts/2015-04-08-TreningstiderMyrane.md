@@ -24,7 +24,7 @@ Her er oversikten over lag og treningstider på Myarne Kunstgress.
 * Mandager 15:30 - 17:00 1/2 bane Myrane
 * Onsdager 17:00 - 18:30 1/2 bane Myrane
 
-## Jenter 2002 (J13)
+### Jenter 2002 (J13)
 * Mandager 17:00 - 18:30 1/4 bane Myrane
 * Fredager 15:30 - 17:00 1/4 bane Myrane
 
