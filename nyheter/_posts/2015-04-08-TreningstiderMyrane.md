@@ -4,7 +4,10 @@ title: Treningstider Myrane
 author: Kjetil Sørtun, Sportslig leder
 ---
 
-Fra mandag 13.04.2015 har vi nye treningstider på Myrane. Vi har i år veldig mange kamper og veldig mange spillere som har treningstid på Myrane. 
+Fra mandag 13.04.2015 har vi nye treningstider på Myrane. 
+
+Vi har i år veldig mange kamper og veldig mange spillere som har treningstid på Myrane. 
+
 Styret vil jobbe med dette området fremover for å se hvilke tiltak som kan gjøres for å forbedre situasjonen. 
 
 Her er oversikten over lag og treningstider på Myarne Kunstgress.
