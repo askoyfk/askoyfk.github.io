@@ -15,6 +15,7 @@ Her er oversikten over lag og treningstider på Myarne Kunstgress.
 
 ### Gutter 2003
 * Onsdager 17:00 - 18:30 1/2 bane Myrane
+* Fredager 17:00 - 18:30 1/2 bane Myrane
 
 ### Jenter 2003
 * Onsdager 18:30 - 20:00 1/4 bane Myrane
@@ -63,6 +64,5 @@ Hvis det tider over som dere ikke ønsker å benytte, er det også fint om dere 
 * Mandager 15:30 - 17:00 1/2 bane Myrane
 * Tirsdager 15:30 - 17:00 1/1 bane Myrane
 * Onsdager 15:30 - 17:00 1/1 bane Myrane
-* Fredager 17:00 - 18:30 1/2 bane Myrane
 * Lørdager 11:30 - 13:00 1/2 bane Myrane
 * Søndager 11:30 - 13:00 1/1 bane Myrane
