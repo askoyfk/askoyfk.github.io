@@ -31,7 +31,7 @@ Her er oversikten over lag og treningstider på Myarne Kunstgress.
 
 ### Gutter 2001 (G14)
 * Mandager 17:00 - 18.30 1/2 bane Myrane
-* Fredager 15:30 - 17:00 1/1 bane Myrane
+* Torsdager 15:30 - 17:00 1/1 bane Myrane
 * Søndager 18:30 - 20:00 1/2 bane Myrane
 
 ### Jenter 2001 (J14)
