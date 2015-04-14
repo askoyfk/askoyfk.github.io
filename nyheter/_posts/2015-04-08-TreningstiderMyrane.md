@@ -12,6 +12,8 @@ Styret vil jobbe med dette området fremover for å se hvilke tiltak som kan gj�
 
 Her er oversikten over lag og treningstider på Myarne Kunstgress.
 
+### AFK Silver (gutter 2004)
+* Lørdager 11.30 - 13.00 1/2 bane Myrane
 
 ### Gutter 2003
 * Onsdager 17:00 - 18:30 1/2 bane Myrane
@@ -64,5 +66,5 @@ Hvis det tider over som dere ikke ønsker å benytte, er det også fint om dere 
 * Mandager 15:30 - 17:00 1/2 bane Myrane
 * Tirsdager 15:30 - 17:00 1/1 bane Myrane
 * Onsdager 15:30 - 17:00 1/1 bane Myrane
-* Lørdager 11:30 - 13:00 1/2 bane Myrane
+* <s>Lørdager 11:30 - 13:00 1/2 bane Myrane</s>
 * Søndager 11:30 - 13:00 1/1 bane Myrane
