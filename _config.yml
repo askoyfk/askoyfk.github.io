@@ -27,6 +27,8 @@ defaults:
             layout: "post"
             categories: "nyheter"
 
+gems:
+    - jekyll-redirect-from
 
 exclude:
     - feed.xml

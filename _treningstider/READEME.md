@@ -1,0 +1,1 @@
+Når vi får redesignet treningstider-siden, ser jeg for meg at den kan ha lokasjoner som undersider: Myrane, Bergheim, Mohn etc. med en eller annen kart-tjeneste med overlays som vi lager selv som viser baner delt inn i treningsområder.
