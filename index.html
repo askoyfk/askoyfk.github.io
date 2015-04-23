@@ -3,7 +3,7 @@ layout: default
 ---
 <section id="plakat">
 
-    {% for post in site.posts %}
+    {% for post in site.posts | limit: 1 %}
     <div>
         <h1>{{ post.title }}</h1>{{ post.excerpt }}<a class="button" href="{{ post.url }}">Les mer</a>
     </div>
