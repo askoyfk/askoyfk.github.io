@@ -1,11 +1,12 @@
 ---
 title: Ungdomsgruppen i Erdal Cup
 author: Kjetil Sørtun, Sportslig leder
+layout: post
 ---
 
 *Like sikkert som at det er vår, er det fotball på Erdal for klubbene på Askøy. Mange gode kamper og prestasjoner fra AFK. Det ble turneringsseier i Junior og G14 klassen.*
 
-Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdal Cup 2015. 
+Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdal Cup 2015.
 
 * 3 juniorlag
 * 2 guttelag
@@ -16,9 +17,9 @@ Ungdomsgruppen i AFK har stilt med totalt 9 lag i Erdal Cup 2015.
 
 ###G13 (Gutter født i 2002)
 
-I G13 (Gutter født i 2002) klarte AFK2 å spille seg til en andre plass i puljen bak Follese 1, og var kvalisert til semifinale mot Follese 2. 
+I G13 (Gutter født i 2002) klarte AFK2 å spille seg til en andre plass i puljen bak Follese 1, og var kvalisert til semifinale mot Follese 2.
 
-Etter en god kamp av begge lag, skåret Follese det avgjørende målet 1 minutt før slutt. Resultatet ble 1-2 til Follese. 
+Etter en god kamp av begge lag, skåret Follese det avgjørende målet 1 minutt før slutt. Resultatet ble 1-2 til Follese.
 
 AFK1 ble nummer tre i sin pulje.
 
@@ -30,7 +31,7 @@ AFK1 vant puljen med tre strake seiere. AFK2 gikk videre i sin pulje som nummer 
 
 AFK1 og AFK2 møttes i semifinalen, hvor AFK1 gikk videre fra. I finalen var Vestsiden motstander. Etter full tid stod det hele 6-1 til AFK1.
 
-Vi gratulerer hele 2001 gruppen med god innsats og seier i Erdal Cup for G14. 
+Vi gratulerer hele 2001 gruppen med god innsats og seier i Erdal Cup for G14.
 
 ![En fornøyd gjeng etter finalen var over](http://www.askoyfk.no/images/20150325_G14_VinnereErdalsCup.jpg)
 
@@ -40,11 +41,11 @@ En fornøyd gjeng etter at finalen var over.
 
 ###Gutter (Gutter født i 1999/2000)
 
-AFK2 endte på en tredje plass i sin pulje etter to tap og en uavgjort kamp. AFK1 klarte tre strake seiere uten at det ble sluppet inn noen mål. 
+AFK2 endte på en tredje plass i sin pulje etter to tap og en uavgjort kamp. AFK1 klarte tre strake seiere uten at det ble sluppet inn noen mål.
 
-I semifinalen møtte AFK1 Apollo/Norsiden og klarte 2-1 etter å ha ligget under 0-1. 
+I semifinalen møtte AFK1 Apollo/Norsiden og klarte 2-1 etter å ha ligget under 0-1.
 
-Finalen mot Folles 1 endte desverre med tap 2-1 mot Follese. 
+Finalen mot Folles 1 endte desverre med tap 2-1 mot Follese.
 
 Selv om det ikke ble seier i finalen, ble det en god oppladning for laget frem mot seriestart i første divisjon Gutter.
 
@@ -62,7 +63,7 @@ Vi gratulerer alle spillere som var med å spille for AFK i juniorklassen med se
 
 ![Stolte juniorspillere etter finalen](http://www.askoyfk.no/images/20150325_Junior_VinnereErdalsCup.jpg)
 
-Stolte juniorspillere etter finalen. 
+Stolte juniorspillere etter finalen.
 
 ---
 
@@ -73,8 +74,8 @@ AFK stiller med hele 45 lag. Noen du kjenner igjen?
 
 I Gruppe E (Gutter, 2003)
 
-* AFK Magenta 
-* AFK Safir 
+* AFK Magenta
+* AFK Safir
 * AFK Turkis A
 * AFK Turkis B
 

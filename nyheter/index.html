@@ -6,17 +6,32 @@ layout: default
 
     <h1>Nyheter</h1>
 
-    <p><strong>Frem til vi er ferdig med å flytte artikler fra de gamle websidene våre, vil bare artikler som er publisert i 2015 være tilgjengelig her.</strong></p>
+
 
     {% for post in site.posts %}
+        {% assign day = post.date | date: '%-w' | minus: 0 %}
+        {% assign month = post.date | date: '%-m' | minus: 1 %}
         <div>
                 <h2>{{ post.title }}</h2>
                 <p>{{ post.excerpt }}</p>
+                <p>
+                    <small>Publisert
+                        {{ site.data.dictionary.days[day] }}
+                        {{ post.date | date: '%-d' }}.
+                        {{ site.data.dictionary.months[month] }}
+                        {{ post.date | date: '%-Y' }}
+                        av {{ post.author }}
+                        </small>
+                </p>
                 <a class="button" href="{{ post.url }}">Les mer</a>
         </div>
+
+
     {% endfor %}
 
 
+    <!-- oj oj oj for et hack ;) må fikses asap -->
+    <hr style="visibility:hidden">
 
 
 </main>
