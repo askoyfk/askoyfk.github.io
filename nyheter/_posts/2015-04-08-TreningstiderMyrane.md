@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Treningstider Myrane
 author: Kjetil Sørtun, Sportslig leder
 redirect_from: "/nyheter/2015/04/08/TreningstiderMyrane/"

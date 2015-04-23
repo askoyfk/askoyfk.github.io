@@ -2,10 +2,15 @@
 layout: default
 ---
 
+{% assign day = page.date | date: '%-w' | minus: 0 %}
+{% assign month = page.date | date: '%-m' | minus: 1 %}
 
 <main class="subpage">
     <h1>{{ page.title }}</h1>
-    <p><small>Publisert {{ page.date | date: "%d.%m.%Y" }}</small></p>
+    <p><small>Publisert {{ site.data.dictionary.days[day] }}
+    {{ page.date | date: '%-d' }}.
+    {{ site.data.dictionary.months[month] }}
+    {{ page.date | date: '%-Y' }}</small></p>
     {{ content }}
     {% if page.author %}<em>{{ page.author }}</em>{% endif %}
 </main>

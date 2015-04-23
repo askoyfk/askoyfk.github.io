@@ -1,11 +1,12 @@
 ---
 title: Askøy Fotballklubb - En positiv opplevelse
+layout: post
 author: Kjetil Sørtun, Sportslig leder
 ---
 
-*Spiller, medlemmer, foreldre, motstander, trenere og dommer skal ha en positiv opplevelse i møte med Askøy fotballklubb.* 
+*Spiller, medlemmer, foreldre, motstander, trenere og dommer skal ha en positiv opplevelse i møte med Askøy fotballklubb.*
 
-Vi oppfordrer alle til å være gode ambasadører for klubben og vise at vi både kan være gode fotballspiller og gode mennersker samtidig. 
+Vi oppfordrer alle til å være gode ambasadører for klubben og vise at vi både kan være gode fotballspiller og gode mennersker samtidig.
 
 Det kan bety:
 
@@ -18,7 +19,6 @@ Det kan bety:
 * Vi skal alltid prøve å vinne kamper med å vise gode holdninger og respekt for spillet.
 * Kjefter vi på dommer og mostander, blir vi behandlet på samme måte tilbake, og ingen får en positiv opplevelse.
 
-Hvis alle gjør litt blir det veldig mange positive opplevelser for mange. 
+Hvis alle gjør litt blir det veldig mange positive opplevelser for mange.
 
 Hvis det er noen som sitter inne med en positiv opplevelse med AFK, er dere velkommen til å fortelle oss om den. Vi samler på positive opplevelser :-)
-
