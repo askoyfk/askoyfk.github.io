@@ -1,5 +1,5 @@
 ---
-title: Skogsmus
+title: Skogmus
 layout: team
 gender: jenter
 age: 10
@@ -16,5 +16,5 @@ category: barn
 subteams:
   - Skogmus
   - Skogmus
-slug: skogsmus
+slug: skogmus
 ---
