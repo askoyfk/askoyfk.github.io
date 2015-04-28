@@ -1,11 +1,11 @@
 ---
 title: Magenta
 layout: team
-sex: gutter
-age: 11
+gender: gutter
+age: 12
 teams:
   -
-    name: 'Askøy Magenta'
+    name: 'Askøy FK Magenta'
     kontaktperson: 'Frode Midtkandal'
     fiksid: '19564'
 category: barn

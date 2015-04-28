@@ -1,20 +1,20 @@
 ---
-title: Røyskatt
+title: Månestråle
 layout: team
 gender: jenter
-age: 8
+age: 7
 teams:
   -
-    name: 'Askøy FK Røyskatt A'
+    name: 'Askøy FK Månestråle A'
     kontaktperson: 'Øivind Jensen'
     fiksid: null
   -
-    name: 'Askøy FK Røyskatt B'
+    name: 'Askøy FK Månestråle B'
     kontaktperson: 'Øivind Jensen'
     fiksid: null
 category: barn
 subteams:
-  - Røyskatt
-  - Røyskatt
-slug: royskatt
+  - Månestråle
+  - Månestråle
+slug: manestrale
 ---

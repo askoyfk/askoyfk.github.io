@@ -1,12 +1,12 @@
 ---
 title: Fiolett
 layout: team
-sex: jenter
-age: 11
+gender: jenter
+age: 12
 teams:
   -
-    name: 'Askøy Fiolett'
-    kontaktperson: 'Ronny Nynes'
+    name: 'Askøy FK Fiolett'
+    kontaktperson: 'Geir Ove Mundal'
     fiksid: '20816'
 category: barn
 slug: fiolett

@@ -1,13 +1,13 @@
 ---
-title: A
+title: 'Senior A'
 layout: team
-sex: menn
+gender: menn
 age: null
 teams:
   -
-    name: Askøy
+    name: 'Askøy FK'
     kontaktperson: 'Ketil Kleppe'
     fiksid: '666'
 category: senior
-slug: a
+slug: senior-a
 ---

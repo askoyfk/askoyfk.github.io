@@ -1,12 +1,12 @@
 ---
 title: T-Rex
 layout: team
-sex: gutter
-age: 9
+gender: gutter
+age: 10
 teams:
   -
-    name: 'Askøy T-Rex'
-    kontaktperson: 'Trond Marøy'
+    name: 'Askøy FK T-Rex'
+    kontaktperson: 'Stig Jarle Nilsen'
     fiksid: null
 category: barn
 slug: t-rex

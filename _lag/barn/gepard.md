@@ -1,12 +1,12 @@
 ---
 title: Gepard
 layout: team
-sex: gutter
-age: 7
+gender: gutter
+age: 8
 teams:
   -
-    name: 'Askøy Gepard'
-    kontaktperson: 'Ove Sture'
+    name: 'Askøy FK Gepard'
+    kontaktperson: 'Petter Sevel'
     fiksid: null
 category: barn
 slug: gepard

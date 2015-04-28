@@ -1,140 +1,268 @@
 -
-  navn: 'Arild Hjelle'
-  telefon: '123 45 678'
-  epost: navn@domene.no
+  navn: 'Andre Sævik'
+  telefon: '95 09 45 36'
+  epost: andre.saevik@bob.no
 -
-  navn: 'Bjørn Juvik'
-  telefon: '124 45 678'
-  epost: navn@domene.no
+  navn: 'Andreas Holfue'
+  telefon: '971 84 172'
+  epost: andreas.holfve@gmail.com
 -
-  navn: 'Carsten Wiegard'
-  telefon: '125 45 678'
-  epost: navn@domene.no
+  navn: 'Andreas Nepstad'
+  telefon: ""
+  epost: ""
+-
+  navn: 'Anja Føli'
+  telefon: '930 68 316'
+  epost: espelid@falchadvokatene.no
+-
+  navn: 'Arild Solli Knudsen'
+  telefon: ""
+  epost: arild@sissels.no
+-
+  navn: 'Arnt Olav Kristoffersen'
+  telefon: '41 42 18 06'
+  epost: arol-kr@online.no
+-
+  navn: 'Carstein Wiegard'
+  telefon: '40005486'
+  epost: carsten.wiegand@fadewi.net
+-
+  navn: 'Christer Hope'
+  telefon: '93006127'
+  epost: christerh@fag-elektrikeren.no
+-
+  navn: 'Einar Gundegjerde'
+  telefon: '906 51 476'
+  epost: einar.gundegjerde@gmail.com
+-
+  navn: 'Eirik Christensen'
+  telefon: '99 52 19 78'
+  epost: eirik.christensen@gmail.com
 -
   navn: 'Eirik Vonheim'
-  telefon: '126 45 678'
-  epost: navn@domene.no
+  telefon: '482 16 297'
+  epost: eirik.vonheim@tine.no
+-
+  navn: 'Erik Gunnarsen'
+  telefon: '416 07 082'
+  epost: Erik.gunnarsen@online.no
+-
+  navn: 'Erlend Haug'
+  telefon: '419 28 343'
+  epost: ehaug@deloitte.no
+-
+  navn: 'Frank Kongshaug'
+  telefon: '905 51 557'
+  epost: frank.kongshaug@gmail.com
 -
   navn: 'Frode Fjell'
-  telefon: '127 45 678'
-  epost: navn@domene.no
+  telefon: '92 65 55 92'
+  epost: ff@paradis-nautica.com
 -
   navn: 'Frode Jensen'
-  telefon: '128 45 678'
-  epost: navn@domene.no
--
-  navn: 'Gard Stigen'
-  telefon: '129 45 678'
-  epost: navn@domene.no
--
-  navn: 'Hallgeir Nesheim'
-  telefon: '130 45 678'
-  epost: navn@domene.no
--
-  navn: 'Jarl Aspunvik'
-  telefon: '131 45 678'
-  epost: navn@domene.no
--
-  navn: 'Jarle Monsen'
-  telefon: '132 45 678'
-  epost: navn@domene.no
--
-  navn: 'Ketil Kleppe'
-  telefon: '133 45 678'
-  epost: navn@domene.no
--
-  navn: 'Kristian Johannessen'
-  telefon: '134 45 678'
-  epost: navn@domene.no
--
-  navn: 'Lars Dahl'
-  telefon: '135 45 678'
-  epost: navn@domene.no
--
-  navn: 'Lisbeth Larsen'
-  telefon: '136 45 678'
-  epost: navn@domene.no
--
-  navn: 'Marianne Helgheim'
-  telefon: '137 45 678'
-  epost: navn@domene.no
--
-  navn: 'Monica Hanselmann'
-  telefon: '138 45 678'
-  epost: navn@domene.no
--
-  navn: 'Monica Solberg'
-  telefon: '139 45 678'
-  epost: navn@domene.no
--
-  navn: 'Olav Skogen'
-  telefon: '140 45 678'
-  epost: navn@domene.no
--
-  navn: 'Ole-Ivar Guleng'
-  telefon: '141 45 678'
-  epost: navn@domene.no
--
-  navn: 'Ove Sture'
-  telefon: '142 45 678'
-  epost: navn@domene.no
--
-  navn: 'Øyvind Håkon Heimli'
-  telefon: '143 45 678'
-  epost: navn@domene.no
--
-  navn: 'Pål Bøthun'
-  telefon: '144 45 678'
-  epost: navn@domene.no
--
-  navn: 'Roger Granheim'
-  telefon: '145 45 678'
-  epost: navn@domene.no
--
-  navn: 'Ronny Nynes'
-  telefon: '146 45 678'
-  epost: navn@domene.no
+  telefon: '917 15 412'
+  epost: frode.jensen2@orkla.no
 -
   navn: 'Frode Midtkandal'
-  telefon: '147 45 678'
-  epost: navn@domene.no
+  telefon: ""
+  epost: midtkandal@hotmail.com
+-
+  navn: 'Frode Skråmestø'
+  telefon: '413 67 428'
+  epost: frode.skramesto@caverion.no
+-
+  navn: 'Gard Stigen'
+  telefon: '957 68 447'
+  epost: ga-st@online.no
+-
+  navn: 'Geir Ove Mundal'
+  telefon: '934 00 899'
+  epost: gemundal@broadpark.no
+-
+  navn: 'Hallgeir Nesheim'
+  telefon: '41 80 11 14'
+  epost: halnes@hfk.no
+-
+  navn: 'Hans Jørgen Haugland'
+  telefon: '97143908'
+  epost: hans.jorgen.haugland@dnvgl.com
+-
+  navn: 'Harald Kjøde'
+  telefon: ""
+  epost: haraldkjode@gmail.com
+-
+  navn: 'Helge  Furdal'
+  telefon: '990 16 494'
+  epost: helge.furdal@bkkfiber.no
+-
+  navn: 'Jeanette Steinholm'
+  telefon: ""
+  epost: ""
+-
+  navn: 'John Synnevåg'
+  telefon: '93446983'
+  epost: josin@online.no
+-
+  navn: 'Johnny Sunnarvik'
+  telefon: '906 39 441'
+  epost: johnnyas@gmail.com
+-
+  navn: 'Jon Veivåg'
+  telefon: '900 68 459'
+  epost: veiv@online.no
+-
+  navn: 'Kenneth Dieseth'
+  telefon: '414 17 686'
+  epost: kdieseth@online.no
+-
+  navn: 'Ketil Kleppe'
+  telefon: '480 43 770'
+  epost: ketilkleppe@hotmail.no
+-
+  navn: 'Kim Aaberg'
+  telefon: '958 75 252'
+  epost: kim.aarberg@askoy.kommune.no
+-
+  navn: 'Kirsti Green'
+  telefon: '959 69 251'
+  epost: kir-jo@online.no
+-
+  navn: 'Kristian Johannessen'
+  telefon: '99 57 14 95'
+  epost: johannessen.kristian@hotmail.com
+-
+  navn: 'Lars Dahl'
+  telefon: ""
+  epost: larsdahl@live.no
+-
+  navn: 'Lisbeth Larsen'
+  telefon: '41 85 12 94'
+  epost: lisbeth.larsen@sib.no
+-
+  navn: 'May Haugland'
+  telefon: '93257322'
+  epost: mayhaugland@hotmail.com
+-
+  navn: 'Monica Solberg'
+  telefon: '909 74 062'
+  epost: monica-sol@hotmail.com
+-
+  navn: 'Olav Skogen'
+  telefon: '97 55 96 33'
+  epost: olav.skogen@securitas.no
+-
+  navn: 'Ole-ivar Guleng'
+  telefon: '953 01 730'
+  epost: ole-ivar@guleng.no
+-
+  navn: 'Ove Sture'
+  telefon: '901 28 459'
+  epost: osture@online.no
+-
+  navn: 'Øyvind Heimli'
+  telefon: '97 07 58 34'
+  epost: oehaakh@online.no
+-
+  navn: 'Øyvind Jensen'
+  telefon: '997 45 551'
+  epost: oivindjensen@gmail.com
+-
+  navn: 'Pål Bøthun'
+  telefon: '93240334'
+  epost: pbo@live.no
+-
+  navn: 'Pål Kristian Økland'
+  telefon: '473 77 905'
+  epost: pal.kristian.okland@askoy.kommune.no
+-
+  navn: 'Petter Sevel'
+  telefon: '416 26 577'
+  epost: petter.sevel@bt.no
+-
+  navn: 'Robin Jensen'
+  telefon: ""
+  epost: robin.gulvservice@gmail.com
+-
+  navn: 'Roger Granheim'
+  telefon: '934 35 483'
+  epost: roger.granheim@askoy.kommune.no
+-
+  navn: 'Rune Bråten'
+  telefon: '93 24 61 01'
+  epost: rune1972@hotmail.no
+-
+  navn: 'Rune Mittet'
+  telefon: '97628508'
+  epost: rumittet@online.no
+-
+  navn: 'Rune Soltvedt'
+  telefon: '920 92 307'
+  epost: rsoltvedt@hotmail.com
+-
+  navn: 'Sondre Igland'
+  telefon: '98085260'
+  epost: sondreigland@hotmail.com
+-
+  navn: 'Ståle Ellingsen'
+  telefon: '93 25 14 60'
+  epost: stale.ellingsen@askoy.kommune.no
+-
+  navn: 'Stian Abrahamsen'
+  telefon: '924 64 300'
+  epost: stian.abrahamsen@hotmail.com
+-
+  navn: 'Stig Jarle Nilsen'
+  telefon: '918 56 256'
+  epost: sj-nilse@online.no
+-
+  navn: 'Thomas Steinfeldt'
+  telefon: '917 86 174'
+  epost: stenfeldten@gmail.com
 -
   navn: 'Tommy Jakobsen'
-  telefon: '148 45 678'
-  epost: navn@domene.no
+  telefon: '938 67 715'
+  epost: tjommy77@hotmail.com
 -
-  navn: 'Tor Erik Synnevåg'
-  telefon: '149 45 678'
-  epost: navn@domene.no
+  navn: 'Tore Skeide'
+  telefon: '948 77 694'
+  epost: tore.skeide@gmail.com
+-
+  navn: 'Tormod Strømsnes'
+  telefon: '97120442'
+  epost: torm-st@online.no
 -
   navn: 'Trond Eirik Føli'
-  telefon: '150 45 678'
-  epost: navn@domene.no
+  telefon: '954 04 488'
+  epost: trond@hefoas.no
 -
   navn: 'Trond Holmedal'
-  telefon: '151 45 678'
-  epost: navn@domene.no
--
-  navn: 'Trond Jakobsen'
-  telefon: '152 45 678'
-  epost: navn@domene.no
+  telefon: '91 75 90 58'
+  epost: trholmed@online.no
 -
   navn: 'Trond Marøy'
-  telefon: '153 45 678'
-  epost: navn@domene.no
+  telefon: '97718505'
+  epost: Trond.Maroy@tts-ohe.com
+-
+  navn: 'Trond Næss'
+  telefon: ""
+  epost: trond.ness70@gmail.com
 -
   navn: 'Vidar Haugland'
-  telefon: '154 45 678'
-  epost: navn@domene.no
+  telefon: '90 13 79 72'
+  epost: vidar@tregaver.no
 -
   navn: 'Vidar Johannessen'
-  telefon: '155 45 678'
-  epost: navn@domene.no
+  telefon: '41 66 10 98'
+  epost: vidar.johannessen@Xyleminc.com
 -
   navn: 'Vidar Skjønborg'
-  telefon: '156 45 678'
-  epost: navn@domene.no
+  telefon: '47 25 68 22'
+  epost: skjonborg@gmail.com
 -
   navn: 'Willy Sture'
-  telefon: '157 45 678'
-  epost: navn@domene.no
+  telefon: '994 51 780'
+  epost: willysture@hotmail.com
+-
+  navn: Wojtek
+  telefon: ""
+  epost: wpiwowarczyk@wp.pl

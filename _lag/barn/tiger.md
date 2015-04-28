@@ -1,12 +1,12 @@
 ---
 title: Tiger
 layout: team
-sex: gutter
-age: 7
+gender: gutter
+age: 8
 teams:
   -
-    name: 'Askøy Tiger 07'
-    kontaktperson: 'Trond Marøy'
+    name: 'Askøy FK Tiger'
+    kontaktperson: 'Tore Skeide'
     fiksid: null
 category: barn
 slug: tiger

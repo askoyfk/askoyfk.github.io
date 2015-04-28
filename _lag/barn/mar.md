@@ -1,20 +1,20 @@
 ---
 title: Mår
 layout: team
-sex: gutter
-age: 9
+gender: gutter
+age: 10
 teams:
   -
-    name: 'Askøy Mår A'
-    kontaktperson: 'Pål Bøthun'
+    name: 'Askøy FK Mår A'
+    kontaktperson: 'May Haugland'
     fiksid: null
   -
-    name: 'Askøy Mår B'
-    kontaktperson: 'Pål Bøthun'
+    name: 'Askøy FK Mår B'
+    kontaktperson: 'May Haugland'
     fiksid: null
 category: barn
 subteams:
-  - A
-  - B
+  - Mår
+  - Mår
 slug: mar
 ---

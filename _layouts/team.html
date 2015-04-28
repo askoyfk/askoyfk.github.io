@@ -11,10 +11,7 @@ layout: default
 
 <main class="subpage">
     <h1>{{ page.title }}</h1>
-    {% unless page.title == 'A' or page.title == 'Stjerne' %}
-    <p>{{ page.title }} består av {{ page.sex }} {% if page.title == 'Veteran' %}over {% else %}på {% endif %}{{ page.age }} år.
-    {% if teams.size > 1 %}Laget er delt i {{ teams.size }} underlag: {{ teamnames | array_to_sentence_string | replace: 'and', 'og' }}.</p>{% endif %}
-    {% endunless %}
+
 
 
 
@@ -25,17 +22,13 @@ layout: default
 
         {% assign contacts = site.data.contacts | where: 'navn', team.kontaktperson %}
 
-        {% if teams.size > 1 %}
+        {% if teams.size > 0 %}
             <h2>{{ team.name }}</h2>
+            <p>Kontaktperson: {{ team.kontaktperson }}</p>
         {% endif %}
 
-        {% for contact in contacts %}
-            <p>Kontaktperson: {{ contact.navn }}</p>
-        {% endfor %}
 
-        {% unless team.fiksid == null %}
-            <p>Når sesongen starter opp igjen i 2015, vil du finne kampoppsettet til laget på denne siden.</p>
-        {% endunless %}
+
 
     {% endfor %}
 
