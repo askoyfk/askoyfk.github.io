@@ -1,11 +1,11 @@
 ---
 title: Brontosaurus
 layout: team
-sex: gutter
-age: 9
+gender: gutter
+age: 10
 teams:
   -
-    name: 'Askøy Brontosaurus'
+    name: 'Askøy FK Brontosaurus'
     kontaktperson: 'Carsten Wiegard'
     fiksid: null
 category: barn

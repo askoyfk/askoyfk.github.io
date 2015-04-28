@@ -1,25 +1,25 @@
 ---
 title: Pegasus
 layout: team
-sex: jenter
-age: 8
+gender: jenter
+age: 9
 teams:
   -
-    name: 'Askøy Pegasus A'
+    name: 'Askøy FK Pegasus C'
     kontaktperson: 'Frode Fjell'
     fiksid: null
   -
-    name: 'Askøy Pegasus B'
+    name: 'Askøy FK Pegasus A'
     kontaktperson: 'Trond Eirik Føli'
     fiksid: null
   -
-    name: 'Askøy Pegasus C'
-    kontaktperson: 'Frode Fjell'
+    name: 'Askøy FK Pegasus B'
+    kontaktperson: 'Sondre Igland'
     fiksid: null
 category: barn
 subteams:
-  - A
-  - B
-  - C
+  - Pegasus
+  - Pegasus
+  - Pegasus
 slug: pegasus
 ---

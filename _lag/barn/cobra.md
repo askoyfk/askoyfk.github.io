@@ -1,20 +1,20 @@
 ---
 title: Cobra
 layout: team
-sex: gutter
-age: 8
+gender: gutter
+age: 9
 teams:
   -
-    name: 'Askøy Cobra A'
+    name: 'Askøy FK Cobra A'
     kontaktperson: 'Øyvind Håkon Heimli'
     fiksid: null
   -
-    name: 'Askøy Cobra B'
+    name: 'Askøy FK Cobra B'
     kontaktperson: 'Øyvind Håkon Heimli'
     fiksid: null
 category: barn
 subteams:
-  - A
-  - B
+  - Cobra
+  - Cobra
 slug: cobra
 ---

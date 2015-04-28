@@ -1,13 +1,20 @@
 ---
 title: Puma
 layout: team
-sex: gutter
-age: 8
+gender: gutter
+age: 9
 teams:
   -
-    name: 'Askøy Puma A'
+    name: 'Askøy FK Puma A'
+    kontaktperson: 'Kristian Johannessen'
+    fiksid: null
+  -
+    name: 'Askøy FK Puma B'
     kontaktperson: 'Kristian Johannessen'
     fiksid: null
 category: barn
+subteams:
+  - Puma
+  - Puma
 slug: puma
 ---

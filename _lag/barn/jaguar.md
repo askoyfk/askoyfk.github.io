@@ -1,12 +1,12 @@
 ---
 title: Jaguar
 layout: team
-sex: gutter
-age: 7
+gender: gutter
+age: 8
 teams:
   -
-    name: 'Askøy Jaguar'
-    kontaktperson: 'Trond Marøy'
+    name: 'Askøy FK Jaguar'
+    kontaktperson: 'Tor Martin Engevik'
     fiksid: null
 category: barn
 slug: jaguar

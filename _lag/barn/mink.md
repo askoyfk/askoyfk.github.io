@@ -1,11 +1,11 @@
 ---
 title: Mink
 layout: team
-sex: gutter
-age: 9
+gender: gutter
+age: 10
 teams:
   -
-    name: 'Askøy Mink'
+    name: 'Askøy FK Mink'
     kontaktperson: 'Hallgeir Nesheim'
     fiksid: null
 category: barn

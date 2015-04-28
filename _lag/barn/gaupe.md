@@ -1,20 +1,20 @@
 ---
 title: Gaupe
 layout: team
-sex: gutter
-age: 8
+gender: gutter
+age: 9
 teams:
   -
-    name: 'Askøy Gaupe A'
-    kontaktperson: 'Ove Sture'
+    name: 'Askøy FK Gaupe A'
+    kontaktperson: 'Erlend Haug'
     fiksid: null
   -
-    name: 'Askøy Gaupe B'
-    kontaktperson: 'Trond Marøy'
+    name: 'Askøy FK Gaupe B'
+    kontaktperson: 'Erlend Haug'
     fiksid: null
 category: barn
 subteams:
-  - A
-  - B
+  - Gaupe
+  - Gaupe
 slug: gaupe
 ---

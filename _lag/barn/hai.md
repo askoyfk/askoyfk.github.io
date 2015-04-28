@@ -1,20 +1,20 @@
 ---
 title: Hai
 layout: team
-sex: gutter
-age: 7
+gender: gutter
+age: 8
 teams:
   -
-    name: 'Askøy Hai A'
-    kontaktperson: 'Trond Marøy'
+    name: 'Askøy FK Hai A'
+    kontaktperson: 'Robin Jensen'
     fiksid: null
   -
-    name: 'Askøy Hai B'
-    kontaktperson: 'Trond Marøy'
+    name: 'Askøy FK Hai B'
+    kontaktperson: 'Tommy Jakobsen'
     fiksid: null
 category: barn
 subteams:
-  - A
-  - B
+  - Hai
+  - Hai
 slug: hai
 ---
