@@ -8,7 +8,7 @@ permalink: /arrangement/
 
 Hver september arrangerer vi **minidag** for de lagene som spiller 5er fotball. Da får også 1. klassingene prøve seg på fotball og vi danner lag etter hvilken klasse de går i. Her er det mye fotballglede å finne og mange 1. klassinger har ventet lenge på å få spille fotball.
 
-I august arrangerer vi **TINE fotballskole** hvor de yngste deltar og de eldste ungdommene våre er instruktører.
+I august arrangerer vi **[TINE fotballskole](/arrangement/tine-fotballskole)** hvor de yngste deltar og de eldste ungdommene våre er instruktører.
 
 Vår største begivenhet er **Nobi julecup**. I løpet av desember møtes nesten 400 lag til fotballfest i Askøy forum. Her er det innendørs fotball som gjelder for 1. klassinger og juniorspillere fra hele Hordaland.
 
