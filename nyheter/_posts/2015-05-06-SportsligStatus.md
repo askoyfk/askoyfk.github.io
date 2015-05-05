@@ -95,3 +95,9 @@ Det er mange unge spillere med rundt begge senior lagene våre og historien fra 
 Legger vi det til grunn, har dette vært en bra start for Senior gruppen i AFK.
 
 
+Sportslig hilsen
+
+Kjetil Sørtun
+Sportslig leder Askøy FK
+
+
