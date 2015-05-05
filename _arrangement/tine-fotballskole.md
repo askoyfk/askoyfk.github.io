@@ -33,6 +33,9 @@ Prisen er kr 1.100 kr pr barn for 4 dager, andre søsken kr 900,- dvs kr 2.000,-
 Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på mobil
 <span class="nowrap">951 37 123</span>. Hun treffes mandag, torsdag og fredag kl. 09:00–15:30 og tirsdag 12:00–19:30.
 
+<script>
+    var submitted = false;
+</script>
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)
 {window.location='/takk/';}"></iframe>
@@ -128,7 +131,7 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
                         </div>
                         <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
                     </label>
-                    <input type="text" name="entry.149717980" value="" class="ss-q-short" id="entry_149717980" dir="auto" aria-label="E-postadresse  " aria-required="true" required="" title="">
+                    <input type="email" name="entry.149717980" value="" class="ss-q-short" id="entry_149717980" dir="auto" aria-label="E-postadresse  " aria-required="true" required="" title="">
                     <div class="error-message" id="803397103_errorMessage"></div>
                     <div class="required-message">Dette feltet må fylles ut</div>
                 </div>
@@ -217,7 +220,7 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
                 <tbody>
                     <tr>
                         <td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-                            <input type="submit" name="submit" value="Submit" id="ss-submit" class="button jfk-button jfk-button-action ">
+                            <input formnovalidate="" type="submit" name="submit" value="Submit" id="ss-submit" class="button jfk-button jfk-button-action ">
                         </td>
                     </tr>
                 </tbody>
@@ -227,5 +230,58 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
 </form>
 
 <script>
-    var submitted = false;
+
+
+    (function (el) {
+        new Form(el);
+    }(document.querySelector('#ss-form'), document.querySelector('#hidden_iframe')));
+
+    function Form(el, iframe) {
+
+        /* Bytt ut skjema med melding til eldre nettlesere */
+        /* Polyfills for manglende funksjonalitet */
+
+        el.addEventListener('submit', submitHandler, false);
+
+        function submitHandler(event) {
+            event.preventDefault();
+
+            var requiredFields = getRequiredFields();
+            var emptyFields = getEmptyFields(requiredFields);
+
+            if (emptyFields.length > 0) {
+                showErrors(emptyFields);
+            } else {
+                submitForm()
+            }
+        }
+
+        function getRequiredFields() {
+            return [].slice.call(document.querySelectorAll('input[required]'));
+        }
+
+        function getEmptyFields(fields) {
+            return fields.filter(function(field) {
+                return field.value === '';
+            });
+        }
+
+        function showErrors(emptyFields) {
+
+            [].forEach.call(document.querySelectorAll('.required-message'), function(el) {
+                el.style.display = 'none';
+            });
+
+            emptyFields.forEach(function(field) {
+                field.nextElementSibling.nextElementSibling.style.display = 'block';
+            });
+
+        }
+
+        function submitForm() {
+            console.log('form can be submitted');
+        }
+
+    };
+
 </script>
