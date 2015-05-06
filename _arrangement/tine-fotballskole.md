@@ -47,7 +47,7 @@ title: Tine Fotballskole 2015
 
 </style>
 
-Vi har gleden av å ønske alle fotballinteresserte barn og unge født fra 2003–2008 velkommen til AFK’s **TINE Fotballskole** i Myrane. Frammøte hver dag kl 09:00–14:30.
+Vi har gleden av å ønske alle fotballinteresserte barn og unge født fra 2003–2008 velkommen til AFK’s **TINE Fotballskole** i Myrane 10.–13. august. Frammøte hver dag kl 09:00–14:30.
 
 Det vil bli servert frokost, lunsj og et fruktmåltid hver dag. Til lunsj får hvert barn ett produkt fra TINE og brød med pålegg.
 
