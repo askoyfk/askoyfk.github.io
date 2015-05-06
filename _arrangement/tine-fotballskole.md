@@ -44,6 +44,20 @@ title: Tine Fotballskole 2015
         font-style: italic;
     }
 
+    #ss-form {
+        display: none;
+    }
+
+    body:not([ie8]) #backupform {
+        display: none;
+    }
+
+    body:not([ie8]) #ss-form {
+        display: block;
+    }
+
+
+
 
 </style>
 
@@ -62,6 +76,8 @@ Prisen er kr 1.100 kr pr barn for 4 dager, andre søsken kr 900,- dvs kr 2.000,-
 
 Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på mobil
 <span class="nowrap">951 37 123</span>. Hun treffes mandag, torsdag og fredag kl. 09:00–15:30 og tirsdag 12:00–19:30.
+
+<a id="backupform" href="http://goo.gl/forms/VOaYjaN8V8" class="button">Påmelding</a>
 
 <script>
     var submitted = false;
@@ -312,7 +328,7 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
 
         function submitForm() {
             console.log('form can be submitted');
-            el.removeEventListener('submit');
+            el.removeEventListener('submit', submitHandler, false);
             el.submit();
         }
 
