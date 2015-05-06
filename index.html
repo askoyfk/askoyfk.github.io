@@ -10,13 +10,7 @@ layout: default
         <a class="button" href="/arrangement/tine-fotballskole/">Informasjon og påmelding</a>
 
     </div>
-    {% comment %}
-        {% for post in site.posts | limit: 1 %}
-        <div>
-            <h1>{{ post.title }}</h1>{{ post.excerpt }}<a class="button" href="{{ post.url }}">Les mer</a>
-        </div>
-        {% endfor %}
-    {% endcomment %}
+
 </section>
 
 <section id="sponsorer">
@@ -51,6 +45,17 @@ layout: default
 </section>
 
 <main>
+
+    <aside class="boxes">
+        {% for post in site.posts | limit: 4 %}
+        <a href="{{ post.url }}" class="box">
+            <article>
+                <h2>{{ post.title }}</h2>
+                <p>{{ post.excerpt }}</p>
+            </article>
+        </a>
+        {% endfor %}
+    </aside>
 
     <aside class="boxes">
         <a href="/lag/barn/" class="box">
