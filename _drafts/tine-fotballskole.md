@@ -7,11 +7,6 @@ title: Tine Fotballskole 2015
     .required-message {
         color: red;
         display: none;
-        font-size: .8em;
-    }
-
-    .ss-form-entry {
-        margin-bottom: .8em;
     }
 
     .ss-form-entry input {
@@ -19,31 +14,6 @@ title: Tine Fotballskole 2015
       margin-left: 0;
       margin-top: 0;
     }
-
-    .ss-required-asterisk {
-        color: red;
-    }
-
-    .ss-q-title {
-        margin-bottom: .3em;
-    }
-
-    .ss-section-title {
-        font-weight: bold;
-    }
-
-    input[type=text], textarea {
-        width: 20em;
-    }
-
-    .ss-password-warning {
-        display: none;
-    }
-
-    .ss-section-description {
-        font-style: italic;
-    }
-
 
 </style>
 
@@ -70,14 +40,13 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)
 {window.location='/takk/';}"></iframe>
 
-
-<form action="https://docs.google.com/forms/d/1y_0jWiqkkXYUdiololR3ZQ-SszHm2Mgiqk8Jf7P9eKI/formResponse" method="POST" id="ss-form" target="hidden_iframe" onsubmit="submitted=true;">
+<form action="https://docs.google.com/forms/d/1y_0jWiqkkXYUdiololR3ZQ-SszHm2Mgiqk8Jf7P9eKI/viewform?embedded=true" method="POST" id="ss-form" target="hidden_iframe" onsubmit="submitted=true;">
     <ol role="list" class="ss-question-list" style="padding-left: 0">
         <div class="errorbox-good" role="listitem">
             <div dir="ltr" class="ss-item  ss-section-header">
                 <div class="ss-form-entry">
                     <h2 class="ss-section-title">Påmelding</h2>
-                    <div class="ss-section-description ss-no-ignore-whitespace">Felt merket med <span class="ss-required-asterisk">*</span> må fylles ut</div>
+                    <div class="ss-section-description ss-no-ignore-whitespace"></div>
                 </div>
             </div>
         </div>
@@ -116,7 +85,6 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
                         <option value="2004">2004</option>
                         <option value="2003">2003</option>
                     </select>
-                    <div></div>
                     <div class="required-message">Dette feltet må fylles ut</div>
                 </div>
             </div>
@@ -163,7 +131,7 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
                         </div>
                         <div class="ss-q-help ss-secondary-text" dir="ltr"></div>
                     </label>
-                    <input type="text" name="entry.149717980" value="" class="ss-q-short" id="entry_149717980" dir="auto" aria-label="E-postadresse  " aria-required="true" required="" title="">
+                    <input type="email" name="entry.149717980" value="" class="ss-q-short" id="entry_149717980" dir="auto" aria-label="E-postadresse  " aria-required="true" required="" title="">
                     <div class="error-message" id="803397103_errorMessage"></div>
                     <div class="required-message">Dette feltet må fylles ut</div>
                 </div>
@@ -202,7 +170,7 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
         <div class="errorbox-good" role="listitem">
             <div dir="ltr" class="ss-item  ss-section-header">
                 <div class="ss-form-entry">
-                    <h3 class="ss-section-title">Kontaktperson</h3>
+                    <h2 class="ss-section-title">Kontaktperson</h2>
                     <div class="ss-section-description ss-no-ignore-whitespace">Navn og telefon til foresatt som skal kontaktes hvis det blir nødvendig under fotballskolen</div>
                 </div>
             </div>
@@ -240,20 +208,19 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
             </div>
         </div>
 
-        <input type="hidden" name="draftResponse" value="[,,&quot;-4548489939706584963&quot;]
+        <input type="hidden" name="draftResponse" value="[,,&quot;4352793045672278258&quot;]
 ">
         <input type="hidden" name="pageHistory" value="0">
 
 
-        <input type="hidden" name="fbzx" value="-4548489939706584963">
+        <input type="hidden" name="fbzx" value="4352793045672278258">
 
         <div class="ss-item ss-navigate">
             <table id="navigation-table">
                 <tbody>
                     <tr>
                         <td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-                            <input type="submit" value="Send påmelding" id="ss-submit" class="button jfk-button jfk-button-action ">
-                            <div class="ss-password-warning ss-secondary-text">Never submit passwords through Google Forms.</div>
+                            <input formnovalidate="" type="submit" name="submit" value="Submit" id="ss-submit" class="button jfk-button jfk-button-action ">
                         </td>
                     </tr>
                 </tbody>
@@ -261,6 +228,7 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
         </div>
     </ol>
 </form>
+
 <script>
 
 
@@ -282,14 +250,14 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
             var emptyFields = getEmptyFields(requiredFields);
 
             if (emptyFields.length > 0) {
-                 showErrors(emptyFields);
+                showErrors(emptyFields);
             } else {
                 submitForm()
             }
         }
 
         function getRequiredFields() {
-            return [].slice.call(document.querySelectorAll('input[required], select[required]'));
+            return [].slice.call(document.querySelectorAll('input[required]'));
         }
 
         function getEmptyFields(fields) {
@@ -312,8 +280,6 @@ Eventuelle spørsmål får du svar på av kontormedarbeider Torill Vindenes på 
 
         function submitForm() {
             console.log('form can be submitted');
-            el.removeEventListener('submit');
-            el.submit();
         }
 
     };
