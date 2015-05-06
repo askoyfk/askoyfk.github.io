@@ -64,14 +64,16 @@ collections:
         output: true
         permalink: /lag/:path/
         layout: team
+    arrangement:
+        output: true
+        permalink: /arrangement/:path/
+        layout: page
     # nyheter:
     #     output: true
     #     permalink: /:year/:month/:day/:title/
     #     type: posts
     #     layout: post
-#    arrangement:
-#        output: true
-#        permalink: /arrangement/:path/
+
 #    baner:
 #        output: true
 #        permalink: /baner/:path/
