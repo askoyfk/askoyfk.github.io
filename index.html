@@ -44,18 +44,42 @@ layout: default
 
 </section>
 
+<style>
+    main hr {
+        background-color: #bfbfbf;
+        color: none;
+        outline: none;
+        height: 5px;
+        border: none;
+        margin: 0 10px 20px 10px;
+    }
+
+
+</style>
+
 <main>
 
-    <aside class="boxes">
-        {% for post in site.posts | limit: 4 %}
-        <a href="{{ post.url }}" class="box">
-            <article>
-                <h2>{{ post.title }}</h2>
-                <p>{{ post.excerpt }}</p>
-            </article>
-        </a>
-        {% endfor %}
+    <aside>
+
+<!--         <h1>Siste nytt</h1> -->
+
+        <div class="boxes">
+            {% for post in site.posts | limit: 4 %}
+            <a href="{{ post.url }}" class="box">
+                <article>
+                    <h2>{{ post.title }}</h2>
+                    <p>{{ post.excerpt | strip_html }}</p>
+                </article>
+            </a>
+            {% endfor %}
+        </div>
+
+
+    <!-- <a class="button" href="/nyheter/">Nyhetsarkiv</a> -->
+
     </aside>
+
+    <hr>
 
     <aside class="boxes">
         <a href="/lag/barn/" class="box">
