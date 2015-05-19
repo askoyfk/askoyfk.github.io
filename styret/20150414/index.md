@@ -65,9 +65,11 @@ Påmelding kan gjøres direkt på Hordaland Fotbalkrets sin nettside.
 
 Status: 14. April 2015:
 Kursene er avholdt:
+
 *	Følgende har deltatt på FLK1 (20.-21. Mars 2015): Frode Fjell, Kjetil Sørtun, Anne Grete Nilsen og Arild Hjelle
 *	Følgende har deltatt på FLK2 (11.-12. April 2015): Frode Fjell, Kjetil Sørtun og Anne Grete Nilsen
-* 	Følgende har deltatt på FLK3 (11.-12. April 2015): Silje Guleng
+* Følgende har deltatt på FLK3 (11.-12. April 2015): Silje Guleng
+
 Sak kan lukkes.
 
 ---
