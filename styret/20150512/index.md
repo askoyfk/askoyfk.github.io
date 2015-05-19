@@ -339,6 +339,7 @@ Laget (inklusive foreldrene) som dette er aktuelt for må også gjøre sine vurd
 Styret besluttet å sette ned en komite for å jobbe med forbedringer av kiosken.
 Kiosken trenger fornying av hvordan varene presenteres samt vareutvalget bør bedres.
 
+---
 
 Møtet slutt kl. 21:35
 Ref: Frode Fjell
