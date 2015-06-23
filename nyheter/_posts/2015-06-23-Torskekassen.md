@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Torskekassen
+title: Spiser du torsk?
 author: Kjetil Sørtun
 ---
 
-### Torskekassen.no
+### Kjøp torsk fra www.torskekassen.no
 
 Fisk er sunt, året rundt. I samarbeid med www.torskekassen.no kan du nå spise sunt hele året og samtidig bidra til at Askøy Fotballklubb gir trening til fisken :-)
 
