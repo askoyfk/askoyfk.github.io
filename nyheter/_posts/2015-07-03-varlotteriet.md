@@ -1,4 +1,3 @@
-
 ---
 title: Vinnerene av Askøy Fotballklubb sitt vårlotteri 2015
 layout: page
