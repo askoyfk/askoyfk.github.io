@@ -8,7 +8,7 @@ Andre vinnere blir tilskrevet. Vi takker alle for støtten.
 
 
 
-/1. PREMIE
+1. PREMIE
 : Sykkel
 : verdi kr. 4.000,-
 : Ida T. Moss
