@@ -3,7 +3,8 @@ title: Vinnerene av Askøy Fotballklubb sitt vårlotteri 2015
 layout: page
 ---
 
-Vi har trukket vårlotteriet og førstepremien gikk til Ida Moss, og Linda Steen og Gouda Slavinskaite fikk 2. og 3. premie. Andre vinnere se listen under.
+Vi har trukket vårlotteriet og førstepremien gikk til Ida Moss, og Linda Steen og Gouda Slavinskaite fikk 2. og 3. premie. 
+
 Andre vinnere blir tilskrevet. Vi takker alle for støtten. 
 
 
