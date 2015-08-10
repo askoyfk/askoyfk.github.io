@@ -45,6 +45,7 @@ Her er oversikten over lag og treningstider på Myarne Kunstgress.
 * Mandager 18:30 - 20:00 1/2 bane Myrane
 * Onsdager 18:30 - 20:00 3/4 bane Myrane
 * Fredager 17:00 - 18:30 1/2 bane Myrane
+* Søndager 20:00 - 21:30 1/1 bane Myrane
 
 ### Askøy Sportsklubb (J16/J19)
 * Mandager 20:00 - 21:30 1/2 bane Myrane
