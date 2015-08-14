@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Sponsing i Askøy Fotballklubb
+title: Sponsing i AFK
 permalink: /klubben/sponsor/
 ---
 
-## Sponsor og bidrag til AFK og lag i AFK.
-
 Askøy Fotballlubb er en stor klubb og det er mange som kan og ønsker å bidra til lag rundt egene barn eller til klubben. Alle i AFK er glad for det, og vi setter pris på alle som hjelper AFK til å bli en bedre klubb. 
+
 Klubben (alle sammen) har endel felles samarbeidspartnere som bidrar med større beløp hvert år. I disse kontraktene har vi endel klausuler på hvordan samarbeidspartneren ønsker å fremstå og hvordan vi skal gi tilbake. 
-I mange tilfeller ser vi også at noen samarbeidspartnere ønsker å bidra med mer enn det man gjør i dat ved å fremstå som en klubb og ikke hvert enkelt lag.
+
+I mange tilfeller ser vi også at noen samarbeidspartnere ønsker å bidra med mer enn det man gjør i dag ved å fremstå som en klubb og ikke hvert enkelt lag.
 
 Vi har derfor noen retningslinjer for hva man skal gjøre hvis man skaffer midler til lag eller klubb. Disse er ikke ment som hinder, men for forbedre forholdet til samarbeidspartnere og sponsorer..
 
