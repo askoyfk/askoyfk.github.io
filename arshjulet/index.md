@@ -3,18 +3,68 @@ layout: page
 title: Årshjulet Askøy Fotballklubb
 permalink: /klubben/aarshjulet/
 ---
+## August
+
+### Tine Fotballskole
+Ansvarlig: Barnefotball (Leder barnefotball)
+
+### Oppstart høstserie barnefotball
+Anvsarlig: Leder barnefotball
+
+### Arbeidsmøte Julecup
+Ansvarlig: Julecupkomiteen (Leder Julecupkomiteen)
+
+### Arbeidsmøte Minidag
+Ansvarlig: Barnefotball (Leder barnefotball)
+
+
+
+## September
+	Arrangere Høstlotteriet 	Klubben	Lillegutter 11
+
+## Oktober
+
+## November
+
+## Desember
+
+
 ## Januar
 
-| Oppgave                        | Gruppe             | Ansvarlig              |  
-|:-------------------------------|:-------------------|:-----------------------|
-| Evalueringsmøte Julecup        | Julecupkomiteen    | Leder Julecupkomiteen  |
-| Møte i barnefotball utvalg     | Barnefotball       | Leder Barnefotball     
+### Evalueringsmøte Julecup
+Ansvarlig: Julecupkomiteen (Leder Komiteen)
+
+
+### Møte i barnefotball utvalg
+Anvsvarlig: Barnefotball (Leder barnefotball)
+
+
+## Februar
+
+### Årsmøte Askøy Fotballklubb
+Ansvarlig: Styret (Styreleder)
+
+
+## Mars
+
+## April
+
+## Mai
+
+## Juni
+
+## Juli
+Juli er feriemåned 
+
+### Norway Cup
+Ansvarlig: Undomsfotball (Sportslig leder)
 
 
 
+## TODO
 
+Januar
 
-Januar	Evalueringsmøte Julecup 	Julecupkomiteen	Leder Julecupkommite
 	Møte i Barnefotballutvalget 	Barnefotballen	 BFL
 	Medarbeidermøte  	Styret/ansatte	Leder
 	Trenerkurs: Del II av Trenar 1 på Askøy	Barnefotballen	
@@ -23,7 +73,8 @@ Januar	Evalueringsmøte Julecup 	Julecupkomiteen	Leder Julecupkommite
 	Oppstartsmøte sesongen 2006 		Leder barnegrupen m.fl?
 	Alle lagslister ferdig levert for utsendelse av kontingent		 Foreldrekontakter
 	Byttekveld	Barnefotballen	Materialforvalter BF
-Februar	Påmeldingsskjema til Voss Cup blir lagt ut	Barnefotballen	
+Februar	
+	Påmeldingsskjema til Voss Cup blir lagt ut	Barnefotballen	
 	Påmeding til Erdals Cup for barnefotballen  	Barnefotballen	Kontormedarbeider/ BFL
 	Påmelding til Erdals Cup for 11'er lag  	Ungdomsfotball	Kontormedarbeider/ BFL
 	Påmelding serie Barnefotballen	Barnefotballen	Kontormedarbeider/ BFL
@@ -33,7 +84,8 @@ Februar	Påmeldingsskjema til Voss Cup blir lagt ut	Barnefotballen
 	Lotteri - etablere arb. gruppe 	Barnefotballen	Lillegutter 11
 	Trenerkurs Del III av Trener 1 på Askøy 	Barnefotballen	
 	Presentasjon av sportsplan for ledere/trenere	Styret 	Styremedlem sport
-Mars	Nye treningstider for sesongen	Barnefotballen	Sportslig leder
+Mars	
+	Nye treningstider for sesongen	Barnefotballen	Sportslig leder
 	Starte utetrening	Barnefotballen	
 	Frist for alle laga for å gjennomført foreldremøte	Barnefotballen	
 	Tenerkurs: Del IV av Trenar 1 på Askøy 	Barnefotballen	
@@ -42,42 +94,39 @@ Mars	Nye treningstider for sesongen	Barnefotballen	Sportslig leder
 	Første møte Tine Fotballskole Barnefotballen 	Barnefotballen	Ansvarlig Tine Fotballskole
 	Erdal Cup/Sandviken Cup	Klubben	
 	Møte om miniserien på Askøy 	Barnefotballen	BFL
-April	Treningsleir senior herrer 	Senior Herrer	
+April	
+	Treningsleir senior herrer 	Senior Herrer	
 	Arrangere Vårlotteriet  	Klubben	Lillegutter 11
 	Seriestart Lillejenter og Lillegutter 	Barnefotballen	
 	Møte med Foreldrekontaktane  	Barnefotballen	Foreldrekontaktansvarlig
 	Serieåpning senior herrer 	Senior herrer	Leder Senior Herrer
 	Seriestart Ungdomsfotball 	Barnefotballen	
-Mai	Seriestart Minifotballen	Barnefotballen	
+Mai	
+	Seriestart Minifotballen	Barnefotballen	
 	Første møte Minidag	Barnefotballen	Siste års minilag +?
 	Påmeldingsfrist Sognefjord Cup 	Barnefotballen	
 	17. mai arrangement Florvåg og Kleppestø  	Barnefotballen	Barnegruppen
 	Påmeldingsfrist Safari Cup	Barnefotballen	
-Juni	Fargerik fotball		
+Juni	
+	Fargerik fotball		
 	Voss-cup	Barnefotballen	
 	Sognefjord Lerum Cup	Barnefotballen	
-Juli	Ferie		
-	Norway Cup	Ungdomsfotball	
-August	Første møte julecup 	Barnefotballen	 Julecupansvarlig (Lillegutter 12)
-	G-sport Fotballskole 	Ungdomsfotball	
-	Tine Fotballskole 	Barnefotballen	
-	Safari Cup 	Barnefotballen	BFL
-	Møte om Minidag 	Barnefotballen	Siste års minilag
-	Seriestart 	Barnefotballen	
-	Arrangere Høstlotteriet 	Klubben	Lillegutter 11
-September	Påmeldingsfrist Bend It Cup 	Barnefotballen	BFL
+September	
+	Påmeldingsfrist Bend It Cup 	Barnefotballen	BFL
 	Minidag 	Barnefotballen	Siste års minilag
 	Keepertrening 	Barnefotballen	Lillegutter/Lillejenter
 	Bend It Cup 	Barnefotballen	
 	Planlegge neste års budsjettforslag  	Avdelingsledere	Daglig Leder
 	Gi økonomiske rammer for 2008  	Hovedstyret	Styremedlem økonomi
 	Merketaking Lillegutter og Lillejenter 	Barnefotballen	
-Oktober	Barnefotballavsluttningsfest 	Barnefotballen	 A-lag, Damelag og Juniorlag
+Oktober
+	Barnefotballavsluttningsfest 	Barnefotballen	 A-lag, Damelag og Juniorlag
 	Avslutningsaften m/alle trenere, lagledere og dommere.	Barnefotballen	
 	Fordeling av innetrening 	Barnefotballen	BFL
 	Oppdatere Sportsplan  	Hovedstyret	Styremedlem Utvikling
 	Oppdatere HMS-Håndbok 	Hovedstyret	Leder
-November	Alle Barnefotballtrenarar på plass 	Barnefotballen	BFL
+November	
+	Alle Barnefotballtrenarar på plass 	Barnefotballen	BFL
 	Trenerkurs 	Barnefotballen	
 	Invitere førsteklassene v/barneskolene til AFK	Barnefotballen	
 	Foreldremøter. Barnefotballen	Barnefotballen	
@@ -86,4 +135,3 @@ Desember	Oppdatere neste års dugnadsplan	Styret/Adm.	Styremedlem Utvikling
 Januar	Innlevering Årsrapport	Klubben	Daglig leder
 	Evaluering Sportsplan	Klubben	
 	Regnskap klar for revisror	Styret	Kontormedarbeider 
-Februar	Årsmøte Askøy Fotballklubb	Alle	Styret
