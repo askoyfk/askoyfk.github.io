@@ -6,7 +6,7 @@ permalink: /klubben/aarshjulet/
 ## Januar
 
 | Oppgave                        | Gruppe             | Ansvarlig              |  
-|--------------------------------|--------------------|------------------------|
+|:-------------------------------|:-------------------|:-----------------------|
 | Evalueringsmøte Julecup        | Julecupkomiteen    | Leder Julecupkomiteen  |
 | Møte i barnefotball utvalg     | Barnefotball       | Leder Barnefotball     
 
