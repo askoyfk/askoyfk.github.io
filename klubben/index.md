@@ -21,3 +21,7 @@ Foreldre stiller opp til trenerverv, kioskdrift, anleggsarbeid, arrangementskomi
 Barn og unge stiller opp som dommere, organsisasjons- arbeidere, vaffelsteikere, anleggsarbeidere og ikke minst: gode forbilder! Dette klarer vi fordi vi har et godt miljø og en god ramme rundt klubben.
 
 **Askøy fotballklubb er en positiv opplevelse.**
+
+Her er noen utvalgte emner fra klubben som alle kan ha glede av å lese
+
+* [Sponsing](http://www.askoyfk.no/klubben/sponsor/)
