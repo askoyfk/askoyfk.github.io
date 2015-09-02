@@ -61,6 +61,11 @@ Her er oversikten over lag og treningstider på Myarne Kunstgress.
 * Fredager 18:30 - 20:00 1/2 bane Myrane
 * Søndager 18.30 - 20:00 1/2 bane Myrane
 
+Vi har lånt bort Bergheim på følgende tidspunkter
+
+### Kleppestø Rugby
+* Søndager 14:00 - 16:00 1/1 bane Bergheim
+
 Følgende tider er ledig. Disse kan bookes ved å melde inn til Torill (torill@askoyfotballklubb.no) og få bekreftet tilbake. Sidene vil da blir oppdatert i etterkant med tildelingen.
 Hvis det tider over som dere ikke ønsker å benytte, er det også fint om dere melder dette til Torill, slik at andre eventuelt kan benytte disse tidene.
 
