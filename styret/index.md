@@ -72,3 +72,8 @@ Ole Martin har et stort hjerte for fotball, både som spiller, men også som til
 Ole Martin er en viktig del av styret og bidrar med mye kunnskap og forståelse inn i diskusjonene vi har i styret.
 
 ---
+
+### Referater fra møter 2015
+
+* [Styremøte 08.09.2015](http://askoyfk.no/styret/20150908)
+ 

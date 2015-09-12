@@ -99,6 +99,7 @@ Det er foreslått at det tas et møte med de som klarer å etablere mange sponso
 Status 9. Juni 2015: 
 
 Skriv vart diskutert i styret og noen endringer gjøres med formatet. Kjetil tok på seg oppgaven med å skrive det om. Kjetil sender skrivet til alle styremedlemmer slik at dette kan sees på en gang til. Skrivet vil bli lagt ut på nettsiden når det er klart. Skrivet vil inneholde informasjon om hvordan sponsing av lag skal gjøres, hvilken reklame som kan brukes, hvem som kan organisere trykking (her har vi avtale) hvor bekledning kan hentes ut (G-Sport) hvordan betaling av sponsormidler skal foregår (via klubben) osv.  
+
 Status 18. Juni 2015: 
 
 Utkast laget og vil bli lagt ut på nettsiden i løpet av 2 uker
