@@ -7,7 +7,13 @@ permalink: /styret/
 ---
 ### Referater fra møter 2015
 
-* [Styremøte 08.09.2015](http://askoyfk.no/styret/20150908)
+* [Styremøte 08.09.2015](/styret/20150908)
+* Enda et møte
+
+Litt mer tekst
+
+
+
 
 ---
 
