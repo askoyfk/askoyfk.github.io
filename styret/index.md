@@ -4,6 +4,13 @@ title: Styret i AFK
 permalink: /styret/
 ---
 
+---
+### Referater fra møter 2015
+
+* [Styremøte 08.09.2015](http://askoyfk.no/styret/20150908)
+
+---
+
 Styret som ble valgt på årsmøtet i februar er sammensatt av noen gamle og noen nye medlemmer. AFK er en stor klubb og det er sikkert ikke alle som kjenner verken de nye eller gamle ansiktene i styre. Her er en liten introduksjon av medlemmene.
 
 ---
@@ -73,7 +80,5 @@ Ole Martin er en viktig del av styret og bidrar med mye kunnskap og forståelse 
 
 ---
 
-### Referater fra møter 2015
-
-* [Styremøte 08.09.2015](http://askoyfk.no/styret/20150908)
+#
  
