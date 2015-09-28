@@ -12,8 +12,11 @@ Basert på tilbakemelding fra medlemmene våre, har vi har endret bøkene til 40
 Enjoybøker og loddbøker kan hentes på kontoret følgende dager og tider neste uke:
  
 Tirsdag 29.september mellom 14 og 19.30
+
 Onsdag 30.september mellom 19.00 og 20.30
+
 Torsdag 1.oktober mellom 8.30 og 15.30
+
 Fredag 2.okotber mellom 8.30 og 15.30
  
 Skulle ingen av disse tidene passe, ta kontakt så finner vi ett annet tidspunkt.
