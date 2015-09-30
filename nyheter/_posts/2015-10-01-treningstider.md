@@ -1,9 +1,9 @@
 ---
-title: Treningstider vinter 2016
+title: Treningstider for Vinteren 2016
 layout: page
 ---
 
-## Nye treningstider fra 01.11.2015
+## Det blir nye treningstider fra 01.11.2015
 
 Sesongen nærmer seg slutten. Askøy Fotballklubb har hatt mange veldig gode prestasjoner i 2015, som allerede har gitt oss gode resultater. 
 Mange av lagene kjemper i toppen av sine respektive avdelinger. 
