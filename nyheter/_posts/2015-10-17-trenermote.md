@@ -9,7 +9,7 @@ Vi er en klubb i stor vekst og har denne høsten startet opp nye lag med mange s
 
 Vinteren 2015/2016 har en del utforderinger for oss, men med god planlegging, god kommunikasjon og noen klare rutiner tror vi at alle skal få et veldig godt tilbud også igjennom vinteren. 
 
-Vi inviterer derfor trenere og andre ressurer rundt lagene våre til samling i uke 43. Vi er mange, så vi har delt det over to kvelder.
+Vi inviterer derfor trenere og andre ressurer rundt lagene våre til samling i uke 43. Vi er mange, så vi har delt det over to kvelder. Begge møtene er på Myrane.
 
 * Tirsdag  20.10 klokken 19:00. Barnefotball, alle lag med spillere født i 2004 eller senere
 * Onsdag 21.10 klokken 19:00. Ungdoms og senior fotball, alle lag med spillere født i 2003 eller tidligere
