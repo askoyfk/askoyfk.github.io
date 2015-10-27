@@ -32,7 +32,7 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 * Tirsdager 20:00 - 21:30 Myrane Sektor A/B/C/D
 * Torsdager 18:30 - 20:00 Myrane Sektor C/D
 
-## G16 Herrer (2000-2001)
+## G16 Gutter (2000-2001)
 * Mandager 18:30 - 20:00 Myrane Sektor C/D
 * Onsdager 20:00 - 21:30 Myrane Sektor A/B/C/D
 * Fredager 17:00 - 18:30 Myrane Sektor A/B
@@ -40,14 +40,14 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 ## Askoy Sportsklubb (1997-2001)
 * Mandager 20:00 - 21:30 Myrane Sektor C/D
 
-## G14 Herrer (2002)
+## G14 Gutter (2002)
 * Onsdager 18:30 - 20:00 Myrane Sektor A/B
 
 ## J14 Jenter (2002)
 * Mandager 17:00 - 18:30 Myrane Sektor C
 * Onsdager 17:00 - 18:30 Myrane Sektor B
 
-## 2003 Gutter (G13)
+## G13 Gutter (2003)
 * Tirsdager 18:30 - 20:00 Myrane Sektor C/D
 * Torsdager 18:30 - 20:00 Myrane Sektor A/B
 * Fredager 18:30 - 20:00 Myrane Sektor A/B
@@ -56,13 +56,13 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 * Mandager 17:00 - 18:30 Myrane Sektor D
 * Onsdager 17:00 - 18:30 Myrane Sektor A
 
-## 2004 Gutter (G12)
+## 2004 Gutter
 * Tirsdager 17:00 - 18:30 Myrane Sektor C/D
 * Onsdager 17:00 - 18:30 Myrane Sektor C/D
 * Onsdager 20: 00 - 21:00 Mohn Sektor A/B
 * Torsdgaer 17:00 - 18:30 Myrane Sektor C/D
 
-## 2004 Jenter (J12)
+## 2004 Jenter
 * Mandager 17:00 - 18:30 Myrane Sektor B
 * Onsdager 18:00 - 17:00 Mohn Sektor A/B
 

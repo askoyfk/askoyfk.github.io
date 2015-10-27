@@ -1,7 +1,7 @@
 ---
 title: Treningstider
 layout: page
-------
+---
 
 # Nye treningstider vinteren 2015/2016
 
