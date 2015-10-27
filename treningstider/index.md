@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Treningstider Myrane
+title: Treningstider
 author: Kjetil Sørtun, Sportslig leder
-redirect_from: "/nyheter/2015/04/08/TreningstiderMyrane/"
+permalink: /treningstider/
 ---
 
 # Vinteren 2015/2016
