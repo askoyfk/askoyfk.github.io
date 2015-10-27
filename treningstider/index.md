@@ -7,12 +7,7 @@ permalink: /treningstider/
 
 # Vinteren 2015/2016
 
-Da er treningstider fordelt for vintern 2015/2016. Alle har vist stor vilje til å se etter løsninger. Takk for det!
-
-Tar forbehold om feil og eventuelle mangler. Hvis du finner feil, eller laget ditt har behov for endringer, tar du kontakt med kjetil.sortun@askoyfk.no, så finner vi en løsning.
-
-Oppstart for disse treningstide er 01.11. Det vil bli dager hvor banene må brukes til kamper eller turneringer. Dette vil bli annonsert fortløpende. I hovedsak gjelder dette bare Myrane.
-
+Treningstidene gjelder fra 01.11
 
 ## Oppdeling av banene i sektorer 
 ** Myrane Sektor A - Nærmest askøyhallen
