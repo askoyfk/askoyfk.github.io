@@ -10,53 +10,53 @@ permalink: /treningstider/
 Treningstidene gjelder fra 01.11
 
 ## Oppdeling av banene i sektorer 
-** Myrane Sektor A - Nærmest askøyhallen
-** Myrane Sektor B - Nærmest klubbhuset
-** Myrane Sektor C - Nærmest Kleppestø ungdomsskole
-** Myrane Sektor D - Lengst burte fra klubbhuset og ungdomsskolen
-** Mohn Sektor A - Nærmest Kleppestø ungdomsskule
-** Mohn Sektor B - Nærmest Myrane
+* Myrane Sektor A - Nærmest askøyhallen
+* Myrane Sektor B - Nærmest klubbhuset
+* Myrane Sektor C - Nærmest Kleppestø ungdomsskole
+* Myrane Sektor D - Lengst burte fra klubbhuset og ungdomsskolen
+* Mohn Sektor A - Nærmest Kleppestø ungdomsskule
+* Mohn Sektor B - Nærmest Myrane
 
 Hvis du er i tvil, snakker du med de andre som er på treningen...
 
 ## Fordeling
 
-### Senior Herrer
+## Senior Herrer
 * Mandager 18:30 - 20:00 Myrane Sektor A/B
 * Onsdager 18:30 - 20:00 Myrane Sektor C/D
 * Torsdager 20:00 - 21:30 Myrane Sektor A/B/D/C
 * Søndager 18:30 - 20:00 Myrane Sektor A/B/C/D
 
-### Junior Herrer (1997-1999)
+## Junior Herrer (1997-1999)
 * Mandager 20:00 - 21:30 Myrane Sektor A/B
 * Tirsdager 20:00 - 21:30 Myrane Sektor A/B/C/D
 * Torsdager 18:30 - 20:00 Myrane Sektor C/D
 
-### G16 Herrer (2000-2001)
+## G16 Herrer (2000-2001)
 * Mandager 18:30 - 20:00 Myrane Sektor C/D
 * Onsdager 20:00 - 21:30 Myrane Sektor A/B/C/D
 * Fredager 17:00 - 18:30 Myrane Sektor A/B
 
-### Askoy Sportsklubb (1997-2001)
+## Askoy Sportsklubb (1997-2001)
 * Mandager 20:00 - 21:30 Myrane Sektor C/D
 
-### G14 Herrer (2002)
+## G14 Herrer (2002)
 * Onsdager 18:30 - 20:00 Myrane Sektor A/B
 
-### J14 Jenter (2002)
+## J14 Jenter (2002)
 * Mandager 17:00 - 18:30 Myrane Sektor C
 * Onsdager 17:00 - 18:30 Myrane Sektor B
 
-### 2003 Gutter (G13)
+## 2003 Gutter (G13)
 * Tirsdager 18:30 - 20:00 Myrane Sektor C/D
 * Torsdager 18:30 - 20:00 Myrane Sektor A/B
 * Fredager 18:30 - 20:00 Myrane Sektor A/B
 
-### J13 Jenter (2003)
+## J13 Jenter (2003)
 * Mandager 17:00 - 18:30 Myrane Sektor D
 * Onsdager 17:00 - 18:30 Myrane Sektor A
 
-### 2004 Gutter (G12)
+## 2004 Gutter (G12)
 * Tirsdager 17:00 - 18:30 Myrane Sektor C/D
 * Onsdager 17:00 - 18:30 Myrane Sektor C/D
 * Onsdager 20: 00 - 21:00 Mohn Sektor A/B
