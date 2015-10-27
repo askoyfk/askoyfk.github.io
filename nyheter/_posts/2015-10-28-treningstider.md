@@ -1,9 +1,7 @@
 ---
-title: Treningstider
+title: Treningstider Vintern 2015/2016
 layout: page
 ---
-
-# Nye treningstider vinteren 2015/2016
 
 Da er treningstider fordelt for vintern 2015/2016. Alle har vist stor vilje til å se etter løsninger. Takk for det! Vi har prøvd å betjene alle ønsker, og tror vi har klart det i stor grad. 
 
