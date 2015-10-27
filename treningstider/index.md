@@ -5,73 +5,151 @@ author: Kjetil Sørtun, Sportslig leder
 redirect_from: "/nyheter/2015/04/08/TreningstiderMyrane/"
 ---
 
-Fra mandag 13.04.2015 har vi nye treningstider på Myrane.
+# Vinteren 2015/2016
 
-Vi har i år veldig mange kamper og veldig mange spillere som har treningstid på Myrane.
+Da er treningstider fordelt for vintern 2015/2016. Alle har vist stor vilje til å se etter løsninger. Takk for det!
 
-Styret vil jobbe med dette området fremover for å se hvilke tiltak som kan gjøres for å forbedre situasjonen.
+Tar forbehold om feil og eventuelle mangler. Hvis du finner feil, eller laget ditt har behov for endringer, tar du kontakt med kjetil.sortun@askoyfk.no, så finner vi en løsning.
 
-Her er oversikten over lag og treningstider på Myarne Kunstgress.
+Oppstart for disse treningstide er 01.11. Det vil bli dager hvor banene må brukes til kamper eller turneringer. Dette vil bli annonsert fortløpende. I hovedsak gjelder dette bare Myrane.
 
-### AFK Silver (gutter 2004)
-* Lørdager 11.30 - 13.00 1/2 bane Myrane
 
-### Gutter 2003
-* Onsdager 17:00 - 18:30 1/2 bane Myrane
-* Fredager 17:00 - 18:30 1/2 bane Myrane
+## Oppdeling av banene i sektorer 
+** Myrane Sektor A - Nærmest askøyhallen
+** Myrane Sektor B - Nærmest klubbhuset
+** Myrane Sektor C - Nærmest Kleppestø ungdomsskole
+** Myrane Sektor D - Lengst burte fra klubbhuset og ungdomsskolen
+** Mohn Sektor A - Nærmest Kleppestø ungdomsskule
+** Mohn Sektor B - Nærmest Myrane
 
-### Jenter 2003
-* Onsdager 18:30 - 20:00 1/4 bane Myrane
-* Fredager 15:30 - 17:00 1/4 bane Myrane
+Hvis du er i tvil, snakker du med de andre som er på treningen...
 
-### Gutter 2002 (G13)
-* Mandager 15:30 - 17:00 1/2 bane Myrane
-* Onsdager 17:00 - 18:30 1/2 bane Myrane
+## Fordeling
 
-### Jenter 2002 (J13)
-* Mandager 17:00 - 18:30 1/4 bane Myrane
-* Fredager 15:30 - 17:00 1/4 bane Myrane
+### Senior Herrer
+* Mandager 18:30 - 20:00 Myrane Sektor A/B
+* Onsdager 18:30 - 20:00 Myrane Sektor C/D
+* Torsdager 20:00 - 21:30 Myrane Sektor A/B/D/C
+* Søndager 18:30 - 20:00 Myrane Sektor A/B/C/D
 
-### Gutter 2001 (G14)
-* Mandager 17:00 - 18.30 1/2 bane Myrane
-* Torsdager 15:30 - 17:00 1/1 bane Myrane
-* Søndager 18:30 - 20:00 1/2 bane Myrane
+### Junior Herrer (1997-1999)
+* Mandager 20:00 - 21:30 Myrane Sektor A/B
+* Tirsdager 20:00 - 21:30 Myrane Sektor A/B/C/D
+* Torsdager 18:30 - 20:00 Myrane Sektor C/D
 
-### Jenter 2001 (J14)
-* Mandager 17:00 - 18:30 1/4 bane Myrane
-* Fredager 15:30 - 17:00 1/4 bane Myrane
+### G16 Herrer (2000-2001)
+* Mandager 18:30 - 20:00 Myrane Sektor C/D
+* Onsdager 20:00 - 21:30 Myrane Sektor A/B/C/D
+* Fredager 17:00 - 18:30 Myrane Sektor A/B
 
-### Gutter 1999/2000 (G16)
-* Mandager 18:30 - 20:00 1/2 bane Myrane
-* Onsdager 18:30 - 20:00 3/4 bane Myrane
-* Fredager 17:00 - 18:30 1/2 bane Myrane
-* Søndager 20:00 - 21:30 1/1 bane Myrane
+### Askoy Sportsklubb (1997-2001)
+* Mandager 20:00 - 21:30 Myrane Sektor C/D
 
-### Askøy Sportsklubb (J16/J19)
-* Mandager 20:00 - 21:30 1/2 bane Myrane
+### G14 Herrer (2002)
+* Onsdager 18:30 - 20:00 Myrane Sektor A/B
 
-### Junior (1996-1998) (G19)
-* Mandager 20:00 - 21:30 1/2 bane Myrane
-* Onsdager 20:00 - 21:30 1/2 bane Myrane
-* Fredager 18.30 - 20:00 1/2 bane Myrane
+### J14 Jenter (2002)
+* Mandager 17:00 - 18:30 Myrane Sektor C
+* Onsdager 17:00 - 18:30 Myrane Sektor B
 
-### Senior
-* Mandager 18:30 - 20:00 1/2 bane Myrane
-* Onsdager 20:00 - 21:30 1/2 bane Myrane
-* Fredager 18:30 - 20:00 1/2 bane Myrane
-* Søndager 18.30 - 20:00 1/2 bane Myrane
+### 2003 Gutter (G13)
+* Tirsdager 18:30 - 20:00 Myrane Sektor C/D
+* Torsdager 18:30 - 20:00 Myrane Sektor A/B
+* Fredager 18:30 - 20:00 Myrane Sektor A/B
 
-Vi har lånt bort Bergheim på følgende tidspunkter
+### J13 Jenter (2003)
+* Mandager 17:00 - 18:30 Myrane Sektor D
+* Onsdager 17:00 - 18:30 Myrane Sektor A
 
-### Kleppestø Rugby
-* Søndager 14:00 - 16:00 1/1 bane Bergheim
+### 2004 Gutter (G12)
+* Tirsdager 17:00 - 18:30 Myrane Sektor C/D
+* Onsdager 17:00 - 18:30 Myrane Sektor C/D
+* Onsdager 20: 00 - 21:00 Mohn Sektor A/B
+* Torsdgaer 17:00 - 18:30 Myrane Sektor C/D
 
-Følgende tider er ledig. Disse kan bookes ved å melde inn til Torill (torill@askoyfotballklubb.no) og få bekreftet tilbake. Sidene vil da blir oppdatert i etterkant med tildelingen.
-Hvis det tider over som dere ikke ønsker å benytte, er det også fint om dere melder dette til Torill, slik at andre eventuelt kan benytte disse tidene.
+## 2004 Jenter (J12)
+* Mandager 17:00 - 18:30 Myrane Sektor B
+* Onsdager 18:00 - 17:00 Mohn Sektor A/B
 
-### Ledig
-* Mandager 15:30 - 17:00 1/2 bane Myrane
-* Tirsdager 15:30 - 17:00 1/1 bane Myrane
-* Onsdager 15:30 - 17:00 1/1 bane Myrane
-* <s>Lørdager 11:30 - 13:00 1/2 bane Myrane</s>
-* Søndager 11:30 - 13:00 1/1 bane Myrane
+## 2005 Gutter Mår/Mink
+* Mandager 19:00 - 20:30 Mohn Sektor A/B
+* Onsdager 19:00 - 20:00 Mohn Sektor A/B
+
+## 2005 Gutter Reptil/Brontosaurus/T-Rex
+* Tirsdager 19:00 - 20:00 Mohn Sektor A/B
+* Torsdager 19:00 - 20:00 Mohn Sektor A/B
+
+## 2005 Jenter
+* Tirsdager 17:00 - 18:30 Myrane Sektor A/B
+* Torsdager 17:00 - 18:30 Myrane Sektor A/B
+
+## 2005 Jenter Skogmus
+* Fredager 17:00 - 18:00 Mohn Sektor A
+
+## 2006 Gutter Cobra
+* Tirsdager 18:00 - 19:00 Mohn Sektor A/B
+* Torsdager 18:00 - 19:00 Mohn Sektor B
+* Fredager 18:00 - 19:00 Mohn Sektor A/B
+
+## 2006 Gutter Gaupe
+* Tirsdager 17:00 - 18:00 Mohn Sektor A
+
+## 2006 Gutter Puma
+* Torsdager 18:00 - 19:00 Mohn Sektor A
+
+## 2006 Jenter Pegasus
+* Mandager 18:00 - 19:00 Mohn Sektor A/B
+* Torsdager 17:00 - 18:00 Mohn Sektor A/B
+
+## 2007 Gutter Gepard
+* Onsdager 17:00 - 18:00 Mohn Sektor B
+
+## 2007 Gutter Hai
+* Onsdager 17:00 - 18:00 Mohn Sektor A
+
+## 2007 Gutter Jaguar
+* Tirsdager 17:00 - 18:00 Mohn Sektor B
+
+## 2007 Gutter Leopard
+* Mandager 17:00 - 18:00 Mohn Sektor B
+
+## 2007 Jenter Røyskatt
+* Mandager 17:00 - 18:00 Mohn Sektor A
+
+## AFK Stjernelaget
+* Onsdager 18:00 - 19:00 Mohn Sektor A/B
+
+
+## Ledig tid 
+* Mandager 15:30 - 17:00 Myrane Sektor A/B/C/D
+* Mandager 16:00 - 17:00 Mohn Sektor A/B
+
+* Tirsdager 15:30 - 17:00 Myrane Sektor A/B/C/D
+* Tirsdager 16:00 - 17:00 Mohn Sektor A/B
+
+* Onsdager 15:30 - 17:00 Myrane Sektor A/B/C/D
+
+* Torsdager 15:30 - 17:00 Myrane Sektor A/B/C/D
+* Torsdager 16:00 - 17:00 Mohn Sektor A/B
+
+* Fredager 15:30 - 17:00 Myrane Sektor A/B/C/D
+* Fredager 16:00 - 17:00 Mohn Sektor A/B
+* Fredager 17:00 - 18:30 Myrane Sektor C/D
+* Fredager 17:00 - 18:00 Mohn Sektor B
+* Fredager 18:30 - 20:00 Myrane Sektor C/D
+* Fredager 19:00 - 20:00 Mohn Sektor A/B
+* Fredager 20:00 - 21:30 Myrane Sektor A/B/C/D
+
+* Søndager 16:00 - 17:00 Mohn Sektor A/B
+* Søndager 17:00 - 18:30 Myrane Sektor A/B/C/D
+* Søndager 17:00 - 18:00 Mohn Sektor A/B
+* Søndager 18:00 - 19:00 Mohn Sektor A/B
+* Søndager 19:00 - 20:00 Mohn Sektor A/B
+* Søndager 20:00 - 21:30 Myrane Sektor A/B/C/D
+
+
+Lykke til med treningen i vinter!!!
+
+Sportslig hilsen
+
+Kjetil Sørtun
