@@ -1,5 +1,5 @@
 ---
-title: Treningstider Vinteren 2015/2016
+title: Treningstider vinteren 2015/2016
 layout: page
 ---
 
