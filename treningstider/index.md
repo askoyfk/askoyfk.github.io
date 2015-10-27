@@ -60,7 +60,7 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 * Tirsdager 17:00 - 18:30 Myrane Sektor C/D
 * Onsdager 17:00 - 18:30 Myrane Sektor C/D
 * Onsdager 20: 00 - 21:00 Mohn Sektor A/B
-* Torsdgaer 17:00 - 18:30 Myrane Sektor C/D
+* Torsdager 17:00 - 18:30 Myrane Sektor C/D
 
 ## 2004 Jenter
 * Mandager 17:00 - 18:30 Myrane Sektor B
