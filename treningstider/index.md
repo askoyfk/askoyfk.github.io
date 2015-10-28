@@ -96,6 +96,9 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 * Mandager 18:00 - 19:00 Mohn Sektor A/B
 * Torsdager 17:00 - 18:00 Mohn Sektor A/B
 
+### 2007 Gutter Tiger
+* Torsdag 18:00 - 19:00 Mohn Sektor A
+
 ## 2007 Gutter Gepard
 * Onsdager 17:00 - 18:00 Mohn Sektor B
 
