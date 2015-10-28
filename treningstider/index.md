@@ -64,7 +64,7 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 
 ## 2004 Jenter
 * Mandager 17:00 - 18:30 Myrane Sektor B
-* Onsdager 18:00 - 17:00 Mohn Sektor A/B
+* Onsdager 16:00 - 17:00 Mohn Sektor A/B
 
 ## 2005 Gutter Mår/Mink
 * Mandager 19:00 - 20:30 Mohn Sektor A/B
@@ -74,11 +74,14 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 * Tirsdager 19:00 - 20:00 Mohn Sektor A/B
 * Torsdager 19:00 - 20:00 Mohn Sektor A/B
 
-## 2005 Jenter
+## 2005 Jenter Marihøne
 * Tirsdager 17:00 - 18:30 Myrane Sektor A/B
+* Onsdager 17:00 - 18:30 Myrane Sektor D
 * Torsdager 17:00 - 18:30 Myrane Sektor A/B
 
 ## 2005 Jenter Skogmus
+* Mandager 15:30 - 18:00 Myrane Sektor A/B
+* Onsdager 17:00 - 18:30 Myrane Sektor C
 * Fredager 17:00 - 18:00 Mohn Sektor A
 
 ## 2006 Gutter Cobra
@@ -97,7 +100,9 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 * Torsdager 17:00 - 18:00 Mohn Sektor A/B
 
 ### 2007 Gutter Tiger
-* Torsdag 18:00 - 19:00 Mohn Sektor A
+* Tirsdager 17:00 - 18:30 Myrane Sektor C
+* Torsdager 18:00 - 19:00 Mohn Sektor A
+* Søndager 17:00 - 18:00 Mohn Sektor A/B
 
 ## 2007 Gutter Gepard
 * Onsdager 17:00 - 18:00 Mohn Sektor B
@@ -119,16 +124,16 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 
 
 ## Ledig tid 
-* Mandager 15:30 - 17:00 Myrane Sektor A/B/C/D
+* Mandager 15:30 - 17:00 Myrane Sektor C/D
 * Mandager 16:00 - 17:00 Mohn Sektor A/B
 
 * Tirsdager 15:30 - 17:00 Myrane Sektor A/B/C/D
-* Tirsdager 16:00 - 17:00 Mohn Sektor A/B
+* Tirsdager 16:00 - 17:00 Mohn Sektor A/B/D
 
 * Onsdager 15:30 - 17:00 Myrane Sektor A/B/C/D
 
 * Torsdager 15:30 - 17:00 Myrane Sektor A/B/C/D
-* Torsdager 16:00 - 17:00 Mohn Sektor A/B
+* Torsdager 16:00 - 17:00 Mohn Sektor A/B/C
 
 * Fredager 15:30 - 17:00 Myrane Sektor A/B/C/D
 * Fredager 16:00 - 17:00 Mohn Sektor A/B
@@ -140,7 +145,6 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 
 * Søndager 16:00 - 17:00 Mohn Sektor A/B
 * Søndager 17:00 - 18:30 Myrane Sektor A/B/C/D
-* Søndager 17:00 - 18:00 Mohn Sektor A/B
 * Søndager 18:00 - 19:00 Mohn Sektor A/B
 * Søndager 19:00 - 20:00 Mohn Sektor A/B
 * Søndager 20:00 - 21:30 Myrane Sektor A/B/C/D
