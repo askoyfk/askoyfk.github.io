@@ -42,6 +42,8 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 
 ## G14 Gutter (2002)
 * Onsdager 18:30 - 20:00 Myrane Sektor A/B
+* Fredager 15:30 - 17:00 Myrane Sektor A/B
+
 
 ## J14 Jenter (2002)
 * Mandager 17:00 - 18:30 Myrane Sektor C
@@ -135,7 +137,7 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 * Torsdager 15:30 - 17:00 Myrane Sektor A/B/C/D
 * Torsdager 16:00 - 17:00 Mohn Sektor A/B/C
 
-* Fredager 15:30 - 17:00 Myrane Sektor A/B/C/D
+* Fredager 15:30 - 17:00 Myrane Sektor C/D
 * Fredager 16:00 - 17:00 Mohn Sektor A/B
 * Fredager 17:00 - 18:30 Myrane Sektor C/D
 * Fredager 17:00 - 18:00 Mohn Sektor B
