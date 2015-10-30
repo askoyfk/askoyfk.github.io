@@ -40,6 +40,14 @@ Vi tror dette vil være interessant for mange trenere på alle nivåer i klubben
 
 Vi har ca 30 plasser til hver gang, så det er første mann/kvinne til mølla. 
 
-Påmelding skjer med å sende en e-post til kjetil.sortun@askoyfk.no med tittel "påmelding forelesning fysisk trening" og med info om hvem du er, hvilket lag du trener rundt og hvilken dag du kommer. Blir den ene dagen full, flytter vi til den andre dagen. 
-Blir begge dagene helt full, finner vi en løsning.
+Påmelding skjer med å sende en e-post til *kjetil.sortun@askoyfk.no* med tittel "Påmelding forelesning fysisk trening" og med info om hvem du er, hvilket lag du trener rundt og hvilken dag du kommer. Vi tar løpende påmelding.
+
+Blir den ene dagen full, flytter vi til den andre dagen. Blir begge dagene helt full, finner vi en løsning.
+
+Sportslig hilsen
+
+Kjetil Sørtun
+
+
+
 
