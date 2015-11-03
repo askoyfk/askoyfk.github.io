@@ -120,6 +120,10 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 ### 2007 Jenter Røyskatt
 * Mandager 17:00 - 18:00 Mohn Sektor A
 
+### AFK Veteran
+* Tirsdgaer 20:00 - 21:30 Mohn Sektor A/B
+* Søndager 20:00 - 21:30 Mohn Sektor A/B
+
 ### AFK Stjernelaget
 * Onsdager 18:00 - 19:00 Mohn Sektor A/B
 
