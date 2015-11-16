@@ -98,7 +98,7 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 
 ### 2006 Jenter Pegasus
 * Mandager 18:00 - 19:00 Mohn Sektor A/B
-* Torsdager 17:00 - 18:00 Mohn Sektor A/B
+* Torsdager 17:00 - 18:00 Mohn Sektor A/B (Ledig frem til 31.12.2015)
 
 ### 2007 Gutter Tiger
 * Tirsdager 17:00 - 18:30 Myrane Sektor C
