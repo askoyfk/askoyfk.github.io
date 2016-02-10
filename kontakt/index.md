@@ -18,9 +18,9 @@ Leder
 : <frodefjell@live.no>
 
 Nestleder
-: Silje Guleng
-: 907 81 880
-: <silje@guleng.no>
+: Anne Grete Nilsen
+: 926 89 109
+: <age3011@hotmail.com>
 
 Styremedlem
 : Arild Hjelle
@@ -33,11 +33,6 @@ Styremedlem
 : <kjetil.sortun@gmail.com>
 
 Styremedlem
-: Anne Grete Nilsen
-: 926 89 109
-: <age3011@hotmail.com>
-
-Varamedlem
 : Trond Marøy
 : 977 18 505
 : <trond.maroy@tts-ohe.com>
