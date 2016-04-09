@@ -9,7 +9,7 @@ Barnefotballen
 
 Klubben har over 50 barnelag fra 1-7 klasse. Breddefotballen er basert på: flest mulig – lengst mulig, og det legges vekt på vennskap og idrettsglede.
 
-<a class="button" href="/lag/barn/">Alle barnelagene</a>
+<!-- <a class="button" href="/lag/barn/">Alle barnelagene</a> -->
 
 
 Ungdomsfotballen
@@ -23,7 +23,7 @@ Vi har også mange aktive ungdommere og trenere i [Talent Askøy][] som er et t
 [Sognefjordcup]: http://www.sognefjord.no/no/Produkt/?TLp=551148
 [Talent Askøy]: http://talentaskoy.no
 
-<a class="button" href="/lag/ungdom/">Alle ungdomslagene</a>
+<!-- <a class="button" href="/lag/ungdom/">Alle ungdomslagene</a> -->
 
 Junior og seniorlag
 -------------------
@@ -32,7 +32,7 @@ Askøy fotballklubb har svært gode ungdommer på vei opp i seniorfotballen. Se
 
 I dag er seniorlaget i 5. divisjon. Klubben tar sikte på å rykke opp men vil legge mest vekt på at disse unge spilleren får utvikle sine fotballferdigheter.
 
-<a class="button" href="/lag/senior/">Senior og veteranlagene</a>
+<!-- <a class="button" href="/lag/senior/">Senior og veteranlagene</a> -->
 
 Junior og senior damer
 -----------------------
@@ -46,7 +46,7 @@ For tiden er det 80 aktive jenter/damer i klubben.
 
 [Askøy Sportsklubb]: http://www.facebook.com/askoysportsklubb
 
-<a class="button" href="http://www.facebook.com/askoysportsklubb">Askøy Sportsklubb</a>
+<!-- <a class="button" href="http://www.facebook.com/askoysportsklubb">Askøy Sportsklubb</a> -->
 
 
 Stjernelag
@@ -54,7 +54,7 @@ Stjernelag
 
 Askøy Stjerne er AFK sitt lag for funksjonshemmede som spiller i Stjerneserien i Hordaland.
 
-<a class="button" href="/lag/stjerne/">Stjernelaget</a>
+<!-- <a class="button" href="/lag/stjerne/">Stjernelaget</a> -->
 
 <!--
 
