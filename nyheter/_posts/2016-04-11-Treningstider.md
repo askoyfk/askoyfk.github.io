@@ -1,5 +1,5 @@
 ---
-title: Treningstider fremover på myrane
+title: Nye treningstider fremover på myrane
 layout: page
 ---
 
