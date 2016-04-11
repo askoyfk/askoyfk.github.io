@@ -13,11 +13,12 @@ Dette er helt spesielt i 2016 og går alt etter planen vil 2017 gi mulighet for 
 Viktig at alle er med på at også treningene blir "en god opplevelse" og at vi viser hensyn til alle uavhengig av alder, nivå og kjønn. 
 Alle er like viktig for AFK.
 
-Sommertidene starter opp fra og med mandag 18.04. Denne uken går treningen iht vintertidene mandag-onsdag. Torsdag er det treningsfri på myrane banen pga kampavvikling
-Nye treningstider er gjennomgått med de fleste lagene og vi jobber med å legge siste fordelingen. De vil bli lagt ut fortløpende denne uken så snart de er helt klar
+Sommertidene starter opp fra og med mandag 18.04. Denne uken går treningen iht vintertidene mandag-onsdag. 
+Torsdag er det treningsfri på myrane banen pga kampavvikling.
+Nye treningstider er gjennomgått med de fleste lagene og vi jobber med å legge siste fordelingen. 
+De vil bli lagt ut fortløpende denne uken så snart de er helt klar.
 
 Med sportslig hilsen 
 
 Kjetil Sørtun
 
-Sportslig Leder AFK
