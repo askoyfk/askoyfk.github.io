@@ -5,23 +5,9 @@ author: Kjetil Sørtun, Sportslig leder
 permalink: /treningstider/
 ---
 
-# Vinteren 2015/2016
+# Sommer 2016
 
-Treningstidene gjelder fra 01.11
-
-## Oppdeling av banene i sektorer 
-* Myrane Sektor A - Nærmest askøyhallen
-* Myrane Sektor B - Nærmest klubbhuset
-* Myrane Sektor C - Nærmest Kleppestø ungdomsskole
-* Myrane Sektor D - Lengst burte fra klubbhuset og ungdomsskolen
-* Mohn Sektor A - Nærmest Kleppestø ungdomsskule
-* Mohn Sektor B - Nærmest Myrane
-
-Hvis du er i tvil, snakker du med de andre som er på treningen...
-
-## Fordeling
-
-Treningstidene gjelder fra 18.04.2016
+Treningstidene er under utarbeidelse men er gjeldende fra 18.04.2016. Hvis dere ikke finner laget på listen, så skal trenere og foreledrekontakter fått informasjon via e-mail. Det er en spesielt komplisert oppgave i år pga redusert tilgang til baner og veldig mage lag. Håper og tror at det er forståelse for dette og at vi jobber med å finne en beste mulig løsning for alle lag i AFK.
 
 ## Oppdeling av banene i sektorer 
 * Myrane Sektor A - Nærmest askøyhallen
@@ -70,7 +56,7 @@ Hvis du er i tvil, snakker du med de andre som er på treningen...
 ### 2004 Gutter	
 * Onsdager 17:00 - 18:30 Myrane Sektor A/B
 
-*Det kommer oppdateringer*
+*Det kommer oppdateringer så snart det er avklart*
 
 Lykke til med treningen i vinter!!!
 
