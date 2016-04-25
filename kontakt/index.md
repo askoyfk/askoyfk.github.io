@@ -23,11 +23,6 @@ Nestleder
 : <age3011@hotmail.com>
 
 Styremedlem
-: Arild Hjelle
-: 402 40 809
-: <arildhje@online.no>
-
-Styremedlem
 : Kjetil Sørtun
 : 907 89 004
 : <kjetil.sortun@gmail.com>
@@ -37,7 +32,22 @@ Styremedlem
 : 977 18 505
 : <trond.maroy@tts-ohe.com>
 
-Varamedlem
+Styremedlem
 : Ole Martin Aabrek Næss
 : 944 81 996
-: <chelsea-ole@hotmail.com> 
+: <ole-nass@outlook.com>
+
+Styremedlem
+: Helen Haugland Nynes
+: 902 76 977
+: <helen.haugland@hotmail.com>
+
+Varamedlem
+: John Synnevåg
+: 934 46 983
+: <josin@online.no>
+
+Varamedlem
+: Lene Haug
+: 476 46 193
+: <haug.lene@gmail.com>
