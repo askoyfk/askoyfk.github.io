@@ -6,7 +6,7 @@ permalink: /kontakt/
 
 Besøk oss i klubbhuset på Søre Myrane 8, 5300 Kleppestø.
 
-Kontoret betjenes av **Torill Vindenes**, <span class="nowrap">tlf:  917 45 451,</span> <span class="nowrap">epost: <post@askoyfk.no>,</span> og er åpent mandag, onsdag og fredag fra 8.30 til 16.00 og tirsdag fra 12 til 19.30.
+Kontoret betjenes av **Torill Vindenes**, <span class="nowrap">tlf:  917 45 451,</span> <span class="nowrap">epost: <post@askoyfk.no>,</span> og er åpent mandag, torsdag og fredag fra 8.30 til 16.00 og tirsdag fra 12 til 19.30.
 
 
 Styrets medlemmer
