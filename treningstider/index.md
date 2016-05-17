@@ -5,7 +5,7 @@ author: Kjetil Sørtun, Sportslig leder
 permalink: /treningstider/
 ---
 
-# Sommer 2016 (under oppdatering)
+# Sommer 2016
 (oppdatert 16.05.2016)
 
 Treningstidene er under utarbeidelse men er gjeldende fra 18.04.2016. Hvis dere ikke finner laget på listen, så skal trenere og foreledrekontakter fått informasjon via e-mail. Det er en spesielt komplisert oppgave i år pga redusert tilgang til baner og veldig mage lag. Håper og tror at det er forståelse for dette og at vi jobber med å finne en beste mulig løsning for alle lag i AFK.
